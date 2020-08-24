@@ -1,0 +1,37 @@
+<section class="page__reactions">
+  {% if site.repository and site.staticman.branch %}
+  {% capture loc %}{{ page.slug }}-{{ page.date | date: "%m" }}{{ page.date | date: "%d" }}{{ page.date | date: "%y" }}{% endcapture %}
+    {% if site.data.comments[loc] %}
+      <!-- Start static comments -->
+      <div id="comments" class="js-comments">
+        <h4 class="page__section-label">
+          {% if site.data.comments[loc].size > 0 %}
+            {{ site.data.comments[loc] | size }}
+          {% endif %}
+          Reviews
+        </h4>
+        <hr>
+        <div class="row">
+        {% for comment in site.data.comments[loc] %}
+            <p>
+              <h4>{{ comment[1].name }}</h4>
+            </p>
+            <p>
+              <i>{{ comment[1].date | date: '%B %d, %Y' }}</i>
+            </p>
+            <p>
+              {{ comment[1].message }}
+            </p>
+            <hr>
+        {% endfor %}
+        </div>
+      </div>
+      <!-- End static comments -->
+    {% endif %}
+
+    {% unless page.comments_locked == true %}
+      <!-- Start new comment form -->
+    <p></p>
+
+
+</section>
