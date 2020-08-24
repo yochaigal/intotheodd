@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+<meta charset='utf-8' />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<meta name="description" content="Into The Odd Content." />
+
+<title>Into The Odd</title>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+<script src="list.js"></script>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+
+    <body>
+
+    <div class="container">
+
+  <div class="starter-template row">
+    <h1>List of Into The Odd Content</h1>
+    <p class="lead">1 content and counting. </p>
+    <p> Items are just <a href="https://github.com/yochaigal/intotheodd/tree/gh-pages/_posts">posts</a>. Type to search. Click on row headers to sort. <br /> See a <a href="output.json">JSON representation</a> of the data below.</p>
+    <p>To open an issue (including adding a missing intotheodd) or just get in touch, visit the repo <a href="https://github.com/yochaigal/intotheodd/tree/gh-pages">here</a>.</small></p>
+  </div>
+
+
+<div id="entry-list">
+
+<div class="row" style="margin-bottom:10px;">
+		<input type="text" class="search form-control" placeholder="Search" />
+</div>
+
+<div class="row">
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th style="width:5%;"><span class="sort" data-sort="link">Link</span></th>
+						<th style="width:15%;"><span class="sort" data-sort="intotheodd-name">Name</span></th>
+			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
+			<!--<th style="width:5%;"><span class="sort" data-sort="license">License</span></th>-->
+			<th style="width:10%;"><span class="sort" data-sort="cost">Cost</span></th>
+			<th style="width:15%;"><span class="sort" data-sort="author">Author</span></th>
+			<th style="width:25%;"><span class="sort" data-sort="description">Description</span></th>
+			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
+			<th style="width:10%;"><span class="sort" data-sort="review-count">#</span></th>
+		</tr>
+	</thead>
+	<tbody class="list">
+	
+	
+		<tr>
+			<td class="link">
+	
+ 		 </td>
+			<td class="intotheodd-name">
+   <a href="/alzabo-082420">
+        
+      
+      
+      Alzabo 
+        
+   </a></td>
+			<td class="source">
+				<a href="https://discordapp.com/channels/499193406828838922/499195645131882506/730565162825809940" target="_blank">discord</a></td>
+			<!--<td class="license"><a href="/.html"></a></td>-->
+			<td class="cost"><a href="/.html"></a></td>
+			<td class="author">yochaigal, from Gene Wolfe’s Book of the New Sun</td>
+			<td class="description">12hp, STR 12, 6 DEX, 16 CHA, bite (d6), claw (d8) * Red fur and a bear-like appearance with rows of long teeth and large, sharp claws.</td>
+			<td class="category"></td>
+      <td class="review-count">  
+        
+           0
+        </td>
+		</tr>
+	
+	</tbody>
+</table>
+</div>
+
+</div>
+
+<script type="text/javascript">
+var options = {
+  valueNames: ['link','pocketmod','intotheodd-name', 'source', 'cost', 'author', 'description', 'category', 'date-added', 'review-count']
+};
+var entryList = new List('entry-list', options);
+
+var hash = window.location.hash;
+var searchInput = document.querySelector('input.search');
+if(hash.length > 1) {
+  searchInput.value = hash.substr(1);
+  if ("createEvent" in document) {
+    var evt = document.createEvent("HTMLEvents");
+    evt.initEvent("keyup", false, true);
+    searchInput.dispatchEvent(evt);
+  }
+  else {
+    searchInput.fireEvent("onkeyup");
+  }
+}
+searchInput.addEventListener('keyup', function () {
+  window.location.hash = this.value;
+});
+
+</script>
+
+
+<div class="row">
+<p><small>Built with <a href="https://github.com/rypan/jekyll-db">Jekyll-db</a>, using <a href="http://jekyllrb.com/">Jekyll</a> + <a href="http://listjs.com/">ListJS</a> + <a href="http://getbootstrap.com/">Bootstrap</a>.  This repo & readme is <a href="https://github.com/yochaigal/intotheodd/tree/gh-pages">here</a>.</small></p>
+</div>
+
+</div><!-- /.container -->
+
+</div>
+
+
+  </body>
+
+</html>
