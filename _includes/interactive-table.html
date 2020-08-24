@@ -1,0 +1,99 @@
+<div id="entry-list">
+
+<div class="row" style="margin-bottom:10px;">
+		<input type="text" class="search form-control" placeholder="Search" />
+</div>
+
+<div class="row">
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th style="width:5%;"><span class="sort" data-sort="link">Link</span></th>
+			<th style="width:10%;"><span class="sort" data-sort="pocketmod">PocketMod</span></th>
+			<th style="width:15%;"><span class="sort" data-sort="intotheodd-name">intotheodd Name</span></th>
+			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
+			<!--<th style="width:5%;"><span class="sort" data-sort="license">License</span></th>-->
+			<th style="width:10%;"><span class="sort" data-sort="cost">Cost</span></th>
+			<th style="width:15%;"><span class="sort" data-sort="author">Author</span></th>
+			<th style="width:25%;"><span class="sort" data-sort="description">Description</span></th>
+			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
+			<th style="width:10%;"><span class="sort" data-sort="review-count">#</span></th>
+		</tr>
+	</thead>
+	<tbody class="list">
+	{% assign sortedPosts = site.posts | sort: 'title' %}
+	{% for post in sortedPosts %}
+		<tr>
+			<td class="link">
+	{% if post.link %}
+			<a href="{{ post.link }}" target="_blank">
+			<button type="button" class="btn btn-primary">
+				Get <i class="fa fa-external-link"></i>
+			</button>
+			</a>
+			{% endif %}
+ 		 </td>
+			<td class="pocketmod-link">
+  {% if post.pocketmod-link %}
+    	<a href="{{ post.pocketmod-link }}" target="_blank">
+      <button type="button" class="btn btn-primary">
+				Get <i class="fa fa-external-link"></i>
+      </button>
+    	</a>
+  		{% endif %}
+			</td>
+			<td class="intotheodd-name">
+   <a href="{{ site.baseurl }}{{ post.url }}">
+        {% if post.display-title %}
+            {{ post.display-title }}
+        {% else %}
+      {% assign words = post.slug | replace: '-', ' ' | split: ' ' %}
+      {% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
+      {{ titlecase }}
+        {% endif %}
+   </a></td>
+			<td class="source">
+				{% if post.source-url %}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
+			<!--<td class="license"><a href="{{ site.baseurl }}/{{post.license}}.html">{{ post.license }}</a></td>-->
+			<td class="cost"><a href="{{ site.baseurl }}/{{post.cost}}.html">{{ post.cost }}</a></td>
+			<td class="author">{{ post.author | join: ", " }}</td>
+			<td class="description">{{ post.excerpt | truncate: 200 }}</td>
+			<td class="category">{% for cat in post.categories %}<a href="{{ site.baseurl }}/{{ cat | replace: ' ', '-' }}.html">{{ cat }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</td>
+      <td class="review-count">  {% capture loc %}{{ post.slug }}-{{ post.date | date: "%m" }}{{ post.date | date: "%d" }}{{ post.date | date: "%y" }}{% endcapture %}
+        {% if site.data.comments[loc].size > 0 %}
+          {{ site.data.comments[loc] | size }}
+        {% else %}
+           0
+        {% endif %}</td>
+		</tr>
+	{% endfor %}
+	</tbody>
+</table>
+</div>
+
+</div>
+
+<script type="text/javascript">
+var options = {
+  valueNames: ['link','pocketmod','intotheodd-name', 'source', 'cost', 'author', 'description', 'category', 'date-added', 'review-count']
+};
+var entryList = new List('entry-list', options);
+
+var hash = window.location.hash;
+var searchInput = document.querySelector('input.search');
+if(hash.length > 1) {
+  searchInput.value = hash.substr(1);
+  if ("createEvent" in document) {
+    var evt = document.createEvent("HTMLEvents");
+    evt.initEvent("keyup", false, true);
+    searchInput.dispatchEvent(evt);
+  }
+  else {
+    searchInput.fireEvent("onkeyup");
+  }
+}
+searchInput.addEventListener('keyup', function () {
+  window.location.hash = this.value;
+});
+
+</script>

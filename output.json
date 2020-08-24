@@ -1,0 +1,17 @@
+---
+layout: none
+---
+[{% for post in site.posts %}{
+	"intotheodd-name": "{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}",
+	"source": "{{post.source}}",
+	"source-url": "{{post.source-url}}",
+	"license": "{{post.license}}",
+	"cost": "{{post.cost}}",
+	"author": "{{post.author}}",
+	"description": "{{post.excerpt}}",
+	"content": "{{post.content}}",
+	"link": "{{post.link}}",
+	"pocketmod-link": "{{post.pocketmod-link}}",
+	"tags": "{{ post.tags | array_to_sentence_string }}",
+	"categories": "{{post.categories}}"
+}{% if forloop.rindex0 > 0 %},{% endif %}{% endfor %}]
