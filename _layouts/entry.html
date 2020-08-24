@@ -10,7 +10,8 @@ layout: default
         <header class="post-header">
           <h2 class="post-title"><a href="{{ page.link }}" target="_blank">{% assign words = page.slug | replace: '-', ' ' | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}</a></h2>
           <h4><a href="">{% if page.source-url %}<a href="{{ page.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</a></h4>
-          <h5 class="post-tags">{{ page.categories | join: ", " }} | {{ page.tags | join: ", " }} | <a href="{{ site.baseurl }}/{{page.license}}.html">{{ page.license }}</a></h5>
+          <h5 class="post-tags">{{ page.categories | join: ", " }} <a href="{{ site.baseurl }}/{{page.license}}.html">{{ page.license }}</a></h5>
+          <!-- <h5 class="post-tags">{{ page.categories | join: ", " }} | {{ page.tags | join: ", " }} | <a href="{{ site.baseurl }}/{{page.license}}.html">{{ page.license }}</a></h5> -->
         </header>
 
         <p class="post-description"><i>{{ page.excerpt | truncate: 2000 }}</i></p>
