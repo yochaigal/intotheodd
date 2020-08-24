@@ -16,7 +16,7 @@
 			<th style="width:15%;"><span class="sort" data-sort="author">Author</span></th>
 			<th style="width:25%;"><span class="sort" data-sort="description">Description</span></th>
 			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
-			<th style="width:10%;"><span class="sort" data-sort="review-count">#</span></th>
+	<!--		<th style="width:10%;"><span class="sort" data-sort="review-count">#</span></th> -->
 		</tr>
 	</thead>
 	<tbody class="list">
@@ -47,14 +47,8 @@
 			<!--<td class="license"><a href="{{ site.baseurl }}/{{post.license}}.html">{{ post.license }}</a></td>-->
 			<td class="cost"><a href="{{ site.baseurl }}/{{post.cost}}.html">{{ post.cost }}</a></td>
 			<td class="author">{{ post.author | join: ", " }}</td>
-			<td class="description">{{ post.excerpt | truncate: 2000 }}</td>
+			<td class="description">{{ post.excerpt | truncate: 200 }}</td>
 			<td class="category">{% for cat in post.categories %}<a href="{{ site.baseurl }}/{{ cat | replace: ' ', '-' }}.html">{{ cat }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</td>
-      <td class="review-count">  {% capture loc %}{{ post.slug }}-{{ post.date | date: "%m" }}{{ post.date | date: "%d" }}{{ post.date | date: "%y" }}{% endcapture %}
-        {% if site.data.comments[loc].size > 0 %}
-          {{ site.data.comments[loc] | size }}
-        {% else %}
-           0
-        {% endif %}</td>
 		</tr>
 	{% endfor %}
 	</tbody>
