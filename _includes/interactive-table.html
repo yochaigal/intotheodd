@@ -9,8 +9,7 @@
 	<thead>
 		<tr>
 			<th style="width:5%;"><span class="sort" data-sort="link">Link</span></th>
-			<th style="width:10%;"><span class="sort" data-sort="pocketmod">PocketMod</span></th>
-			<th style="width:15%;"><span class="sort" data-sort="intotheodd-name">intotheodd Name</span></th>
+						<th style="width:15%;"><span class="sort" data-sort="intotheodd-name">intotheodd Name</span></th>
 			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
 			<!--<th style="width:5%;"><span class="sort" data-sort="license">License</span></th>-->
 			<th style="width:10%;"><span class="sort" data-sort="cost">Cost</span></th>
@@ -33,15 +32,6 @@
 			</a>
 			{% endif %}
  		 </td>
-			<td class="pocketmod-link">
-  {% if post.pocketmod-link %}
-    	<a href="{{ post.pocketmod-link }}" target="_blank">
-      <button type="button" class="btn btn-primary">
-				Get <i class="fa fa-external-link"></i>
-      </button>
-    	</a>
-  		{% endif %}
-			</td>
 			<td class="intotheodd-name">
    <a href="{{ site.baseurl }}{{ post.url }}">
         {% if post.display-title %}
