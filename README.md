@@ -23,7 +23,7 @@ Example format below. Copy and paste the change for the content you're submittin
 layout: entry
 link: http://www.content.url
 author: ['Jane Doe', 'John Smith']
-source: Where you Fond it
+source: Where you Found it
 source-url: http://into-the-odd-content.url
 
 excerpt: Put the description of the content here. Keep it short; no more than 200 characters
