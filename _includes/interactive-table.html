@@ -8,8 +8,8 @@
 <table class="table table-striped">
 	<thead>
 		<tr>
-			<th style="width:5%;"><span class="sort" data-sort="link">Link</span></th>
-						<th style="width:15%;"><span class="sort" data-sort="name">Name</span></th>
+			<!--<th style="width:5%;"><span class="sort" data-sort="link">Link</span></th>-->
+			<th style="width:15%;"><span class="sort" data-sort="name">Name</span></th>
 			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
 			<!--<th style="width:5%;"><span class="sort" data-sort="license">License</span></th>-->
 			<th style="width:10%;"><span class="sort" data-sort="cost">Cost</span></th>
@@ -23,15 +23,6 @@
 	{% assign sortedPosts = site.posts | sort: 'title' %}
 	{% for post in sortedPosts %}
 		<tr>
-			<td class="link">
-	{% if post.link %}
-			<a href="{{ post.link }}" target="_blank">
-			<button type="button" class="btn btn-primary">
-				Get <i class="fa fa-external-link"></i>
-			</button>
-			</a>
-			{% endif %}
- 		 </td>
 			<td class="name">
    <a href="{{ site.baseurl }}{{ post.url }}">
         {% if post.display-title %}
