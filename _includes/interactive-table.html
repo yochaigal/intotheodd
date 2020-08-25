@@ -9,7 +9,7 @@
 	<thead>
 		<tr>
 			<th style="width:5%;"><span class="sort" data-sort="link">Link</span></th>
-						<th style="width:15%;"><span class="sort" data-sort="intotheodd-name">Name</span></th>
+						<th style="width:15%;"><span class="sort" data-sort="name">Name</span></th>
 			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
 			<!--<th style="width:5%;"><span class="sort" data-sort="license">License</span></th>-->
 			<th style="width:10%;"><span class="sort" data-sort="cost">Cost</span></th>
@@ -32,7 +32,7 @@
 			</a>
 			{% endif %}
  		 </td>
-			<td class="intotheodd-name">
+			<td class="name">
    <a href="{{ site.baseurl }}{{ post.url }}">
         {% if post.display-title %}
             {{ post.display-title }}
@@ -59,7 +59,7 @@
 
 <script type="text/javascript">
 var options = {
-  valueNames: ['link','intotheodd-name', 'source', 'cost', 'author', 'description', 'category', 'date-added', 'review-count']
+  valueNames: ['link','name', 'source', 'cost', 'author', 'description', 'category', 'date-added', 'review-count']
 };
 var entryList = new List('entry-list', options);
 

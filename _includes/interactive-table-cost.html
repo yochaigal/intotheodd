@@ -9,7 +9,7 @@
 	<thead>
 		<tr>
 			<th style="width:5%;"><span class="sort" data-sort="link">Link</span></th>
-			<th style="width:15%;"><span class="sort" data-sort="intotheodd-name">intotheodd</span></th>
+			<th style="width:15%;"><span class="sort" data-sort="name">Name</span></th>
 			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
 			<!--<th style="width:5%;"><span class="sort" data-sort="license">License</span></th>-->
 			<th style="width:10%;"><span class="sort" data-sort="cost">Cost</span></th>
@@ -27,7 +27,7 @@
 	  {% if page.cost == post.cost %}
 		<tr>
 			<td class="link"><a href="{{ post.link }}" target="_blank"><button type="button" class="btn btn-primary">Get <i class="fa fa-external-link"></i></button></a></td>
-			<td class="intotheodd-name"><a href="{{ site.baseurl }}{{ post.url }}">
+			<td class="name"><a href="{{ site.baseurl }}{{ post.url }}">
 				{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}
 				{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
 				{{ titlecase }}
