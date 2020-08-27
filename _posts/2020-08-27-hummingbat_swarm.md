@@ -1,6 +1,6 @@
 ---
 layout: entry 
-name: Hummingbat Swarm
+categories: monsters
 stats: 5 HP,  5 STR, 15 DEX, scratch (d4), detachment
 subtext1: " • Moves rapidly on its fluttering wings and always acts first."
 subtext2: " • Blind but uses echolocation and has perfect hearing."

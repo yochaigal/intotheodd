@@ -1,6 +1,6 @@
 ---
 layout: entry 
-name: Furious Floating Book
+categories: monsters
 stats: 3 HP, 11 DEX, book slam (d6)
 subtext1: " • Floats; outer layer made of metal. Critical Damage: re-roll your CHA as forbidden knowledge is literally hammered into your head."
 subtext2: 

@@ -1,6 +1,6 @@
 ---
 layout: entry 
-name: Meat-Trap Sunflower
+categories: monsters
 stats: 4 HP, suffocation (d4)
 subtext1: " • Human-sized lush sunflower that grows in batches."
 subtext2: " • Can reach out to unsuspecting passersby to swallow them whole."

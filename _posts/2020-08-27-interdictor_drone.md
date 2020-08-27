@@ -1,6 +1,6 @@
 ---
 layout: entry 
-name: Interdictor Drone
+categories: monsters
 stats: 2 HP,  3 STR
 subtext1: " • Hovering silver cube the size of a toaster with a large central green oculus."
 subtext2: " • Stares at anything moving in its territory (becoming immoble); radiates a bright green beam at its target."

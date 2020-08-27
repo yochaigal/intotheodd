@@ -1,6 +1,6 @@
 ---
 layout: entry 
-name: Dust Elementals
+categories: monsters
 stats: 10 HP, 15 DEX, desiccating touch (d8)
 subtext1: " • Can seep through any crack or gap."
 subtext2: " • Immune to most mundane attacks. Highly sensitive to anything that removes dust."

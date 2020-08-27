@@ -1,6 +1,6 @@
 ---
 layout: entry 
-name: Water Bear
+categories: monsters
 stats: 15 HP, 3 Armor, 3 DEX, bite (d6)
 subtext1: " • GenMod creature comprised of a mix of Ursine DNA and Tardigrade DNA"
 subtext2: " • Water Lover: Water Bears must be wet at all times. When dried out they lose their Armor and all attacks against them are Enhanced. Any 'Dry' Water Bear will attempt to make its way to the nearest body of water regardless of what is going on."

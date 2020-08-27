@@ -1,6 +1,6 @@
 ---
 layout: entry 
-name: Amphibian Overlords
+categories: monsters
 stats: 3 HP Overpriced revolver (d8)
 subtext1: " • Half-human, half-coral, each one bears a distinct coral body part, they speak with the accent of your country’s richer regions."
 subtext2: " • Corporate overlords competing with bizarre marketing ploys to lure desperate workers into inescapable factories."

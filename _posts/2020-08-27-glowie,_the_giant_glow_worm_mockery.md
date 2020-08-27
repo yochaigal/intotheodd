@@ -1,6 +1,6 @@
 ---
 layout: entry 
-name: Glowie, the Giant Glow Worm Mockery
+categories: monsters
 stats: 20 HP, 3 Armor, 18 STR, rolling death (d12, Blast), detachment
 subtext1: " • Look and acts disgustingly cute"
 subtext2: " • Follow a pet George everywhere"
