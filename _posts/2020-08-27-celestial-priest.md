@@ -1,5 +1,6 @@
 ---
 layout: entry
+name: Celestial Priest
 author: yochaigal
 source: twitter
 source-url: https://twitter.com/yochaigal1/status/1297989454347501576?s=20
