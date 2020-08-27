@@ -1,6 +1,6 @@
 ---
 layout: entry 
-categories: monsters
+name: Sand Golem
 stats: 6 HP
 subtext1: " • A walking sandstorm with the face of a man."
 subtext2: " • Made of Sand: Sand Golem is immune to all standard attacks but takes d6 damage per bucket of liquid poured on it. High heat causes it to glass up, freezing it in place until it passes a STR test."

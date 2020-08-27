@@ -1,6 +1,6 @@
 ---
 layout: entry 
-categories: monsters
+name: Pandimensional Pack Alpaca
 stats: 5 HP, headbutt (d4)
 subtext1: " • If cornered Tufted alpaca loaded with some exotic goods from the Living Stars, as well as a beeping gadget."
 subtext2: " • Pops out of nowhere in the most inopportune moment (even during another encounter), runs around, screams, panics and pops out of existence in about a minute."

@@ -1,6 +1,6 @@
 ---
 layout: entry 
-categories: monsters
+name: Collector Slug
 stats: 6 HP,  5 DEX, 15 CHA, bite and grapple (d4)
 subtext1: " • Segmented wooden mock slug with big blue glass eyes, thin moustache and creepy smile."
 subtext2: " • Lures closer with persuasion or menagerie of minions (1 HP) to collect teeth."

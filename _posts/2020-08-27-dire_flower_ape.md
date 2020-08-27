@@ -1,6 +1,6 @@
 ---
 layout: entry 
-categories: monsters
+name: Dire Flower Ape
 stats: 7 HP,  15 STR, 5 CHA, pummel (d6+d6)
 subtext1: " • Huge flower-spotted ape with bony spikes jutting out of it."
 subtext2: " • Spikes are mostly useless but ape often gets stuck in narrow spaces."

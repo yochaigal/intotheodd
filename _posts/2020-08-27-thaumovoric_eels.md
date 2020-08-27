@@ -1,6 +1,6 @@
 ---
 layout: entry 
-categories: monsters
+name: Thaumovoric Eels
 stats: 8 HP 3 STR, volatile bite (d8)
 subtext1: " • Flourishing in Bastion after the advent of electricity; feeds from any source of energy. If captured, are both a delicacy as well as a valuable industrial component."
 subtext2: " • On critical damage, the target loses 1d4 CHA and is permanently disfigured by discharged energy."

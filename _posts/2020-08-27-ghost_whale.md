@@ -1,6 +1,6 @@
 ---
 layout: entry 
-categories: monsters
+name: Ghost Whale
 stats: 10 HP, 5 DEX
 subtext1: " • Loses substance in the light. Occasionally howls."
 subtext2: " • Unprotected listeners become confused at first, then after extended contact take 2d6 CHA damage."
