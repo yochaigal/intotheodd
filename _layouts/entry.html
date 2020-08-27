@@ -13,8 +13,14 @@ layout: default
           <h5 class="post-source">{{ join: ", " }}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a> </h5>
 
           </header>
-
-        <p class="post-description"><i>{{ page.excerpt | truncate: 2000 }}</i></p>
+          <p class="post-stats"><i>{{ page.stats | truncate: 200 }}</i></p>
+          <p class="post-subtext1"><i>{{ page.subtext1 | truncate: 500 }}</i></p>
+          <p class="post-subtext2"><i>{{ page.subtext2 | truncate: 500 }}</i></p>
+          <p class="post-subtext3"><i>{{ page.subtext3 | truncate: 500 }}</i></p>
+          <p class="post-subtext4"><i>{{ page.subtext4 | truncate: 500 }}</i></p>
+          <p class="post-inspiration"><i>{{ page.inspiration | truncate: 500 }}</i></p>
+          <p class="post-inspiration-url"><i>{{ page.inspiration-url | truncate: 500 }}</i></p>
+         <p class="post-description"><i>{{ page.excerpt | truncate: 2000 }}</i></p>
 
         <article class="post-content">
           {{ content }}
