@@ -1,5 +1,6 @@
 ---
-layout: entry 
+layout: entry
+categories: monsters 
 name: Sand Golem
 stats: 6 HP
 subtext1: " • A walking sandstorm with the face of a man."

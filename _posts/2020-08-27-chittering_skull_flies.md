@@ -1,5 +1,6 @@
 ---
-layout: entry 
+layout: entry
+categories: monsters 
 name: Chittering Skull Flies
 stats: 6 HP, 6 STR, 12 DEX, 3 CHA, bite (d6), Group of d6
 subtext1: " • Fist-sizes adult fly burrows into flesh. Critical damage: lose d6 STR. Builds silk tendons inside of corpses. Can speak through tymbal clicks."

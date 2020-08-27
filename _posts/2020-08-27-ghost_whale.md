@@ -1,5 +1,6 @@
 ---
-layout: entry 
+layout: entry
+categories: monsters 
 name: Ghost Whale
 stats: 10 HP, 5 DEX
 subtext1: " • Loses substance in the light. Occasionally howls."

@@ -1,5 +1,6 @@
 ---
-layout: entry 
+layout: entry
+categories: monsters 
 name: Deep-Coral Colony
 stats: 5 HP, 13 STR, 13 DEX, Lash (d8)
 subtext1: " • Fractal coral colonies branching out into seven arms, breaking apart and regenerating as they move, they don't die, they only shatter into smaller harmless colonies."
