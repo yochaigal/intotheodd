@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: entry 
 name: Meat-Trap Sunflower
 stats: 4 HP, suffocation (d4)
 subtext1: " • Human-sized lush sunflower that grows in batches."

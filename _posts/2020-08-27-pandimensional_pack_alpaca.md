@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: entry 
 name: Pandimensional Pack Alpaca
 stats: 5 HP, headbutt (d4)
 subtext1: " • If cornered Tufted alpaca loaded with some exotic goods from the Living Stars, as well as a beeping gadget."

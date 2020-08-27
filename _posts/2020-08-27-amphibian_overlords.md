@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: entry 
 name: Amphibian Overlords
 stats: 3 HP Overpriced revolver (d8)
 subtext1: " • Half-human, half-coral, each one bears a distinct coral body part, they speak with the accent of your country’s richer regions."

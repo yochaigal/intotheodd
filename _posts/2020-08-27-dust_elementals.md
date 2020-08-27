@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: entry 
 name: Dust Elementals
 stats: 10 HP, 15 DEX, desiccating touch (d8)
 subtext1: " • Can seep through any crack or gap."

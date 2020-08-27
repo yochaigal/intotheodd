@@ -1,5 +1,5 @@
 ---
-layout: county 
+layout: entry 
 name: Quadcrocs
 stats: 6 HP, 1 Armor, 13 STR, Quad-Bite (d8)
 subtext1: " • A crocodile with a second jaw, vertically intersecting with the first."
