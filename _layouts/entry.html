@@ -8,10 +8,10 @@ layout: default
       <div class="col-md-5 col-lg-offset-3">
         <header class="post-header">
           <h2 class="post-title">{% assign words = page.name | replace: '-', ' ' | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}</a></h2>
-          <h4><a href="">{% if page.source-url %}<a href="{{ page.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</a></h4>
+          <!-- <h4><a href="">{% if page.source-url %}<a href="{{ page.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</a></h4> -->
           </header>
 
-          <h3 class="post-stats"><b>{{ page.stats | truncate: 200 }}</b></h3>
+          <h3 class="post-stats"><b>{{ page.stats | truncate: 300 }}</b></h3>
           <h3 class="post-subtext1">{{ page.subtext1 | truncate: 500 }}</h3>
           <h3 class="post-subtext2">{{ page.subtext2 | truncate: 500 }}</h3>
           <h3 class="post-subtext3">{{ page.subtext3 | truncate: 500 }}</h3>
