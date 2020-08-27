@@ -6,12 +6,11 @@ layout: default
 
   <div class="row">
       <div class="col-md-5 col-lg-offset-3">
-
         <header class="post-header">
           <h2 class="post-title">{% assign words = page.slug | replace: '-', ' ' | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}</a></h2>
-          <h4 class="post-category">{{ join: ", " }} <a href="{{ site.baseurl }}/{{page.categories}}.html">{{ page.categories }}</a></h5>
-          <h5 class="post-source">{{ join: ", " }}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a> </h5>
-          <h5 class="post-inspiration">{{ join: ", " }} <a href="{{page.inspiration-url}}">Inspiration Source</a></p> </h5>
+          <h4><a href="">{% if page.source-url %}<a href="{{ page.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</a></h4>
+          <h4 class="post-categories"> <a href="{{ site.baseurl }}/{{page.categories}}.html">{{ page.categories }}</a></h5>
+          <h4 class="post-inspiration"> <a href="{{page.inspiration-url}}">Inspiration Source</a></p> </h4>
 
           </header>
           <p class="post-stats"><i>{{ page.stats | truncate: 200 }}</i></p>
@@ -20,7 +19,6 @@ layout: default
           <p class="post-subtext3"><i>{{ page.subtext3 | truncate: 500 }}</i></p>
           <p class="post-subtext4"><i>{{ page.subtext4 | truncate: 500 }}</i></p>
           <p class="post-description"><i>{{ page.excerpt | truncate: 2000 }}</i></p>
-
         <article class="post-content">
           {{ content }}
         </article>
