@@ -9,8 +9,9 @@ layout: default
 
         <header class="post-header">
           <h2 class="post-title">{% assign words = page.slug | replace: '-', ' ' | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}</a></h2>
-          <h5 class="post-category">{{ join: ", " }} <a href="{{ site.baseurl }}/{{page.categories}}.html">{{ page.categories }}</a></h5>
+          <h4 class="post-category">{{ join: ", " }} <a href="{{ site.baseurl }}/{{page.categories}}.html">{{ page.categories }}</a></h5>
           <h5 class="post-source">{{ join: ", " }}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a> </h5>
+          <h5 class="post-inspiration">{{ join: ", " }} <a href="{{page.inspiration-url}}">Inspiration Source</a></p> </h5>
 
           </header>
           <p class="post-stats"><i>{{ page.stats | truncate: 200 }}</i></p>
@@ -18,8 +19,7 @@ layout: default
           <p class="post-subtext2"><i>{{ page.subtext2 | truncate: 500 }}</i></p>
           <p class="post-subtext3"><i>{{ page.subtext3 | truncate: 500 }}</i></p>
           <p class="post-subtext4"><i>{{ page.subtext4 | truncate: 500 }}</i></p>
-          <p class="post-inspiration">{{ join: ", " }} <a href="{{page.inspiration-url}}">Inspiration Source</a></p>
-         <p class="post-description"><i>{{ page.excerpt | truncate: 2000 }}</i></p>
+          <p class="post-description"><i>{{ page.excerpt | truncate: 2000 }}</i></p>
 
         <article class="post-content">
           {{ content }}
