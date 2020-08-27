@@ -10,9 +10,9 @@ layout: default
           <h2 class="post-title">{% assign words = page.slug | replace: '-', ' ' | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}</a></h2>
           <h4><a href="">{% if page.source-url %}<a href="{{ page.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</a></h4>
           <h4 class="post-categories"> <a href="{{ site.baseurl }}/{{page.categories}}.html">{{ page.categories }}</a></h5>
-          <h4 class="post-inspiration"> <a href="{{page.inspiration-url}}">Inspiration Source</a></p> </h4>
-
+          <h4 class="post-inspiration"> <a href="{{page.inspiration-url}}">inspiration source</a></p> </h4>
           </header>
+
           <p class="post-stats"><i>{{ page.stats | truncate: 200 }}</i></p>
           <p class="post-subtext1"><i>{{ page.subtext1 | truncate: 500 }}</i></p>
           <p class="post-subtext2"><i>{{ page.subtext2 | truncate: 500 }}</i></p>
