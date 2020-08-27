@@ -11,5 +11,5 @@ author: gooscar & twocalf
 inspiration: inspired by this image presented by Alec Sorensen (EB artist)
 inspiration_source: https://cdn.discordapp.com/attachments/663658762741088284/700085011331678258/cqwf9gpaqf311.png
 source: discord
-source_url: https://discordapp.com/channels/499193406828838922/674544134798966806/700112795928100974
+source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/700112795928100974
 ---

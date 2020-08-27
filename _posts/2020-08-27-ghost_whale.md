@@ -11,5 +11,5 @@ author: yochaigal
 inspiration: From Magical Industrial Revolution
 inspiration_source: https://www.exaltedfuneral.com/products/magical-industrial-revolution
 source: discord
-source_url: https://discordapp.com/channels/499193406828838922/663658762741088284/690576913458266192
+source-url: https://discordapp.com/channels/499193406828838922/663658762741088284/690576913458266192
 ---

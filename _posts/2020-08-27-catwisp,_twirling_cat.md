@@ -11,5 +11,5 @@ author: Slater
 inspiration: 
 inspiration_source: 
 source: discord
-source_url: https://discordapp.com/channels/499193406828838922/674544134798966806/701191300657184829
+source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/701191300657184829
 ---

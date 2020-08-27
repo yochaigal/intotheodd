@@ -11,5 +11,5 @@ author: twocalf
 inspiration: 
 inspiration_source: 
 source: discord
-source_url: https://discordapp.com/channels/499193406828838922/674544134798966806/722319134481973298
+source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/722319134481973298
 ---

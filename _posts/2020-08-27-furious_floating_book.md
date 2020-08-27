@@ -11,5 +11,5 @@ author: yochaigal
 inspiration: From The Stygian Library
 inspiration_source: https://www.drivethrurpg.com/product/257113/The-Stygian-Library
 source: discord
-source_url: https://discordapp.com/channels/499193406828838922/499193406828838924/685533964840075309
+source-url: https://discordapp.com/channels/499193406828838922/499193406828838924/685533964840075309
 ---

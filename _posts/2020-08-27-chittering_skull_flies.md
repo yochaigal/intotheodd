@@ -11,5 +11,5 @@ author: yochaigal
 inspiration: From the Bestiarum Geondica
 inspiration_source: https://natetreme.itch.io/bestiarum
 source: discord
-source_url: https://discordapp.com/channels/499193406828838922/499195645131882506/693518743086825562
+source-url: https://discordapp.com/channels/499193406828838922/499195645131882506/693518743086825562
 ---

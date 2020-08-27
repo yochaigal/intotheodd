@@ -30,7 +30,7 @@
         {% if post.display-title %}
             {{ post.display-title }}
         {% else %}
-      {% assign words = post.slug | replace: '-', ' ' | split: ' ' %}
+      {% assign words = post.name | replace: '-', ' ' | split: ' ' %}
       {% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
       {{ titlecase }}
         {% endif %}
