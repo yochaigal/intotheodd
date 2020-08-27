@@ -8,12 +8,3 @@ title: Jekyll-db
 description:
 google_analytics:
 show_downloads: true
-plugins:
-  - pagemaster
-
-collections:
-    monsters:
-    output: true
-    source: monsters.csv
-    id_key: id
-    layout: entry
