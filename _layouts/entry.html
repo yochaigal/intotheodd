@@ -9,8 +9,6 @@ layout: default
         <header class="post-header">
           <h2 class="post-title">{% assign words = page.slug | replace: '-', ' ' | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}</a></h2>
           <h4><a href="">{% if page.source-url %}<a href="{{ page.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</a></h4>
-          <h4 class="post-categories"> <a href="{{ site.baseurl }}/{{page.categories}}.html">{{ page.categories }}</a></h5>
-          <h4 class="post-inspiration"> <a href="{{page.inspiration-url}}">inspiration source</a></p> </h4>
           </header>
 
           <p class="post-stats"><i>{{ page.stats | truncate: 200 }}</i></p>
@@ -23,9 +21,10 @@ layout: default
           {{ content }}
         </article>
 
-        <div class="col-xs-12" style="height:50px;"></div>
-
-        <p><i>Back to the <a href="https://yochaigal.github.io/intotheodd/">main page</a>.</i></p>
+        <div class="col-xs-12" style="height:30px;"></div>
+        <h4 class="post-categories"> <b>category</b>: <a href="{{ site.baseurl }}/{{page.categories}}.html">{{ page.categories }}</a></h5>
+        <h4 class="post-inspiration"> <b>inspiration:</b> <a href="{{page.inspiration-url}}">click here</a></p> </h4>
+        <p><i>Back to the <a href="{{ site.baseurl }}"">main page</a>.</i></p>
 
         <div class="col-xs-12" style="height:50px;"></div>
 
