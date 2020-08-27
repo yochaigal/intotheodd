@@ -16,6 +16,7 @@
 			<th style="width:15%;"><span class="sort" data-sort="author">Author</span></th>
 	<!--		<th style="width:25%;"><span class="sort" data-sort="description">Description</span></th> -->
 	<th style="width:15%;"><span class="sort" data-sort="summary">Summary</span></th>
+	<th style="width:15%;"><span class="sort" data-sort="stats">Stats</span></th>
 			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
 	<!--		<th style="width:10%;"><span class="sort" data-sort="review-count">#</span></th> -->
 		</tr>
@@ -41,6 +42,7 @@
 			<td class="author">{{ post.author | join: ", " }}</td>
 	<!--		<td class="description">{{ post.excerpt | truncate: 200 }}</td> -->
 			<td class="summary">{{ post.summary | truncate: 200 }}</td>
+			<td class="stats">{{ post.stats | truncate: 200 }}</td>
 			<td class="category">{% for cat in post.categories %}<a href="{{ site.baseurl }}/{{ cat | replace: ' ', '-' }}.html">{{ cat }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</td>
 		</tr>
 	{% endfor %}
