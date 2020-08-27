@@ -9,7 +9,7 @@ subtext3: " • Staring at a target grants a bonus +d4 to attacks against them, 
 subtext4: " • 1-in-6 chance that a Specialist can repair a broken Identifier Drone and reprogram it to protect an area."
 author: twocalf
 inspiration: 
-inspiration_source: 
+inspiration_url: 
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/703698712194711553
 ---

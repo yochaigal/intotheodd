@@ -9,7 +9,7 @@ subtext3: " • Upon death, thousands of tiny worms spring out of it and flee in
 subtext4: 
 author: yochaigal
 inspiration: 
-inspiration_source: 
+inspiration_url: 
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/701782404339335168
 ---

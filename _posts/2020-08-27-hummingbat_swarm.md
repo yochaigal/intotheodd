@@ -9,7 +9,7 @@ subtext3: " • Very territorial and won't leave its nesting grounds or chase un
 subtext4: 
 author: Curio
 inspiration: 
-inspiration_source: 
+inspiration_url: 
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/700630310806749234
 ---

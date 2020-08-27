@@ -9,7 +9,7 @@ subtext3: " • Marks you with tire tread. Unless removed, the Vicious Cyclist c
 subtext4: 
 author: AwkwardTurtle
 inspiration: 
-inspiration_source: 
+inspiration_url: 
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/700700727714119721
 ---

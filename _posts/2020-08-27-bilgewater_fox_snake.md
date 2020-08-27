@@ -9,7 +9,7 @@ subtext3: " • Whines pleadingly if rejected"
 subtext4: " • Whisks you off to a Friend Tea Party on Critical Damage."
 author: magnificentophat & voidlight
 inspiration: From You Got a Job on the Garbage Barge
-inspiration_source: https://www.kickstarter.com/projects/garbagebarge/you-got-a-job-on-the-garbage-barge
+inspiration_url: https://www.kickstarter.com/projects/garbagebarge/you-got-a-job-on-the-garbage-barge
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/499195645131882506/690636047478030387
 ---

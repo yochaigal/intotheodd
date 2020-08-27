@@ -9,7 +9,7 @@ subtext3: " • Critical damage from any of Catwisp's attacks result in shredded
 subtext4: 
 author: Slater
 inspiration: 
-inspiration_source: 
+inspiration_url: 
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/701191300657184829
 ---
