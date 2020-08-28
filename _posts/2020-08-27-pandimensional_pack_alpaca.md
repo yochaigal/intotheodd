@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Pandimensional Pack Alpaca
 stats: 5 HP, headbutt (d4)

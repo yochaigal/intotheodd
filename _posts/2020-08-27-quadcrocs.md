@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Quadcrocs
 stats: 6 HP, 1 Armor, 13 STR, Quad-Bite (d8)

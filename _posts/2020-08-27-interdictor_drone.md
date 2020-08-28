@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Interdictor Drone
 stats: 2 HP,  3 STR

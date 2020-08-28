@@ -1,7 +1,7 @@
 ---
 title: Celestial Priest
 layout: entry
-categories:
+category:
 - monsters
 name: Celestial Priest
 author: yochaigal
@@ -16,4 +16,3 @@ subtext3: "• Critical damage: target's body is completely absorbed, fully heal
 inspiration: Andres Rios
 inspiration-url: https://www.artstation.com/artwork/Oo34k8
 ---
-

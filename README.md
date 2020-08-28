@@ -21,7 +21,7 @@ Example format below. Copy and paste the change for the content you're submittin
 ```yaml
 ---
 layout: entry
-categories:
+category:
 - monsters
 link: http://www.content.url
 author: ['Jane Doe', 'John Smith']
@@ -31,7 +31,7 @@ source-url: http://into-the-odd-content.url
 excerpt: Put the description of the content here. Keep it short; no more than 200 characters
  will display.
 
-categories:
+category:
 - category (use an existing category please, otherwise you'll get a not-found)
 
 license: cc-by, cc-by-sa, non-open, unknown

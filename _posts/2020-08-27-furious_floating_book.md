@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters
 name: Furious Floating Book
 stats: 3 HP, 11 DEX, book slam (d6)

@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Sand Golem
 stats: 6 HP

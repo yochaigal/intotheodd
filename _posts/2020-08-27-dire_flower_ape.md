@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Dire Flower Ape
 stats: 7 HP,  15 STR, 5 CHA, pummel (d6+d6)

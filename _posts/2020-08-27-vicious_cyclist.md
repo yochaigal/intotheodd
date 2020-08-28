@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Vicious Cyclist
 stats: 6 HP,  5 STR, 15 DEX, Ride Down (d8)

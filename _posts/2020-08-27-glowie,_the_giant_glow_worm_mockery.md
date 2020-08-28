@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Glowie, the Giant Glow Worm Mockery
 stats: 20 HP, 3 Armor, 18 STR, rolling death (d12, Blast), detachment

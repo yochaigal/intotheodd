@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Catwisp, Twirling Cat
 stats: 3 HP,  4 STR, 14 DEX, 10 CHA, twirling claws (d4), rippling pounce (d8)

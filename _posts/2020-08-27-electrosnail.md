@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Electrosnail
 stats: 3 HP,  2 Armor, 5 STR, 3 DEX, eyestalk zap (d4 ignores Armor)

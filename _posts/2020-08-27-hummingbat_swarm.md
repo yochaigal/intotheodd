@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Hummingbat Swarm
 stats: 5 HP,  5 STR, 15 DEX, scratch (d4), detachment

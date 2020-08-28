@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters
 name: Amphibian Overlords
 stats: 3 HP Overpriced revolver (d8)

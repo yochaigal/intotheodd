@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Worm-Avatar
 stats: 8 HP,  5 DEX, toxic bite (d8)

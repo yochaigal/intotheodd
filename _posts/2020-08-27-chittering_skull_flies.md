@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Chittering Skull Flies
 stats: 6 HP, 6 STR, 12 DEX, 3 CHA, bite (d6), Group of d6

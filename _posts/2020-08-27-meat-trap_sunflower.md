@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Meat-Trap Sunflower
 stats: 4 HP, suffocation (d4)

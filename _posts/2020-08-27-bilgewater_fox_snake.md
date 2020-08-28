@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters
 name: Bilgewater Fox Snake
 stats: 10 HP, 10 STR, 16 DEX, 12 CHA, coil and bite (d8), flailing thrash (d4 Blast)

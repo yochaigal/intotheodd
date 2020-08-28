@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Water Bear
 stats: 15 HP, 3 Armor, 3 DEX, bite (d6)

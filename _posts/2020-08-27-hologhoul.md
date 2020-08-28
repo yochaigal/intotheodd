@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Hologhoul
 stats: 1 HP,  1 STR, 16 DEX, bite (d4)

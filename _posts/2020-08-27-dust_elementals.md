@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Dust Elementals
 stats: 10 HP, 15 DEX, desiccating touch (d8)

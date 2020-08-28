@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Ghost Whale
 stats: 10 HP, 5 DEX

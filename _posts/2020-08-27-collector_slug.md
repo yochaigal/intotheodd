@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Collector Slug
 stats: 6 HP,  5 DEX, 15 CHA, bite and grapple (d4)

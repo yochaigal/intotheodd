@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters
 name: Smoke Enforcer
 stats: 4 HP, 1 Armor, Shock prod (d6), 3 cough-inducing smoke bombs

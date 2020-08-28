@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Deep-Coral Colony
 stats: 5 HP, 13 STR, 13 DEX, Lash (d8)

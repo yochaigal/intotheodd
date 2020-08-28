@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Incandescent Huntsman
 stats: 3 HP,  15 DEX

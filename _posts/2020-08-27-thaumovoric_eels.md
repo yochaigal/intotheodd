@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Thaumovoric Eels
 stats: 8 HP 3 STR, volatile bite (d8)

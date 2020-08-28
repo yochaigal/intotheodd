@@ -1,6 +1,6 @@
 ---
 layout: entry
-categories:
+category:
 - monsters 
 name: Identifier Drone
 stats: 2 HP,  3 STR, bash (d2)
