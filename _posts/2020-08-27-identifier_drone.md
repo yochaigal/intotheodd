@@ -1,6 +1,7 @@
 ---
 layout: entry
-categories: monsters 
+categories:
+- monsters 
 name: Identifier Drone
 stats: 2 HP,  3 STR, bash (d2)
 subtext1: " • Hovering silver sphere the size of a bowling ball with a large central red eye."

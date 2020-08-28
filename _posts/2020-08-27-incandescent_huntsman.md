@@ -1,6 +1,7 @@
 ---
 layout: entry
-categories: monsters 
+categories:
+- monsters 
 name: Incandescent Huntsman
 stats: 3 HP,  15 DEX
 subtext1: " • Attracts prey with the promise of a warm light in and a stolen humanoid face in the dark."

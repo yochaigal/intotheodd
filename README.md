@@ -21,7 +21,8 @@ Example format below. Copy and paste the change for the content you're submittin
 ```yaml
 ---
 layout: entry
-categories: monsters
+categories:
+- monsters
 link: http://www.content.url
 author: ['Jane Doe', 'John Smith']
 source: Where you Found it

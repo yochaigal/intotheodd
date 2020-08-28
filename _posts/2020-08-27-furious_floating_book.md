@@ -1,6 +1,7 @@
 ---
 layout: entry
-categories: monsters
+categories:
+- monsters
 name: Furious Floating Book
 stats: 3 HP, 11 DEX, book slam (d6)
 subtext1: " • Floats; outer layer made of metal."

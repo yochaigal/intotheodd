@@ -1,6 +1,7 @@
 ---
 layout: entry
-categories: monsters
+categories:
+- monsters
 name: Automaton Abomination
 stats: 12 HP, 5 CHA, Whirling Blades (d8 Blast)
 subtext1: " • Horrific multi limbed amalgamation of other automatons it has cannibalized"

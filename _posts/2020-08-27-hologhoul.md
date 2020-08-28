@@ -1,6 +1,7 @@
 ---
 layout: entry
-categories: monsters 
+categories:
+- monsters 
 name: Hologhoul
 stats: 1 HP,  1 STR, 16 DEX, bite (d4)
 subtext1: " • Looks like crawling pale ghoul that has godly speed, reflexes and unerringly dodges all non-Blast attacks. Actually a small mechanical spider that is cloaked but projects a visage of a ghoul above itself. Tries to drill itself under the skin of a character (as ghoul bites and dies off) and drains CHA afterwards from within. At 0 CHA the character begins to act like an actual ghoul."

@@ -1,6 +1,7 @@
 ---
 layout: entry
-categories: monsters 
+categories:
+- monsters 
 name: Vicious Cyclist
 stats: 6 HP,  5 STR, 15 DEX, Ride Down (d8)
 subtext1: " • Roads are for bicycles! Aggressively runs down any pedestrians in their path."

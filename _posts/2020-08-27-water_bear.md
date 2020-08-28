@@ -1,6 +1,7 @@
 ---
 layout: entry
-categories: monsters 
+categories:
+- monsters 
 name: Water Bear
 stats: 15 HP, 3 Armor, 3 DEX, bite (d6)
 subtext1: " • GenMod creature comprised of a mix of Ursine DNA and Tardigrade DNA"

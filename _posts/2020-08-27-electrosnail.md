@@ -1,6 +1,7 @@
 ---
 layout: entry
-categories: monsters 
+categories:
+- monsters 
 name: Electrosnail
 stats: 3 HP,  2 Armor, 5 STR, 3 DEX, eyestalk zap (d4 ignores Armor)
 subtext1: " • Bolts of energy run up the eyestalks of this large blue snail."
