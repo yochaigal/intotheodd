@@ -17,28 +17,28 @@
 		</tr>
 	</thead>
 	<tbody class="list">
-		{% if post.categories contains page.category %}
 		{% assign sortedPosts = site.posts | sort: 'title' %}
 		{% for post in sortedPosts %}
+		  {% if post.categories contains page.category %}
 			<tr>
 				<td class="name">
 		 <a href="{{ site.baseurl }}{{ post.url }}">
 					{% if post.display-title %}
 							{{ post.display-title }}
 					{% else %}
-				{% assign words = post.name | replace: '-', ' ' | split: ' ' %}
+					{% assign words = post.name | replace: '-', ' ' | split: ' ' %}
 				{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
 				{{ titlecase }}
 					{% endif %}
-					{% endfor %}
 		 </a></td>
 				<td class="source">{% if post.source-url %}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
 				<td class="author">{{ post.author | join: ", " }}</td>
 				<td class="summary">{{ post.summary | truncate: 200 }}</td>
 				<td class="stats">{{ post.stats | truncate: 200 }}</td>
 				<td class="category">{% for cat in post.category %}<a href="{{ site.baseurl }}/{{ cat | replace: ' ', '-' }}.html" target="_blank" >{{ cat }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</td>
-			</tr>
-			{% endif %}
+							</tr>
+		{% endif %}
+	{% endfor %}
 	</tbody>
 </table>
 </div>

@@ -18,7 +18,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Water_bear ",
 	"source": "discord",
@@ -39,7 +39,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Vicious_cyclist ",
 	"source": "discord",
@@ -60,7 +60,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Thaumovoric_eels ",
 	"source": "discord",
@@ -81,7 +81,28 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
+},{
+	"name": "Test Oddity ",
+	"source": "",
+	"source-url": "",
+	"license": "",
+	"cost": "",
+	"author": "",
+	"description": "
+",
+	"stats": "",
+	"subtext1": " • a weapon most foul.",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "oddities"
 },{
 	"name": "Star Rat ",
 	"source": "discord",
@@ -102,7 +123,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Smoke_enforcer ",
 	"source": "discord",
@@ -123,7 +144,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Shiv Slug ",
 	"source": "discord",
@@ -144,7 +165,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Sand_golem ",
 	"source": "discord",
@@ -165,7 +186,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Quadcrocs ",
 	"source": "discord",
@@ -186,7 +207,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Pandimensional_pack_alpaca ",
 	"source": "discord",
@@ -207,7 +228,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Meat Trap_sunflower ",
 	"source": "discord",
@@ -228,7 +249,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Interdictor_drone ",
 	"source": "discord",
@@ -249,7 +270,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Incandescent_huntsman ",
 	"source": "discord",
@@ -270,7 +291,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Identifier_drone ",
 	"source": "discord",
@@ -291,7 +312,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Ice_frog ",
 	"source": "discord",
@@ -312,7 +333,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Hummingbat_swarm ",
 	"source": "discord",
@@ -333,7 +354,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Hologhoul ",
 	"source": "discord",
@@ -354,7 +375,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Headcrab ",
 	"source": "discord",
@@ -375,7 +396,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Glowie,_the_giant_glow_worm_mockery ",
 	"source": "discord",
@@ -396,7 +417,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Ghost_whale ",
 	"source": "discord",
@@ -417,7 +438,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Gazur_ ",
 	"source": "discord",
@@ -438,7 +459,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Gate_trog ",
 	"source": "discord",
@@ -459,7 +480,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Furious_floating_book ",
 	"source": "discord",
@@ -480,7 +501,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Electrosnail ",
 	"source": "discord",
@@ -501,7 +522,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Dust_elementals ",
 	"source": "discord",
@@ -522,7 +543,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Dire_flower_ape ",
 	"source": "discord",
@@ -543,7 +564,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Deep Coral_colony ",
 	"source": "discord",
@@ -564,7 +585,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Collector_slug ",
 	"source": "discord",
@@ -585,7 +606,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Chittering_skull_flies ",
 	"source": "discord",
@@ -606,7 +627,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Celestial Priest ",
 	"source": "twitter",
@@ -627,7 +648,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Catwisp,_twirling_cat ",
 	"source": "discord",
@@ -648,7 +669,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Bilgewater_fox_snake ",
 	"source": "discord",
@@ -669,7 +690,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Baobob ",
 	"source": "discord",
@@ -690,7 +711,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Automaton_abomination ",
 	"source": "discord",
@@ -711,7 +732,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Amphibian_overlords ",
 	"source": "discord",
@@ -732,7 +753,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Basilisk ",
 	"source": "ose srd",
@@ -753,7 +774,7 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 },{
 	"name": "Alzabo ",
 	"source": "discord",
@@ -774,5 +795,5 @@
 ",
 	"link": "",
 	"tags": "",
-	"category": "monsters"
+	"categories": "monsters"
 }]

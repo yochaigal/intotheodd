@@ -19,5 +19,5 @@ layout: none
 	"content": "{{post.content}}",
 	"link": "{{post.link}}",
 	"tags": "{{ post.tags | array_to_sentence_string }}",
-	"category": "{{post.category}}"
+	"categories": "{{post.categories}}"
 }{% if forloop.rindex0 > 0 %},{% endif %}{% endfor %}]
