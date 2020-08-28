@@ -8,45 +8,37 @@
 <table class="table table-striped">
 	<thead>
 		<tr>
-			<!--<th style="width:5%;"><span class="sort" data-sort="link">Link</span></th>-->
 			<th style="width:15%;"><span class="sort" data-sort="name">Name</span></th>
 			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
-			<!--<th style="width:5%;"><span class="sort" data-sort="license">License</span></th>-->
-		<!--	<th style="width:10%;"><span class="sort" data-sort="cost">Cost</span></th> -->
 			<th style="width:15%;"><span class="sort" data-sort="author">Author</span></th>
-	<!--		<th style="width:25%;"><span class="sort" data-sort="description">Description</span></th> -->
-	<th style="width:15%;"><span class="sort" data-sort="summary">Summary</span></th>
+		<th style="width:15%;"><span class="sort" data-sort="summary">Summary</span></th>
 	<th style="width:15%;"><span class="sort" data-sort="stats">Stats</span></th>
 			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
-	<!--		<th style="width:10%;"><span class="sort" data-sort="review-count">#</span></th> -->
-		</tr>
+			</tr>
 	</thead>
 	<tbody class="list">
-	{% assign sortedPosts = site.posts | sort: 'title' %}
-	{% for post in sortedPosts %}
 	  {% if post.category contains page.category %}
-		<tr>
-	<!--		<td class="link"><a href="{{ post.link }}" target="_blank"><button type="button" class="btn btn-primary">Get <i class="fa fa-external-link"></i></button></a></td> -->
-			<td class="name"><a href="{{ site.baseurl }}{{ post.url }}">
+		{% assign sortedPosts = site.posts | sort: 'title' %}
+		{% for post in sortedPosts %}
+			<tr>
+				<td class="name">
+		 <a href="{{ site.baseurl }}{{ post.url }}">
+					{% if post.display-title %}
+							{{ post.display-title }}
+					{% else %}
 				{% assign words = post.name | replace: '-', ' ' | split: ' ' %}
 				{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
 				{{ titlecase }}
-			</a></td>
-			<td class="source">
-				{% if post.source-url %}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
-			<!--<td class="license"><a href="{{ site.baseurl }}/{{post.license}}.html">{{ post.license }}</a></td>-->
-		<!--	<td class="cost">{{ post.cost }}</td> -->
-			<td class="author"><a href="{{ site.baseurl }}/authors.html#{{post.author}}">{{ post.author | join: ", " }}</a></td>
-		<!--	<td class="description">{{ post.excerpt | truncate: 200 }}</td> -->
-		<td class="summary">{{ post.summary | truncate: 200 }}</td>
-			<td class="category">{% for cat in post.category %}<a href="{{ site.baseurl }}/{{ cat | replace: ' ', '-' }}.html">{{ cat }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</td>
-			<td class="tags">{% if post.tags %}{% for tag in post.tags %}{{ tag }}{% if forloop.last == false %}, {% endif %}
-				{% endfor %}{% endif %}
-				</td>
-			<td class="date-added">{{ post.date | date: "%m-%d-%y" }}</td>
-		</tr>
-		{% endif %}
-	{% endfor %}
+					{% endif %}
+					{% endfor %}
+		 </a></td>
+				<td class="source">{% if post.source-url %}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
+				<td class="author">{{ post.author | join: ", " }}</td>
+				<td class="summary">{{ post.summary | truncate: 200 }}</td>
+				<td class="stats">{{ post.stats | truncate: 200 }}</td>
+				<td class="category">{% for cat in post.category %}<a href="{{ site.baseurl }}/{{ cat | replace: ' ', '-' }}.html" target="_blank" >{{ cat }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</td>
+			</tr>
+			{% endif %}
 	</tbody>
 </table>
 </div>
