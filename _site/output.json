@@ -1,4 +1,25 @@
 [{
+	"name": "Retroactive Disguise ",
+	"source": "discord",
+	"source-url": "https://discordapp.com/channels/499193406828838922/663658762741088284/699401685281275966",
+	"license": "",
+	"cost": "",
+	"author": "yochaigal, gooscar",
+	"description": "
+",
+	"stats": "",
+	"subtext1": "Wearing this outfit deletes your presence in any recording (human memory or otherwise) from the past 24 hours. Taking it off again provides anyone you came in contact with during that time with your current whereabouts.",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "oddities"
+},{
 	"name": "Worm Avatar ",
 	"source": "discord",
 	"source-url": "https://discordapp.com/channels/499193406828838922/674544134798966806/701782404339335168",
@@ -166,27 +187,6 @@
 	"link": "",
 	"tags": "",
 	"categories": "monsters"
-},{
-	"name": "Retroactive Disguise ",
-	"source": "discord",
-	"source-url": "https://discordapp.com/channels/499193406828838922/663658762741088284/699401685281275966",
-	"license": "",
-	"cost": "",
-	"author": "yochaigal, gooscar",
-	"description": "
-",
-	"stats": "",
-	"subtext1": "Wearing this outfit deletes your presence in any recording (human memory or otherwise) from the past 24 hours. Taking it off again provides anyone you came in contact with during that time with your current whereabouts.",
-	"subtext2": "",
-	"subtext3": "",
-	"subtext4": "",
-	"inspiration": "",
-	"inspiration-url": "",
-	"content": "
-",
-	"link": "",
-	"tags": "",
-	"categories": "oddities"
 },{
 	"name": "Quadcrocs ",
 	"source": "discord",
@@ -398,7 +398,7 @@
 	"tags": "",
 	"categories": "monsters"
 },{
-	"name": "Glowie,_the_giant_glow_worm_mockery ",
+	"name": "Glowie_the_giant_glow_worm_mockery ",
 	"source": "discord",
 	"source-url": "https://discordapp.com/channels/499193406828838922/674544134798966806/699988788897906709",
 	"license": "",
@@ -650,7 +650,7 @@
 	"tags": "",
 	"categories": "monsters"
 },{
-	"name": "Catwisp,_twirling_cat ",
+	"name": "Catwisp ",
 	"source": "discord",
 	"source-url": "https://discordapp.com/channels/499193406828838922/674544134798966806/701191300657184829",
 	"license": "",
