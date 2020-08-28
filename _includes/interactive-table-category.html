@@ -11,13 +11,13 @@
 			<th style="width:15%;"><span class="sort" data-sort="name">Name</span></th>
 			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
 			<th style="width:15%;"><span class="sort" data-sort="author">Author</span></th>
-		<th style="width:15%;"><span class="sort" data-sort="summary">Summary</span></th>
-	<th style="width:15%;"><span class="sort" data-sort="stats">Stats</span></th>
+			<th style="width:15%;"><span class="sort" data-sort="summary">Summary</span></th>
+			<th style="width:15%;"><span class="sort" data-sort="stats">Stats</span></th>
 			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
-			</tr>
+		</tr>
 	</thead>
 	<tbody class="list">
-	  {% if post.category contains page.category %}
+		{% if post.categories contains page.category %}
 		{% assign sortedPosts = site.posts | sort: 'title' %}
 		{% for post in sortedPosts %}
 			<tr>
