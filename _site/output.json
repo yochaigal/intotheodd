@@ -83,27 +83,6 @@
 	"tags": "",
 	"categories": "monsters"
 },{
-	"name": "Test Oddity ",
-	"source": "",
-	"source-url": "",
-	"license": "",
-	"cost": "",
-	"author": "",
-	"description": "
-",
-	"stats": "",
-	"subtext1": " • a weapon most foul.",
-	"subtext2": "",
-	"subtext3": "",
-	"subtext4": "",
-	"inspiration": "",
-	"inspiration-url": "",
-	"content": "
-",
-	"link": "",
-	"tags": "",
-	"categories": "oddities"
-},{
 	"name": "Star Rat ",
 	"source": "discord",
 	"source-url": "https://discordapp.com/channels/499193406828838922/674544134798966806/705384424245690378",
@@ -187,6 +166,27 @@
 	"link": "",
 	"tags": "",
 	"categories": "monsters"
+},{
+	"name": "Retroactive Disguise ",
+	"source": "discord",
+	"source-url": "https://discordapp.com/channels/499193406828838922/663658762741088284/699401685281275966",
+	"license": "",
+	"cost": "",
+	"author": "yochaigal, gooscar",
+	"description": "
+",
+	"stats": "",
+	"subtext1": "Wearing this outfit deletes your presence in any recording (human memory or otherwise) from the past 24 hours. Taking it off again provides anyone you came in contact with during that time with your current whereabouts.",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "oddities"
 },{
 	"name": "Quadcrocs ",
 	"source": "discord",
