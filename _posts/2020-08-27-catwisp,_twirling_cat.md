@@ -1,16 +1,17 @@
 ---
 layout: entry
 category:
-- monsters 
+- monsters
 name: Catwisp, Twirling Cat
+summary:  A dangerous cat looking for pets
 stats: 3 HP,  4 STR, 14 DEX, 10 CHA, twirling claws (d4), rippling pounce (d8)
 subtext1: " • Slowly stalks the streets and parks of several boroughs in search of someone, anyone, to pet its furry head."
 subtext2: " • If petting has been achieved, after an arbitrary duration, with only the slightest of warning (CHA save to detect), annoyance threshold will be reached and Catwisp will launch into a Twirling Flurry attack (d10)."
 subtext3: " • Critical damage from any of Catwisp's attacks result in shredded skin and much bleeding."
-subtext4: 
+subtext4:
 author: Slater
-inspiration: 
-inspiration_url: 
+inspiration:
+inspiration_url:
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/701191300657184829
 ---
