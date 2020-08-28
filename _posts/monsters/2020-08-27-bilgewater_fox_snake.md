@@ -3,7 +3,7 @@ layout: entry
 category:
 - monsters
 name: Bilgewater Fox Snake
-summary: A big snake looking for friends
+summary: A big snake looking for friends.
 stats: 10 HP, 10 STR, 16 DEX, 12 CHA, coil and bite (d8), flailing thrash (d4 Blast)
 subtext1: " • Tries to make friends, doesn't mind if they're dead."
 subtext2: " • Can traverse land but is too anxious to do so."
