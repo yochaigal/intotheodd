@@ -9,7 +9,7 @@ subtext1: "Turns anything into something edible and tasty, not damaging its user
 subtext2:
 subtext3:
 subtext4:
-author: momo
+author: roqueromero
 inspiration:
 inspiration_url:
 source: discord
