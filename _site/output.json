@@ -2270,6 +2270,86 @@
 	"tags": "",
 	"categories": "failed-careers"
 },{
+	"name": "Emergency Primatologist ",
+	"source": "discord",
+	"source-url": "https://discordapp.com/channels/499193406828838922/674544134798966806/722766040857313370",
+	"license": "",
+	"cost": "",
+	"author": "mihau",
+	"description": "<p><br /></p>
+
+",
+	"stats": "",
+	"subtext1": "A surprising number of apes wander into Bastion's establishment every day.",
+	"subtext2": "You were always on call to force them out with minimal collateral damage, or at least convince them to act like respectable customers.",
+	"subtext3": "Take a Monkey Discouragement Rod (d6+d6 CHA damage against primates excluding humans) and an anti-face-ripping mask.",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>What Was Your Speciality?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>£1 Gorillas, large and strong but respecting tradition - You’re very good at appearing bigger and stronger than you really are. You can convincingly copy any form of ritualized combat, if you’ve witnessed it at least once.</td>
+    </tr>
+    <tr>
+      <td>£2 Gibbons, incredibly agile but solve most problems by screaming - You can scream very loudly. If something hoots (or screams) at you, you can hoot back louder.</td>
+    </tr>
+    <tr>
+      <td>£3 Bonobos, constantly lusty - If you want, you can be sexually appealing to any vaguely humanoid creature (bipedal, two arms, two legs, some sort of head)</td>
+    </tr>
+    <tr>
+      <td>£4 Orangutans, unerringly calm - You can always keep a calm facade, regardless of your inner turmoil. You can also stretch your cheeks very far.</td>
+    </tr>
+    <tr>
+      <td>£5 Baboons, vicious and answering only to violence - Your unarmed attacks deal d6 damage to fleshy targets. You can tear faces off on critical damage.</td>
+    </tr>
+    <tr>
+      <td>£6 Macaques, with notoriously sticky fingers - You always subconsciously watch your interlocutors hands. They can’t pickpocket from you or do anything similarly underhanded without you noticing.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Where Did You Learn Your Trade?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1 HP You were raised by apes (Species according to table above) - take a runty monkey brother (d6 nails and teeth, DEX 15, 4HP)</td>
+    </tr>
+    <tr>
+      <td>2 HP Trained by a renowned explorer and zoologist - Take a safari outfit, including a pith helmet. It gives you an air of an upper-class gentleman adventurer.</td>
+    </tr>
+    <tr>
+      <td>3 HP A shady correspondence course - Take a worthless, but impressive seeming diploma.</td>
+    </tr>
+    <tr>
+      <td>4 HP Years of observation in the field - Take a notebook full of excitable notes on primate behaviour.</td>
+    </tr>
+    <tr>
+      <td>5 HP You made it up as you went along - Take a collection of scars, with stories to go along with them.</td>
+    </tr>
+    <tr>
+      <td>6 HP Trained by a group of mischievous mock-apes - take a book titled “How to trick a monkey”. All the pages are blank.</td>
+    </tr>
+  </tbody>
+</table>
+",
+	"link": "",
+	"tags": "",
+	"categories": "failed-careers"
+},{
 	"name": "Retroactive Disguise ",
 	"source": "discord",
 	"source-url": "https://discordapp.com/channels/499193406828838922/663658762741088284/699401685281275966",
