@@ -1,14 +1,13 @@
 ---
-title: Telemarketer
 layout: entry
 category:
 - failed-careers
 name: Telemarketer
 author: davesvedberg
 source: discord
-source-url: null
-summary: null
-stats: null
+source-url:
+summary:
+stats:
 subtext1: "Tragically ahead of the curve. There were only two phones in Bastion."
 subtext2: "You get: A phonebook with one number, rotary phone D6."
 ---
