@@ -1,5 +1,4 @@
 ---
-layout: entry
 category:
 - oddities
 name: Freezing Liquid Dust
@@ -13,5 +12,5 @@ author: roqueromero
 inspiration:
 inspiration_url:
 source: discord
-source-url: 
+source-url:
 ---

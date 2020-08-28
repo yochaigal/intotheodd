@@ -1,9 +1,0 @@
----
-layout: entry 
-name: Extra fix
-subtext1: A machinery embroidered sticker. Once pressed against a depleted limited number of uses oddity, it gains an extra use.
-layout: entry
-category: oddities
-summary: 
-author: roqueromero
----
