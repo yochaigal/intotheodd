@@ -1616,6 +1616,209 @@
 	"tags": "",
 	"categories": "oddities"
 },{
+	"name": "Telemarketer ",
+	"source": "discord",
+	"source-url": "",
+	"license": "",
+	"cost": "",
+	"author": "davesvedberg",
+	"description": "<table>
+  <thead>
+    <tr>
+      <th>What were you selling?</th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>£1: Charity Subscriptions - An starving orphan from deep country follows you around. 2hp, 8 in all stats.</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>£2: Cleaning Supplies - You can always leave a room looking exactly how you entered it.</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>£3: Unbreakable Steak knives - You still have one left, D10 single use.</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>£4: Encyclopaedias -You still have one. D8 bulky.</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>£5: Phone sex - You are irresistibly seductive, but only to those who can’t see you.</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>£6: Insurance - Pay nothing for hospital visits.</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+",
+	"stats": "",
+	"subtext1": "Tragically ahead of the curve. There were only two phones in Bastion.",
+	"subtext2": "You get: A phonebook with one number, rotary phone D6.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "<table>
+  <thead>
+    <tr>
+      <th>What were you selling?</th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>£1: Charity Subscriptions - An starving orphan from deep country follows you around. 2hp, 8 in all stats.</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>£2: Cleaning Supplies - You can always leave a room looking exactly how you entered it.</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>£3: Unbreakable Steak knives - You still have one left, D10 single use.</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>£4: Encyclopaedias -You still have one. D8 bulky.</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>£5: Phone sex - You are irresistibly seductive, but only to those who can’t see you.</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>£6: Insurance - Pay nothing for hospital visits.</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p> </p>
+<p> </p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Who owned the only other phone?</th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1hp: An innocent old lady - Earns 100£ a month for her pension. Will buy anything.</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2hp: Another telemarketer - Willing to sell you anything from the first table.</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>3hp: An automated alarm system - Blares a deafening shriek through your speakerphone, you’re used to it by now.</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>4hp: A public phone booth - Actually made a fair few sales through it. You always get the best price when selling something.</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>5hp: A popular radio show - Can be called to talk to all of Bastion at once.</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>6hp: Alexander Graham Bell - Exists in both realities, has no time for your shenanigans.</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p> </p>
+<p> </p>
+
+<table>
+  <thead>
+    <tr>
+      <th>If you are the youngest player the party is £10,000 in debt to:</th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Yourselves from the present. Gradually fade out of existence until the paradox is resolved.</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p> </p>
+<p> </p>
+",
+	"link": "",
+	"tags": "",
+	"categories": "failed-careers"
+},{
 	"name": "Retroactive Disguise ",
 	"source": "discord",
 	"source-url": "https://discordapp.com/channels/499193406828838922/663658762741088284/699401685281275966",

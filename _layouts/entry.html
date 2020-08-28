@@ -10,10 +10,10 @@ layout: default
           <h2 class="post-title">{% assign words = page.name | replace: '-', ' ' | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}</a></h2>
           </header>
           <h3 class="post-stats"><b>{{ page.stats | truncate: 300 }}</b></h3>
-          <h3 class="post-subtext1">{{ page.subtext1 | truncate: 500 }}</h3>
-          <h3 class="post-subtext2">{{ page.subtext2 | truncate: 500 }}</h3>
-          <h3 class="post-subtext3">{{ page.subtext3 | truncate: 500 }}</h3>
-          <h3 class="post-subtext4">{{ page.subtext4 | truncate: 500 }}</h3>
+          <h4 class="post-subtext1">{{ page.subtext1 | truncate: 500 }}</h4>
+          <h4 class="post-subtext2">{{ page.subtext2 | truncate: 500 }}</h4>
+          <h4 class="post-subtext3">{{ page.subtext3 | truncate: 500 }}</h4>
+          <h4 class="post-subtext4">{{ page.subtext4 | truncate: 500 }}</h4>
 
         <article class="post-content">
           {{ content }}
