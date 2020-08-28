@@ -2,7 +2,7 @@
 layout: entry
 category:
 - failed-careers
-name: "RPG Designer"
+name: RPG Designer
 author: davesvedberg
 source: discord
 source-url:
