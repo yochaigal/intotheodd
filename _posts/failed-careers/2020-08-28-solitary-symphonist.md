@@ -29,12 +29,12 @@ subtext4: "You get: Harmonica, airtight kick drum, tipping bowl."
 
 | Where were you most appreciated?                                                                                                              |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
-| 1HP: The Wire Jungle. Take Musical tesla coil - Plays music through nearby electronics making it temporarily unusable.                        |
-| 2HP: The Deep Highlands. Take Fumigation bagpipes - can be loaded with liquids to be dispersed as a gas.                                      |
-| 3HP: The Unstable Boulevard. Take a set of Collateral bongo drums - they produce slight earth tremors.                                        |
-| 4HP: The Patriot Pub. Take Starmetal Gong - may act like a shield, 1 Armour.                                                                  |
-| 5HP: Pre-emptive Historian's Union. Take Babel Microphone - speech is translated to an ur-language universally understood and reviled by all. |
-| 6HP: Choralia. Take a Polycrow with your face on it (3HP) - mimics your voice perfectly.                                                      |
+| 1 HP: The Wire Jungle. Take Musical tesla coil - Plays music through nearby electronics making it temporarily unusable.                        |
+| 2 HP: The Deep Highlands. Take Fumigation bagpipes - can be loaded with liquids to be dispersed as a gas.                                      |
+| 3 HP: The Unstable Boulevard. Take a set of Collateral bongo drums - they produce slight earth tremors.                                        |
+| 4 HP: The Patriot Pub. Take Starmetal Gong - may act like a shield, 1 Armour.                                                                  |
+| 5 HP: Pre-emptive Historian's Union. Take Babel Microphone - speech is translated to an ur-language universally understood and reviled by all. |
+| 6 HP: Choralia. Take a Polycrow with your face on it (3 HP) - mimics your voice perfectly.                                                      |
 
 <p></p>
 

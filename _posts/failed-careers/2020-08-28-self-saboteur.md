@@ -25,12 +25,12 @@ subtext2:
 
 | What went wrong?                                                                                                                                                                                |   |   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
-| 1hp: You were exposed as a fraud - Even when you fail at something, you can convince people you're capable of it.                                                                               |   |   |
-| 2hp: An entirely unforeseen misunderstanding - Once per game when conductor establishes a location or person, establish another one with a similar name that it could easily be mistaken for.   |   |   |
-| 3hp - You accidentally succeeded - You are relentlessly pursued by a hired assassin, thankfully they're also paid to fail and make another assassin look better. Still incredibly inconvenient. |   |   |
-| 4hp: Nothing, actually - Your former partner owes you a similar favour.                                                                                                                         |   |   |
-| 5hp: Everything, actually - You have been tarred and feathered.                                                                                                                                 |   |   |
-| 6hp: Your partner bailed at the last minute: You still thirst for failure, start every session deprived until you fail a roll or take attribute damage.                                         |   |   |
+| 1 HP: You were exposed as a fraud - Even when you fail at something, you can convince people you're capable of it.                                                                               |   |   |
+| 2 HP: An entirely unforeseen misunderstanding - Once per game when conductor establishes a location or person, establish another one with a similar name that it could easily be mistaken for.   |   |   |
+| 3 HP - You accidentally succeeded - You are relentlessly pursued by a hired assassin, thankfully they're also paid to fail and make another assassin look better. Still incredibly inconvenient. |   |   |
+| 4 HP: Nothing, actually - Your former partner owes you a similar favour.                                                                                                                         |   |   |
+| 5 HP: Everything, actually - You have been tarred and feathered.                                                                                                                                 |   |   |
+| 6 HP: Your partner bailed at the last minute: You still thirst for failure, start every session deprived until you fail a roll or take attribute damage.                                         |   |   |
 
 <p></p>
 <p></p>

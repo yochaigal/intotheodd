@@ -1642,7 +1642,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>1£: Charity Subscriptions - An starving orphan from deep country follows you around. 2hp, 8 in all stats.</td>
+      <td>1£: Charity Subscriptions - An starving orphan from deep country follows you around. 2 HP, 8 in all stats.</td>
     </tr>
     <tr>
       <td>2£: Cleaning Supplies - You can always leave a room looking exactly how you entered it.</td>
@@ -1673,22 +1673,22 @@
   </thead>
   <tbody>
     <tr>
-      <td>1hp: An innocent old lady - Earns 100£ a month for her pension. Will buy anything.</td>
+      <td>1 HP: An innocent old lady - Earns 100£ a month for her pension. Will buy anything.</td>
     </tr>
     <tr>
-      <td>2hp: Another telemarketer - Willing to sell you anything from the first table.</td>
+      <td>2 HP: Another telemarketer - Willing to sell you anything from the first table.</td>
     </tr>
     <tr>
-      <td>3hp: An automated alarm system - Blares a deafening shriek through your speakerphone, you’re used to it by now.</td>
+      <td>3 HP: An automated alarm system - Blares a deafening shriek through your speakerphone, you’re used to it by now.</td>
     </tr>
     <tr>
-      <td>4hp: A public phone booth - Actually made a fair few sales through it. You always get the best price when selling something.</td>
+      <td>4 HP: A public phone booth - Actually made a fair few sales through it. You always get the best price when selling something.</td>
     </tr>
     <tr>
-      <td>5hp: A popular radio show - Can be called to talk to all of Bastion at once.</td>
+      <td>5 HP: A popular radio show - Can be called to talk to all of Bastion at once.</td>
     </tr>
     <tr>
-      <td>6hp: Alexander Graham Bell - Exists in both realities, has no time for your shenanigans.</td>
+      <td>6 HP: Alexander Graham Bell - Exists in both realities, has no time for your shenanigans.</td>
     </tr>
   </tbody>
 </table>
@@ -1772,22 +1772,22 @@
   </thead>
   <tbody>
     <tr>
-      <td>1HP: The Wire Jungle. Take Musical tesla coil - Plays music through nearby electronics making it temporarily unusable.</td>
+      <td>1 HP: The Wire Jungle. Take Musical tesla coil - Plays music through nearby electronics making it temporarily unusable.</td>
     </tr>
     <tr>
-      <td>2HP: The Deep Highlands. Take Fumigation bagpipes - can be loaded with liquids to be dispersed as a gas.</td>
+      <td>2 HP: The Deep Highlands. Take Fumigation bagpipes - can be loaded with liquids to be dispersed as a gas.</td>
     </tr>
     <tr>
-      <td>3HP: The Unstable Boulevard. Take a set of Collateral bongo drums - they produce slight earth tremors.</td>
+      <td>3 HP: The Unstable Boulevard. Take a set of Collateral bongo drums - they produce slight earth tremors.</td>
     </tr>
     <tr>
-      <td>4HP: The Patriot Pub. Take Starmetal Gong - may act like a shield, 1 Armour.</td>
+      <td>4 HP: The Patriot Pub. Take Starmetal Gong - may act like a shield, 1 Armour.</td>
     </tr>
     <tr>
-      <td>5HP: Pre-emptive Historian’s Union. Take Babel Microphone - speech is translated to an ur-language universally understood and reviled by all.</td>
+      <td>5 HP: Pre-emptive Historian’s Union. Take Babel Microphone - speech is translated to an ur-language universally understood and reviled by all.</td>
     </tr>
     <tr>
-      <td>6HP: Choralia. Take a Polycrow with your face on it (3HP) - mimics your voice perfectly.</td>
+      <td>6 HP: Choralia. Take a Polycrow with your face on it (3 HP) - mimics your voice perfectly.</td>
     </tr>
   </tbody>
 </table>
@@ -1809,6 +1809,90 @@
     </tr>
   </tbody>
 </table>
+",
+	"link": "",
+	"tags": "",
+	"categories": "failed-careers"
+},{
+	"name": "Sludge Island Tagger ",
+	"source": "discord",
+	"source-url": "https://discordapp.com/channels/499193406828838922/674544134798966806/717659288503582731",
+	"license": "",
+	"cost": "",
+	"author": "mihau",
+	"description": "<p><br /></p>
+
+",
+	"stats": "",
+	"subtext1": "You vandalized other people's property with tags for a while. Then you got bored and left that dump.",
+	"subtext2": "Take a can of spray-paint and a crowbar.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>What was your tagger pseudonym?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>£1 Hans - You have comically oversized hands.</td>
+    </tr>
+    <tr>
+      <td>£2 Double - There’s two of you. You’re twins, or very similar looking friends. You mostly act as one person.</td>
+    </tr>
+    <tr>
+      <td>£3 Tia - It took you a long time to get bored. Take a pair of cool sunglasses (double as reading glasses) and decades of experience in vandalism.</td>
+    </tr>
+    <tr>
+      <td>£4 Mosca - You’ve got a fly’s head. Maybe you’re a weird mockery or something. You can eat anything soft and organic, but it always looks gross.</td>
+    </tr>
+    <tr>
+      <td>£5 Uzzi - You’re the size of a child, have an unusual skin color (like green) and a weird face.</td>
+    </tr>
+    <tr>
+      <td>£6 Ghost - You can squeeze through any gap you can fit your head in.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p></p>
+<p></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>What did you do besides tagging?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1 HP Stole washing machines - if you can lift something you can carry it through any terrain at normal speed.</td>
+    </tr>
+    <tr>
+      <td>2 HP Grew zoom shrooms - take a dose of psychedelic mushrooms, you know how to grow more with some dirt and access to shady materials.</td>
+    </tr>
+    <tr>
+      <td>3 HP Made experimental music - take low-fi recording equipment. Recorded sounds are audibly different on playback.</td>
+    </tr>
+    <tr>
+      <td>4 HP Breakdanced - You can headspin indefinitely</td>
+    </tr>
+    <tr>
+      <td>5 HP Hunted banana slugs - You can always smell a mollusk in the same room as you (or in a ten meter radius if you’re outside or in a big room)</td>
+    </tr>
+    <tr>
+      <td>6 HP Smoked - Take a Ciggie-brand ashtray and lighter, half a pack of cigarettes, and a nicotine addiction.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p></p>
+<p></p>
 ",
 	"link": "",
 	"tags": "",
@@ -1925,32 +2009,32 @@
   </thead>
   <tbody>
     <tr>
-      <td>1hp: You were exposed as a fraud - Even when you fail at something, you can convince people you’re capable of it.</td>
+      <td>1 HP: You were exposed as a fraud - Even when you fail at something, you can convince people you’re capable of it.</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
-      <td>2hp: An entirely unforeseen misunderstanding - Once per game when conductor establishes a location or person, establish another one with a similar name that it could easily be mistaken for.</td>
+      <td>2 HP: An entirely unforeseen misunderstanding - Once per game when conductor establishes a location or person, establish another one with a similar name that it could easily be mistaken for.</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
-      <td>3hp - You accidentally succeeded - You are relentlessly pursued by a hired assassin, thankfully they’re also paid to fail and make another assassin look better. Still incredibly inconvenient.</td>
+      <td>3 HP - You accidentally succeeded - You are relentlessly pursued by a hired assassin, thankfully they’re also paid to fail and make another assassin look better. Still incredibly inconvenient.</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
-      <td>4hp: Nothing, actually - Your former partner owes you a similar favour.</td>
+      <td>4 HP: Nothing, actually - Your former partner owes you a similar favour.</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
-      <td>5hp: Everything, actually - You have been tarred and feathered.</td>
+      <td>5 HP: Everything, actually - You have been tarred and feathered.</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
-      <td>6hp: Your partner bailed at the last minute: You still thirst for failure, start every session deprived until you fail a roll or take attribute damage.</td>
+      <td>6 HP: Your partner bailed at the last minute: You still thirst for failure, start every session deprived until you fail a roll or take attribute damage.</td>
       <td> </td>
       <td> </td>
     </tr>
@@ -2107,7 +2191,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>1hp: Blatant Plagiarism - Take a reinforced throwing glass and a rubberised practice bottle. You know how to throw things; if really pushed you can probably juggle.</td>
+      <td>1 HP: Blatant Plagiarism - Take a reinforced throwing glass and a rubberised practice bottle. You know how to throw things; if really pushed you can probably juggle.</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -2115,7 +2199,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>2hp: You kept injecting your personal politics into it - You can shut down any conversation and change the subject of any conversation to the merits of the gold standard without raising suspicion.</td>
+      <td>2 HP: You kept injecting your personal politics into it - You can shut down any conversation and change the subject of any conversation to the merits of the gold standard without raising suspicion.</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -2123,7 +2207,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>3hp: The rules were too complicated - Subtract your stats from 20. You now have to roll over the result to pass tests.</td>
+      <td>3 HP: The rules were too complicated - Subtract your stats from 20. You now have to roll over the result to pass tests.</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -2131,7 +2215,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>4hp: Accidentally destroyed your only copy - Given enough time you can convince anyone that their dreams are pointless.</td>
+      <td>4 HP: Accidentally destroyed your only copy - Given enough time you can convince anyone that their dreams are pointless.</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -2139,7 +2223,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>5hp: Over promised on crowdfunding stretch goals - You gain flight and x-ray vision… five sessions from now.</td>
+      <td>5 HP: Over promised on crowdfunding stretch goals - You gain flight and x-ray vision… five sessions from now.</td>
       <td> </td>
       <td> </td>
       <td> </td>
@@ -2147,7 +2231,7 @@
       <td> </td>
     </tr>
     <tr>
-      <td>6hp: It was actually really successful! - You are idolised by sentient creatures with less than 7 CHA.</td>
+      <td>6 HP: It was actually really successful! - You are idolised by sentient creatures with less than 7 CHA.</td>
       <td> </td>
       <td> </td>
       <td> </td>
