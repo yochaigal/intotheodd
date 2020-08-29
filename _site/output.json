@@ -3156,9 +3156,9 @@
 	"author": "yochaigal",
 	"description": "
 ",
-	"stats": "12 HP, 12 STR, 6 DEX, 16 CHA, bite (d6), claw (d8)",
+	"stats": "12 HP, 1 Armor, 12 STR, 6 DEX, 16 CHA, bite (d6), claw (d8)",
 	"subtext1": "• Red fur and a bear-like appearance with rows of long teeth and large, sharp claws.",
-	"subtext2": "• Critical damage: absorbs the voice of its victim. It mimics their speech to lure loved ones to their doom.",
+	"subtext2": "• Critical damage: absorbs the voice of its victims. It mimics their speech to lure loved ones to their doom.",
 	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "Taken from Gene Wolfe's Book of the New Sun.",
