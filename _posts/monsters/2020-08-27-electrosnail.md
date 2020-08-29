@@ -10,7 +10,7 @@ subtext3: " • Healed by electrical damage."
 subtext4: " • Each of their eyestalks can be used as a power source but they drain fast."
 author: twocalf
 inspiration: 
-inspiration_url: 
+inspiration-url: 
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/703478322495094815
 ---

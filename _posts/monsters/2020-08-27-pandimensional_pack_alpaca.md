@@ -10,7 +10,7 @@ subtext3: " • On Critical Damage, it explodes dealing d10 Blast damage and des
 subtext4: 
 author: Curio
 inspiration: From the Bestiarum Geondica
-inspiration_url: https://natetreme.itch.io/bestiarum
+inspiration-url: https://natetreme.itch.io/bestiarum
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/705384310034792469
 ---

@@ -10,7 +10,7 @@ subtext3: " • Moves slowly and loudly but can reach far to snap at its targets
 subtext4: 
 author: Curio
 inspiration: From the Bestiarum Geondica
-inspiration_url: https://natetreme.itch.io/bestiarum
+inspiration-url: https://natetreme.itch.io/bestiarum
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/705383587179921449
 ---

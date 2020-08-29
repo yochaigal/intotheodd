@@ -10,7 +10,7 @@ subtext3: " • Swallowed victims are transported 6 ft below into the root chamb
 subtext4: 
 author: Curio
 inspiration: From the Bestiarum Geondica
-inspiration_url: https://natetreme.itch.io/bestiarum
+inspiration-url: https://natetreme.itch.io/bestiarum
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/705384387927081021
 ---

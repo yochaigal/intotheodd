@@ -11,7 +11,7 @@ subtext3: " • Needs your limbs for spare parts (grab a character, d10, lose a 
 subtext4: " • Upon taking critical damage, splits into two smaller Abominations with half stats, 6 HP, Stabbing Blades (d6)"
 author: AwkwardTurtle
 inspiration:
-inspiration_url:
+inspiration-url:
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/700699391970902016
 ---

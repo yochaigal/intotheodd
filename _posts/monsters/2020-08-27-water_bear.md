@@ -10,7 +10,7 @@ subtext3: " • Resistant as Hell: Water Bears are immune to damn near everythin
 subtext4: " • Slow and Blind: Water Bears are Slow, they can only move or attack in a turn. They are also Blind, having to rely on scent to find prey."
 author: twocalf
 inspiration: 
-inspiration_url: 
+inspiration-url: 
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/718138501480185916
 ---

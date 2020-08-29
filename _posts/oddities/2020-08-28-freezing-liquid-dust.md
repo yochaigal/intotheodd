@@ -10,7 +10,7 @@ subtext3:
 subtext4:
 author: roqueromero
 inspiration:
-inspiration_url:
+inspiration-url:
 source: discord
 source-url:
 ---

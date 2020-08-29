@@ -10,7 +10,7 @@ subtext3: " • Requiring water to sustain their form, they take pleasure in fla
 subtext4: 
 author: Baal
 inspiration: 
-inspiration_url: 
+inspiration-url: 
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575
 ---

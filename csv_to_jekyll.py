@@ -30,7 +30,7 @@ for row_index, row in enumerate(datareader):
 		# Empty string that we will fill with YAML formatted text based on data extracted from our CSV.
 		yaml_text = ""
 		yaml_text += "---\n"
-		yaml_text += "layout: county \n"
+		yaml_text += "layout: entry \n"
 
 		# Loop through each cell in this row...
 		for cell_index, cell in enumerate(row):

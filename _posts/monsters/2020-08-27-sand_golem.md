@@ -10,7 +10,7 @@ subtext3: " • Exit Light: Attacks do no damage, but test CHA or you fall aslee
 subtext4: " • Enter Night: If all of the party is knocked asleep by a Sand Golem they are transported to a shared dream. To reawake, the PCs must escape the dream."
 author: twocalf
 inspiration: 
-inspiration_url: 
+inspiration-url: 
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/722319134481973298
 ---

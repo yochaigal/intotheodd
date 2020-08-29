@@ -10,7 +10,7 @@ subtext3: " • Here for the money only, and have no pride in their work. Employ
 subtext4:
 author: Baal
 inspiration:
-inspiration_url:
+inspiration-url:
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575
 ---

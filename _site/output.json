@@ -1,4 +1,529 @@
 [{
+	"name": "Zombie ",
+	"source": "",
+	"source-url": "",
+	"license": "",
+	"cost": "",
+	"author": "",
+	"description": "
+",
+	"stats": "3 HP, 14 STR, 6 DEX, fist (d6), slow",
+	"subtext1": " • Once per rest ignores first instance of taken Critical Damage",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": ""
+},{
+	"name": "Yeti ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "6 HP, Armor 1, 18 STR, 14 DEX, claws (2d6),",
+	"subtext1": " • Giant abominable apes that usually dwell in far mountain forests and prefer to hunt from ambush.",
+	"subtext2": " • Grapple: pass a DEX save or be grappled, immobilized, and take d8 Damage now and on each subsequent turn until a successful STR save or DEX.",
+	"subtext3": " • Frightening Gaze: when Yeti presents itself and gazes upon its opponents, everyone must succeed on a CHA save or be stunned on the next turn.",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Troll ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "9 HP, 18 STR, 13 DEX, 7 CHA, claws and bite (3d8, can target multiple melee opponents)",
+	"subtext1": " • Giant fearless humanoids with a taste for flesh.",
+	"subtext2": " • Mutations: due to their unnatural regeneration, some Trolls grow extra limbs, heads or develop even weirder deformities.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Stinkfrog ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "6 HP, Armor 1, 13 DEX, 7 CHA, spear (d8)",
+	"subtext1": " • Attacks unprovoked and generally tries to lay an ambush for their targets. Amphibious and able to hop several times their own height. Natural animals show a strong animosity towards Stinkfrogs and CHA attack them in an attempt to drive them away.",
+	"subtext2": " • Regeneration: restores d6hp, d6 STR Loss and recovers from Critical Damage at the start of each turn. The regeneration does not work if the Troll has taken Acid or Fire damage on the previous turn.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Snake_demon ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "18 HP, Armor 1, 17 STR, 17 DEX, 16 CHA, six swords (6d6, can target multiple melee opponents)",
+	"subtext1": " • Snake Demons are charged with overseeing hellish operations and leading lesser minions. They love single combat and CHA never turn down a duel. They can cast the following spells as an action.",
+	"subtext2": " • Soaring Flight: the caster can fly quite swiftly until they touch the ground or take damage.",
+	"subtext3": " • Soul Barrier: ghostly visions of tortured souls form a barrier, screaming and lashing out. Anyone passing through this barrier takes d8 Damage and loses d6 CHA if they take Critical Damage.",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Skeleton ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "5 HP, Armor 2 (see note) 13 DEX, 12 CHA, blunt sword (d6)",
+	"subtext1": " • Armor is only against piercing attacks such as arrows and spears.",
+	"subtext2": " • When a skeleton would be killed by physical attacks, it is smashed into at least two separate pieces. Unless they are kept apart, these CHA reform on the skeleton's next turn, remaining at 0hp. Each half CHA continue to fight, but the half without a sword causes only d4 Damage.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Rust_monster ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "6 HP, 12 DEX, 5 CHA, bite (d6)",
+	"subtext1": " • Does not normally attack. Able to turn metal into rust-like dust, which it then consumes. If a melee opponent is carrying a metal weapon, shield, or Armor, the Rust Monster CHA turn one of these to rust as an action, unless they pass a DEX save.",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Red_dragon ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "25 HP, Armor 3, 20 STR, 12 CHA, 2d10 claws, Advantage on Saves from magic",
+	"subtext1": " • Can speak but generally chooses not to unless properly motivated.",
+	"subtext2": " • Fire Breath: d6 Fire Damage to everyone within the blast. Also causes d6 Fire Damage at the end of their next turn until a DEX save is passed or any other way to put out the flames is found.",
+	"subtext3": "Red Dragons instinctively hoard treasure, particularly gold items.",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Purple_worm ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "30 HP, Armor 3, 20 STR, 3 DEX, 5 CHA, sting (d10)",
+	"subtext1": " • Critical Damage: a target is stung, losing 3d6 STR.",
+	"subtext2": " • Can swallow medium or smaller creature. The target must pass a DEX save or be swallowed whole, losing d10 DEX each turn and d8 STR every hour as they are digested. When rolling against Critical Damage, the Worm must succeed on an additional STR save or regurgitate all swallowed creatures.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Phase_panther ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "13 HP, 16 STR, 18 DEX, 6 CHA, clawed tentacles (2d8)",
+	"subtext1": " • The beast's displaced image grants it Advantage on Critical Damage Saves. CHA attack any other living things for fun without provocation.",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Orc ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "5 HP, Armor 2 (piecemeal armor and a shield), 11 STR, 9 DEX, 8 CHA, martial weapon (d6/d8)",
+	"subtext1": " • Amoral minions that are rarely seen outside of the service of some foul leader and vary hugely in appearance from one master to another.",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Ogre ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "6 HP, Armor 1, 18 STR, 8 DEX, 7 CHA, club (d8)",
+	"subtext1": " • Big and ill-tempered man-eating brutes.",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Mummy ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "9 HP, Armor 1, 16 STR, 8 DEX, fist (d8), immune to non-magical attacks; fire attacks are enhanced",
+	"subtext1": " • All who are surprised by a Mummy must succeed on a CHA save or be stunned on the next turn.",
+	"subtext2": " • Critical Damage: infects a target with mummy rot. The target loses d4 STR and maximum HP right away and each following day until cured by removing the curse or a week of conventional healing.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Manticore ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "8 HP, Armor 1, 17 STR, 15 DEX, claws (2d6), bite (d8)",
+	"subtext1": " • A horrible abomination with a body of a lion, a toothy human-like head, and a tail full of spikes.",
+	"subtext2": " • Tail Spikes: venomous spikes could be shoot quite far, dealing d6 Damage. If the spike reduces STR score, a target suffers d4 DEX Loss as well.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Landshark ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "18 HP, Armor 3, 17 STR, 8 DEX, 8 CHA, bite (d8)",
+	"subtext1": " • Carves through earth as if it were water, using this to lay in ambush for prey. If it fears for its life, a Landshark may cause a cave-in. Falling rocks CHA cause d6 Damage but anyone that stays long enough to be buried takes d10 Damage. The Landshark CHA have burrowed away before this point.",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Imp ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "3 HP, 6 STR, 16 DEX, 14 CHA, venomous bite, all attacks (except magical weapons) are Impaired",
+	"subtext1": " • A small winged demon-trickster. Can use its action to cast Detect Magic and Invisibility.",
+	"subtext2": " • Venomous Bite: if the bite reduces STR score, target suffers 1 DEX Loss as well.",
+	"subtext3": " • Shape-shift: changes appearance to a small beast.",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Hootbear ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "10 HP, Armor 1, 15 STR, 6 DEX, 5 CHA, claws (2d8)",
+	"subtext1": " • Constantly gives out subsonic hooting, used to sense its surroundings. Thus you can never sneak up on one unless its hearing is somehow impaired.",
+	"subtext2": " • It can give out a single, boneshaking hoot that causes d6 Damage to everyone nearby. Anyone reduced to 0hp by this hoot is not at risk of a Critical Damage but must pass a STR save or be stunned.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Hook_horror ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "7 HP, Armor 3, 15 STR, 8 DEX, 6 CHA, hooks (2d8)",
+	"subtext1": " • A ten-foot tall Horror stalks tunnels and caves, using its audible clicking as a form of echolocation. Its vision is very poor, and it is easily disoriented by loud noises.",
+	"subtext2": " • Anything dog-sized or smaller is potential food to be swallowed whole when dealt Critical Damage, causing d6 STR Loss each round after swallowing. It CHA treat anything larger than this as a threat to its territory and fight fiercely but CHA avoid anything larger than itself.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Hellhound ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "5 HP, Armor 1, 12 DEX, bite (d6), immunity to fire",
+	"subtext1": " • Black fiery demonic dogs that hunt in packs.",
+	"subtext2": " • Fire Breath: d4 Fire Damage in a small cone.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Goblin ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "4 HP, 8 STR, 14 DEX, 8 CHA, spear (d6), bow (d4)",
+	"subtext1": " • Mischievous creatures that can easily be bribed with items that they consider pretty. Some of them can cast Cantrips.",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Gnoll ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "9 HP, Armor 2 (light armor and shield), 12 STR, 12 DEX, 7 CHA, axe (d6/d8), 3d6s in stolen coins and trinkets",
+	"subtext1": " • Their stink is highly recognizable and spreads throughout their surroundings.",
+	"subtext2": " • 1-in-6 chance of being non-hostile. Can be bargained with but are only really interested in meat, preferably alive.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Gelatinous_cube ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "16 HP, Armor 2, 14 STR, 3 DEX, 3 CHA",
+	"subtext1": " • Appears as hazy, wet air until the observer is dangerously close to the Cube. A chemical smell may betray its nature from further away. The Cube is attracted to noise and heat.",
+	"subtext2": " • Does not perform normal attacks. Anyone that the Cube moves over is engulfed unless they pass a DEX save to jump aside, assuming there is room to. Those engulfed lose d8 DEX each turn and d6 STR every hour as they are digested. They cannot free themselves but must be pulled from the Cube by other means. When the Cube takes Critical Damage, it collapses into a puddle of sticky ooze.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Gazer ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "20 HP, Armor 1, 16 STR, 16 DEX, 17 CHA",
+	"subtext1": " • Actively seeks to destroy any other lifeforms. Magic does not work within the Gazer's sight. May fire two of the following beams at different targets each turn.",
+	"subtext2": " • Telekinesis Beam: up to an elephant-sized target is lifted, moved, or thrown. Living targets thrown this way take d6 Damage, but thrown objects may cause up to d12, depending on the size.",
+	"subtext3": " • Terror Beam: CHA save or be terrified. If you do anything on your next turn other than freeze or flee, you lose d6 CHA.",
+	"subtext4": " • Disintegration Beam: d6 Damage ignoring Armor. Anyone taking Critical Damage is turned to dust. CHA completely destroy static objects up to the size of an elephant.",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Filth_eater ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "16 HP, Armor 1, 16 STR, 6 DEX, 5 CHA, bite (d6)",
+	"subtext1": " • Big, stupid beasts that eat nearly anything they find. Much prefer dead food to alive. Can bark out a very limited vocabulary of common tongue but have little comprehension.",
+	"subtext2": " • Critical Damage: a target contracts filth fever unless they pass a STR save. If they fail, then for the next day they are violently ill and do not benefit from resting.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
+	"name": "Brain_lord ",
+	"source": "itdr",
+	"source-url": "https://github.com/Vladar4/itdr",
+	"license": "",
+	"cost": "",
+	"author": "vladar",
+	"description": "
+",
+	"stats": "18 HP, 14 STR, 14 DEX, 20 CHA, immunity to mind-altering spells",
+	"subtext1": " • Its psychic ability allows it to levitate, project itself to other realities, and telepathically issue any command. If the target refuses to obey the command, they must succeed on a CHA save or lose d8 CHA.",
+	"subtext2": " • Mind Blast: attacks the target's mind with psychic energy for d8 Damage. Critical Damage from this attack affects CHA instead of STR and is avoided by a CHA save.",
+	"subtext3": " • Critical Damage in melee: a target has its brain extracted and eaten. The Brain Lord absorbs its recent memories.",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters"
+},{
 	"name": "Wind Up_portable_booby_trap ",
 	"source": "",
 	"source-url": "",
@@ -2469,7 +2994,7 @@
 	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "From Magical Industrial Revolution",
-	"inspiration-url": "",
+	"inspiration-url": "https://www.exaltedfuneral.com/products/magical-industrial-revolution",
 	"content": "
 ",
 	"link": "",
@@ -2490,7 +3015,7 @@
 	"subtext3": " • Stalk small or weak targets, gathering in swarms until numerous enough to attack.",
 	"subtext4": "",
 	"inspiration": "From the Bestiarum Geondica",
-	"inspiration-url": "",
+	"inspiration-url": "https://natetreme.itch.io/bestiarum",
 	"content": "
 ",
 	"link": "",
@@ -2532,7 +3057,7 @@
 	"subtext3": " • Communicate by shooting short range spikes at each other (no harm to them) but often mistake other light sources as slugs.",
 	"subtext4": "",
 	"inspiration": "From the Bestiarum Geondica",
-	"inspiration-url": "",
+	"inspiration-url": "https://natetreme.itch.io/bestiarum",
 	"content": "
 ",
 	"link": "",
@@ -2595,7 +3120,7 @@
 	"subtext3": " • On Critical Damage, it explodes dealing d10 Blast damage and destroying whatever it carries.",
 	"subtext4": "",
 	"inspiration": "From the Bestiarum Geondica",
-	"inspiration-url": "",
+	"inspiration-url": "https://natetreme.itch.io/bestiarum",
 	"content": "
 ",
 	"link": "",
@@ -2616,7 +3141,7 @@
 	"subtext3": " • Swallowed victims are transported 6 ft below into the root chamber and begin to suffocate.",
 	"subtext4": "",
 	"inspiration": "From the Bestiarum Geondica",
-	"inspiration-url": "",
+	"inspiration-url": "https://natetreme.itch.io/bestiarum",
 	"content": "
 ",
 	"link": "",
@@ -2658,7 +3183,7 @@
 	"subtext3": " • On Critical Damage, injects glowing bulb eggs into your bloodstream. ",
 	"subtext4": " • Glowing Bulb Egg Infection: target now glows in the dark (brighter in high electric areas). While infected they are drawn (CHA negates) to touch high voltage objects like a moth towards bright lights. If killed while touching said object 2d4 Incandescent Huntsmanlings escape, all bearing the target's face. The eggs can be removed by aggressive degaussing (you'll need a specialist or a very big magnet) or by avoiding all things electrical for a span of two weeks.",
 	"inspiration": "inspired by this image presented by Alec Sorensen (EB artist)",
-	"inspiration-url": "",
+	"inspiration-url": "https://cdn.discordapp.com/attachments/663658762741088284/700085011331678258/cqwf9gpaqf311.png",
 	"content": "
 ",
 	"link": "",
@@ -2784,7 +3309,7 @@
 	"subtext3": " • Fail to realize its size and destruction",
 	"subtext4": " • On Critical Damage, victim is smooshed to a pâté.",
 	"inspiration": "From Bugs Bunny’s George",
-	"inspiration-url": "",
+	"inspiration-url": "https://www.youtube.com/watch?v=B1Kwcs8BOE0",
 	"content": "
 ",
 	"link": "",
@@ -2805,7 +3330,7 @@
 	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "From Magical Industrial Revolution",
-	"inspiration-url": "",
+	"inspiration-url": "https://www.exaltedfuneral.com/products/magical-industrial-revolution",
 	"content": "
 ",
 	"link": "",
@@ -2826,7 +3351,7 @@
 	"subtext3": " • Wants milk.",
 	"subtext4": "",
 	"inspiration": "Image of Gazur",
-	"inspiration-url": "",
+	"inspiration-url": "https://gfycat.com/finishedgianteidolonhelvum",
 	"content": "
 ",
 	"link": "",
@@ -2847,7 +3372,7 @@
 	"subtext3": " • If bypassed without payment will follow in the distance, trying to hide and exact revenge in the most inconvenient moment.",
 	"subtext4": "",
 	"inspiration": "From the Bestiarum Geondica",
-	"inspiration-url": "",
+	"inspiration-url": "https://natetreme.itch.io/bestiarum",
 	"content": "
 ",
 	"link": "",
@@ -2868,7 +3393,7 @@
 	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "From The Stygian Library",
-	"inspiration-url": "",
+	"inspiration-url": "https://www.drivethrurpg.com/product/257113/The-Stygian-Library",
 	"content": "
 ",
 	"link": "",
@@ -2910,7 +3435,7 @@
 	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "From The Stygian Library",
-	"inspiration-url": "",
+	"inspiration-url": "https://www.drivethrurpg.com/product/257113/The-Stygian-Library",
 	"content": "
 ",
 	"link": "",
@@ -2931,7 +3456,7 @@
 	"subtext3": " • Spots on the hide attract butterflies and other pollinators.",
 	"subtext4": " • Wants to get rid of spikes but has trouble communicating such.",
 	"inspiration": "From the Bestiarum Geondica",
-	"inspiration-url": "",
+	"inspiration-url": "https://natetreme.itch.io/bestiarum",
 	"content": "
 ",
 	"link": "",
@@ -2973,7 +3498,7 @@
 	"subtext3": " • Moves slowly and loudly but can reach far to snap at its targets.",
 	"subtext4": "",
 	"inspiration": "From the Bestiarum Geondica",
-	"inspiration-url": "",
+	"inspiration-url": "https://natetreme.itch.io/bestiarum",
 	"content": "
 ",
 	"link": "",
@@ -2994,7 +3519,7 @@
 	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "From the Bestiarum Geondica",
-	"inspiration-url": "",
+	"inspiration-url": "https://natetreme.itch.io/bestiarum",
 	"content": "
 ",
 	"link": "",
@@ -3057,7 +3582,7 @@
 	"subtext3": " • Whines pleadingly if rejected.",
 	"subtext4": " • Whisks you off to a Friend Tea Party on Critical Damage.",
 	"inspiration": "From You Got a Job on the Garbage Barge",
-	"inspiration-url": "",
+	"inspiration-url": "https://www.kickstarter.com/projects/garbagebarge/you-got-a-job-on-the-garbage-barge",
 	"content": "
 ",
 	"link": "",

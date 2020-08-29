@@ -10,7 +10,7 @@ subtext3:
 subtext4: 
 author: Curio
 inspiration: 
-inspiration_url: 
+inspiration-url: 
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/700469456047964180
 ---

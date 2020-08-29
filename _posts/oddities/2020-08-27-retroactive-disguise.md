@@ -11,7 +11,7 @@ subtext3:
 subtext4:
 author: yochaigal, gooscar
 inspiration:
-inspiration_url:
+inspiration-url:
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/663658762741088284/699401685281275966
 ---

@@ -10,7 +10,7 @@ subtext3: " • Spots on the hide attract butterflies and other pollinators."
 subtext4: " • Wants to get rid of spikes but has trouble communicating such."
 author: Curio
 inspiration: From the Bestiarum Geondica
-inspiration_url: https://natetreme.itch.io/bestiarum
+inspiration-url: https://natetreme.itch.io/bestiarum
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/705384228577214495
 ---

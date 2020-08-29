@@ -10,7 +10,7 @@ subtext3:
 subtext4: 
 author: yochaigal
 inspiration: From Magical Industrial Revolution
-inspiration_url: https://www.exaltedfuneral.com/products/magical-industrial-revolution
+inspiration-url: https://www.exaltedfuneral.com/products/magical-industrial-revolution
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/499193406828838924/698706414364917790
 ---

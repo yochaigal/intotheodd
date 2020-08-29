@@ -11,7 +11,7 @@ subtext3:
 subtext4:
 author: roqueromero
 inspiration:
-inspiration_url:
+inspiration-url:
 source: discord
 source-url: https://discordapp.com/channels/499193406828838922/674544134798966806/715566908304523366
 ---
