@@ -9,7 +9,7 @@ subtext3: Red Dragons instinctively hoard treasure, particularly gold items.
 subtext4:
 author: vladar
 source: itdr
-source-url: https://github.com/Vladar4/itdr https://github.com/Vladar4/itdr
+source-url: https://github.com/Vladar4/itdr
 category: monsters
 inspiration:
 inspiration-url:

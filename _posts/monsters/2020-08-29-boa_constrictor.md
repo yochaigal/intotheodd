@@ -7,7 +7,7 @@ subtext1: " • Constrict: pass a DEX save or be grappled,  immobilized,  and ta
 subtext2:
 author: vladar
 source: itdr
-source-url: https://github.com/Vladar4/itdr https://github.com/Vladar4/itdr https://github.com/Vladar4/itdr
+source-url: https://github.com/Vladar4/itdr
 category: monsters
 inspiration:
 inspiration-url:
