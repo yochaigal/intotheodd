@@ -5,7 +5,7 @@ category:
 name: Telemarketer
 author: davesvedberg
 source: discord
-source-url:
+source-url: https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit
 summary:
 stats:
 subtext1: "Tragically ahead of the curve. There were only two phones in Bastion."

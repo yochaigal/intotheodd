@@ -5,7 +5,7 @@ category:
 name: RPG Designer
 author: davesvedberg
 source: discord
-source-url:
+source-url: https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit
 summary:
 stats:
 subtext1: "You were just too meta to exist within in this setting."
