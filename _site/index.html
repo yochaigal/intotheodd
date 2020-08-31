@@ -51,6 +51,22 @@
 			<th style="width:15%;"><span class="sort" data-sort="stats">Stats</span></th>
 			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
 		</tr>
+		<tr>
+			<th></th>
+			<th></th>
+			<th></th>
+			<th></th>
+			<th></th>
+			<th>
+				<form><select id="filter-category">
+					<option selected="selected" value="all">all</option>
+					<option value="failed-careers">failed-careers</option>
+					<option value="monsters">monsters</option>
+					<option value="oddities">oddities</option>
+					<option value="na">n/a</option>
+				</select></form>
+			</th>
+		</tr>
 	</thead>
 	<tbody class="list">
 	
@@ -2595,6 +2611,16 @@ if(hash.length > 1) {
 searchInput.addEventListener('keyup', function () {
   window.location.hash = this.value;
 });
+
+
+function filters () {
+	entryList.filter(function (item) {
+		var filterCategory = document.querySelector('#filter-category').value;
+		return (filterCategory === 'all' || ((filterCategory === 'na') && item.values().category === '') || item.values().category.endsWith(filterCategory+'</a>'));
+	});
+}
+
+document.querySelector('#filter-category').onchange = function () {filters();};
 
 </script>
 
