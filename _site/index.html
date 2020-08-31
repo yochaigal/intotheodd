@@ -52,6 +52,22 @@
 			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
 		</tr>
 	</thead>
+	<tr>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th>
+			<form><select id="filter-category">
+				<option selected="selected" value="all">all</option>
+				<option value="failed-careers">failed-careers</option>
+				<option value="monsters">monsters</option>
+				<option value="oddities">oddities</option>
+				<option value="na">n/a</option>
+			</select></form>
+		</th>
+	</tr>
 	<tbody class="list">
 	
 	
@@ -2516,7 +2532,7 @@
 			<td class="author">vladar</td>
 			<td class="summary"></td>
 			<td class="stats">3 HP,  STR 12, DEX 15, CHA 6, bite (d8)</td>
-			<td class="category"></td>
+			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
 		<tr>
@@ -2564,7 +2580,7 @@
 			<td class="author">vladar</td>
 			<td class="summary">A walking corpse animated by magic.</td>
 			<td class="stats">3 HP, 14 STR, 6 DEX, fist (d6), slow</td>
-			<td class="category"></td>
+			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
 	</tbody>
@@ -2595,6 +2611,15 @@ if(hash.length > 1) {
 searchInput.addEventListener('keyup', function () {
   window.location.hash = this.value;
 });
+
+function filters () {
+	entryList.filter(function (item) {
+		var filterCategory = document.querySelector('#filter-category').value;
+		return (filterCategory === 'all' || ((filterCategory === 'na') && item.values().category === '') || item.values().category.endsWith(filterCategory+'</a>'));
+	});
+}
+
+document.querySelector('#filter-category').onchange = function () {filters();};
 
 </script>
 
