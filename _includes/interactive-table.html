@@ -18,20 +18,13 @@
 	</thead>
 	<tr>
 		<th></th>
+		<th><form><select id="filter-source"></select></form></th>
+		<th><form><select id="filter-author"></select></form></th>
 		<th></th>
 		<th></th>
-		<th></th>
-		<th></th>
-		<th>
-			<form><select id="filter-category">
-				<option selected="selected" value="all">all</option>
-				<option value="failed-careers">failed-careers</option>
-				<option value="monsters">monsters</option>
-				<option value="oddities">oddities</option>
-				<option value="na">n/a</option>
-			</select></form>
-		</th>
+		<th><form><select id="filter-category"></select></form></th>
 	</tr>
+
 	<tbody class="list">
 	{% assign sortedPosts = site.posts | sort: 'title' %}
 	{% for post in sortedPosts %}

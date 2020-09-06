@@ -13,27 +13,81 @@ var hash = window.location.hash;
 var searchInput = document.querySelector('input.search');
 
 if(hash.length > 1) {
-  searchInput.value = hash.substr(1);
-  if ("createEvent" in document) {
-    var evt = document.createEvent("HTMLEvents");
-    evt.initEvent("keyup", false, true);
-    searchInput.dispatchEvent(evt);
-  }
-  else {
-    searchInput.fireEvent("onkeyup");
-  }
+	searchInput.value = hash.substr(1);
+	if ("createEvent" in document) {
+		var evt = document.createEvent("HTMLEvents");
+		evt.initEvent("keyup", false, true);
+		searchInput.dispatchEvent(evt);
+	}
+	else {
+		searchInput.fireEvent("onkeyup");
+	}
 }
 
 searchInput.addEventListener('keyup', function () {
-  window.location.hash = this.value;
+	window.location.hash = this.value;
 });
+
+function stripHtml(html){
+	var tmp = document.createElement('div');
+	tmp.innerHTML = html.trim();
+	return tmp.textContent.replace(/\s/g, '') || tmp.innerText.replace(/\s/g, '') || '';
+}
+
+function unique(value, index, self) {
+	return (self.indexOf(value) === index) && (value != '');
+}
+
+/**
+ * Returns an array of unique options of the valueName, plus 'all' and 'n/a' options.
+ */
+function getOptions(valueName) {
+	return Array.prototype.concat('all', entryList.items.map(obj => stripHtml(obj.values()[valueName])).filter(unique).sort(), 'n/a');
+}
+
+/**
+ *	Populates given select form with options.
+ *	@param select
+ *	@param options Array of the options
+ */
+function populateOptions(select, options) {
+	for(var i = 0; i < options.length; i++) {
+		var option = options[i];
+		var element = document.createElement('option');
+		element.textContent = option;
+		element.value = option;
+		select.appendChild(element);
+	}
+}
+
+var filterSource = document.querySelector('#filter-source');
+var filterAuthor = document.querySelector('#filter-author');
+var filterCategory = document.querySelector('#filter-category');
 
 function filters () {
 	entryList.filter(function (item) {
-		var filterCategory = document.querySelector('#filter-category').value;
-		return (filterCategory === 'all' || ((filterCategory === 'na') && item.values().category === '') || item.values().category.endsWith(filterCategory+'</a>'));
+		var source = filterSource.value;
+		var author = filterAuthor.value;
+		var category = filterCategory.value;
+
+		return (source === 'all'
+				|| ((source == 'n/a') && item.values().source.trim() === '')
+				|| (stripHtml(item.values().source) === source))
+			&& (author === 'all'
+				|| ((author === 'n/a') && item.values().author.trim() === '')
+				|| (stripHtml(item.values().author) === author))
+			&& (category === 'all'
+				|| ((category === 'n/a') && item.values().category.trim() === '')
+				|| (stripHtml(item.values().category) === category));
 	});
 }
 
-document.querySelector('#filter-category').onchange = function () {filters();};
+populateOptions(filterSource, getOptions('source'));
+filterSource.onchange = function () {filters();};
+
+populateOptions(filterAuthor, getOptions('author'));
+filterAuthor.onchange = function () {filters();};
+
+populateOptions(filterCategory, getOptions('category'));
+filterCategory.onchange = function () {filters();};
 
