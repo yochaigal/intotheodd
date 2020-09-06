@@ -11,6 +11,7 @@ var options = {
 var entryList = new List('entry-list', options);
 var hash = window.location.hash;
 var searchInput = document.querySelector('input.search');
+var splitExp = /,\s+/; // split commas with trailing spaces
 
 if(hash.length > 1) {
 	searchInput.value = hash.substr(1);
@@ -30,8 +31,8 @@ searchInput.addEventListener('keyup', function () {
 
 function stripHtml(html){
 	var tmp = document.createElement('div');
-	tmp.innerHTML = html.trim();
-	return tmp.textContent.replace(/\s/g, '') || tmp.innerText.replace(/\s/g, '') || '';
+	tmp.innerHTML = html.trim().toLowerCase();
+	return tmp.textContent || tmp.innerText || '';
 }
 
 function unique(value, index, self) {
@@ -39,10 +40,15 @@ function unique(value, index, self) {
 }
 
 /**
- * Returns an array of unique options of the valueName, plus 'all' and 'n/a' options.
+ * Returns an array of unique options of the valueName (splitting commas), plus 'all' and 'n/a' options.
  */
 function getOptions(valueName) {
-	return Array.prototype.concat('all', entryList.items.map(obj => stripHtml(obj.values()[valueName])).filter(unique).sort(), 'n/a');
+	var raw = entryList.items.map(obj => stripHtml(obj.values()[valueName])).filter(unique);
+	var result = [];
+	for(i = 0; i < raw.length; i++) {
+		result = result.concat(raw[i].toLowerCase().split(splitExp));
+	}
+	return Array.prototype.concat('all', result.filter(unique).sort(), 'n/a');
 }
 
 /**
@@ -72,13 +78,13 @@ function filters () {
 
 		return (source === 'all'
 				|| ((source == 'n/a') && item.values().source.trim() === '')
-				|| (stripHtml(item.values().source) === source))
+				|| (stripHtml(item.values().source).split(splitExp).indexOf(source) >= 0))
 			&& (author === 'all'
 				|| ((author === 'n/a') && item.values().author.trim() === '')
-				|| (stripHtml(item.values().author) === author))
+				|| (stripHtml(item.values().author).split(splitExp).indexOf(author) >= 0))
 			&& (category === 'all'
 				|| ((category === 'n/a') && item.values().category.trim() === '')
-				|| (stripHtml(item.values().category) === category));
+				|| (stripHtml(item.values().category).split(splitExp).indexOf(category) >= 0));
 	});
 }
 
