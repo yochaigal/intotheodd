@@ -18,20 +18,13 @@
 	</thead>
 	<tr>
 		<th></th>
+		<th><form><select id="filter-source"></select></form></th>
+		<th><form><select id="filter-author"></select></form></th>
 		<th></th>
 		<th></th>
-		<th></th>
-		<th></th>
-		<th>
-			<form><select id="filter-category">
-				<option selected="selected" value="all">all</option>
-				<option value="failed-careers">failed-careers</option>
-				<option value="monsters">monsters</option>
-				<option value="oddities">oddities</option>
-				<option value="na">n/a</option>
-			</select></form>
-		</th>
+		<th><form><select id="filter-category"></select></form></th>
 	</tr>
+
 	<tbody class="list">
 	{% assign sortedPosts = site.posts | sort: 'title' %}
 	{% for post in sortedPosts %}
@@ -59,36 +52,5 @@
 
 </div>
 
-<script type="text/javascript">
-var options = {
-	valueNames: ['name', 'source', 'author', 'summary', 'stats', 'category']
-};
-var entryList = new List('entry-list', options);
+<script type="text/javascript" src="../scripts.js"></script>
 
-var hash = window.location.hash;
-var searchInput = document.querySelector('input.search');
-if(hash.length > 1) {
-  searchInput.value = hash.substr(1);
-  if ("createEvent" in document) {
-    var evt = document.createEvent("HTMLEvents");
-    evt.initEvent("keyup", false, true);
-    searchInput.dispatchEvent(evt);
-  }
-  else {
-    searchInput.fireEvent("onkeyup");
-  }
-}
-searchInput.addEventListener('keyup', function () {
-  window.location.hash = this.value;
-});
-
-function filters () {
-	entryList.filter(function (item) {
-		var filterCategory = document.querySelector('#filter-category').value;
-		return (filterCategory === 'all' || ((filterCategory === 'na') && item.values().category === '') || item.values().category.endsWith(filterCategory+'</a>'));
-	});
-}
-
-document.querySelector('#filter-category').onchange = function () {filters();};
-
-</script>
