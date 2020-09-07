@@ -13,8 +13,9 @@
 			<th style="width:10%;"><span class="sort" data-sort="source">Source</span></th>
 			<th style="width:20%;"><span class="sort" data-sort="author">Author</span></th>
 			<th style="width:20%;"><span class="sort" data-sort="genre">Genre</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="cost">Cost</span></th>
 			<th style="width:20%;"><span class="sort" data-sort="category">Category</span></th>
-		</tr>
+				</tr>
 	</thead>
 
 
@@ -33,11 +34,12 @@
 				{{ titlecase }}
 					{% endif %}
 		 </a></td>
-		 		<td class="summary">{{ post.summary | truncate: 200 }}</td>
-				<td class="source">{% if post.source-url %}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
-				<td class="author">{{ post.author | join: ", " }}</td>
-				<td class="genre">{{ post.genre | truncate: 200 }}</td>
-				<td class="category">{% for cat in post.category %}<a href="{{ site.baseurl }}/{{ cat | replace: ' ', '-' }}.html" target="_blank" >{{ cat }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</td>
+       <td class="author">{{ post.author | join: ", " }}</td>
+			 <td class="source">{% if post.source-url %}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
+			 <td class="genre">{{ post.genre | truncate: 200 }}</td>
+			 <td class="summary">{{ post.summary | truncate: 200 }}</td>
+			 <td class="cost">{{ post.cost | truncate: 200 }}</td>
+			 <td class="category">{% for cat in post.category %}<a href="{{ site.baseurl }}/{{ cat | replace: ' ', '-' }}.html" target="_blank" >{{ cat }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</td>
 				</tr>
 		{% endif %}
 	{% endfor %}

@@ -20,5 +20,6 @@ layout: none
 	"link": "{{post.link}}",
 	"tags": "{{ post.tags | array_to_sentence_string }}",
 	"categories": "{{post.categories}}",
-	"genre": "{{post.genre}}"
+	"genre": "{{post.genre}}",
+	"cost": "{{post.cost}}"
 }{% if forloop.rindex0 > 0 %},{% endif %}{% endfor %}]

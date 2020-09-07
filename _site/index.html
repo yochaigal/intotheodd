@@ -16,16 +16,19 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-
-<link rel='shortcut icon' href='/favicons/favicon.ico'>
-<link rel='icon' sizes='16x16' type='image/png' href='/favicons/favicon-16x16.png'>
-<link rel='icon' sizes='32x32' type='image/png' href='/favicons/favicon-32x32.png'>
-<link rel='icon' sizes='192x192' type='image/png' href='/favicons/favicon-192x192.png'>
-<meta name='msapplication-config' content='/favicons/browserconfig.xml'>
-<link rel='manifest' href='/favicons/site.webmanifest'>
-
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
+<link rel="manifest" href="favicons/site.webmanifest">
+<link rel="mask-icon" href="favicons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
 </head>
 
 
@@ -56,6 +59,7 @@
 			<th style="width:10%;"><span class="sort" data-sort="source">Source</span></th>
 			<th style="width:20%;"><span class="sort" data-sort="genre">Genre</span></th>
 			<th style="width:20%;"><span class="sort" data-sort="summary">Summary</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="cost">Cost</span></th>
 			<th style="width:20%;"><span class="sort" data-sort="category">Category</span></th>
 			</tr>
 	</thead>
@@ -64,6 +68,7 @@
 		<th><form><select id="filter-author"></select></form></th>
 		<th><form><select id="filter-source"></select></form></th>
 		<th><form><select id="filter-genre"></select></form></th>
+		<th></th>
 		<th></th>
 		<th><form><select id="filter-category"></select></form></th>
 	</tr>
@@ -83,8 +88,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -100,8 +105,8 @@
 	 		<td class="author">yochaigal</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499195645131882506/730565162825809940" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">A red bear that steals its victim's voice.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -117,8 +122,8 @@
 	 		<td class="author">Baal</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Exotic Capitalists.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -134,8 +139,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -151,8 +156,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -168,8 +173,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -185,8 +190,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -202,8 +207,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -219,8 +224,8 @@
 	 		<td class="author">AwkwardTurtle</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700699391970902016" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">A huge machine that consumes it’s victims and splits into smaller parts.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -236,8 +241,8 @@
 	 		<td class="author">Zac Bir</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499197623748657162/708649760428523592" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">A malicious version of the Baobab tree.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -253,8 +258,8 @@
 	 		<td class="author">yochaigal</td>
 			<td class="source"><a href="https://oldschoolessentials.necroticgnome.com/srd/index.php/Basilisk" target="_blank">ose srd</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">A lizard that turns its victims to stone.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -270,8 +275,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -287,8 +292,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -304,8 +309,8 @@
 	 		<td class="author">magnificentophat, voidlight</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499195645131882506/690636047478030387" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">A big snake looking for friends.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -321,8 +326,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -338,8 +343,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -355,8 +360,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -372,8 +377,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Psionic abberations from the Beyond.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -389,8 +394,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -406,8 +411,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -423,8 +428,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -440,8 +445,8 @@
 	 		<td class="author">Slater</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/701191300657184829" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">A dangerous cat looking for pats.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -457,8 +462,8 @@
 	 		<td class="author">yochaigal</td>
 			<td class="source"><a href="https://twitter.com/yochaigal1/status/1297989454347501576?s=20" target="_blank">twitter</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">An alien priest that needs to absorb flesh from others.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -474,8 +479,8 @@
 	 		<td class="author">yochaigal</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499195645131882506/693518743086825562" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Giant bugs that live in corpses.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -491,8 +496,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -508,8 +513,8 @@
 	 		<td class="author">Curio</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705383587179921449" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -525,8 +530,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -542,8 +547,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -559,8 +564,8 @@
 	 		<td class="author">Baal</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -576,8 +581,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -593,8 +598,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -610,8 +615,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -627,8 +632,8 @@
 	 		<td class="author">Curio</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384228577214495" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -644,8 +649,8 @@
 	 		<td class="author">yochaigal</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/698707233650901032" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -661,8 +666,8 @@
 	 		<td class="author">twocalf</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703478322495094815" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -678,8 +683,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -695,8 +700,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -712,8 +717,8 @@
 	 		<td class="author">mihau</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/722766040857313370" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/failed-careers.html" target="_blank" >failed-careers</a></td>
 		</tr>
 	
@@ -729,8 +734,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -746,8 +751,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -763,8 +768,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -780,8 +785,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Big, stupid beasts that eat nearly anything they find.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -797,8 +802,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -814,8 +819,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -831,8 +836,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source"> discord </td>
 			<td class="genre"></td>
-
 			<td class="summary">Freeze things.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -848,8 +853,8 @@
 	 		<td class="author">yochaigal</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499193406828838924/685533964840075309" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -865,8 +870,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -882,8 +887,8 @@
 	 		<td class="author">Curio</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384271161851914" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -899,8 +904,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">A telekinetic, floating one-eyed monster.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -916,8 +921,8 @@
 	 		<td class="author">Curio</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/693041267331825716" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -933,8 +938,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Giant, transparent ooze.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -950,8 +955,8 @@
 	 		<td class="author">yochaigal</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/663658762741088284/690576913458266192" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -967,8 +972,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -984,8 +989,8 @@
 	 		<td class="author">ShakeSharp</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/699988788897906709" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1001,8 +1006,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Intelligent man-hyenas hybrids.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1018,8 +1023,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Mischievous creatures that can easily be bribed with</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1035,8 +1040,8 @@
 	 		<td class="author">rattlemayne</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1052,8 +1057,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/715566908304523366" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Make anything food.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1069,8 +1074,8 @@
 	 		<td class="author">Freddo</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/694480567785357343" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1086,8 +1091,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1103,8 +1108,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1120,8 +1125,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Demonic dogs that hunt in packs.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1137,8 +1142,8 @@
 	 		<td class="author">Curio</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700469456047964180" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1154,8 +1159,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">A 10-foot tall tunnel horror, with hooks.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1171,8 +1176,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Bear-Owl hybrid that lives in forests.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1188,8 +1193,8 @@
 	 		<td class="author">Curio</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700630310806749234" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1205,8 +1210,8 @@
 	 		<td class="author">twocalf</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703692547502899260" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1222,8 +1227,8 @@
 	 		<td class="author">twocalf</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703698712194711553" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1239,8 +1244,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Winged tricksters.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1256,8 +1261,8 @@
 	 		<td class="author">gooscar, twocalf</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700112795928100974" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1273,8 +1278,8 @@
 	 		<td class="author">twocalf</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703702071710449727" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1290,8 +1295,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1307,8 +1312,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Burowing behemoth.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1324,8 +1329,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1341,8 +1346,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1358,8 +1363,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Man-lion-scorpion monster. Run.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1375,8 +1380,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1392,8 +1397,8 @@
 	 		<td class="author">Curio</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384387927081021" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1409,8 +1414,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1426,8 +1431,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1443,8 +1448,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1460,8 +1465,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1477,8 +1482,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1494,8 +1499,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1511,8 +1516,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1528,8 +1533,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1545,8 +1550,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Undead terrors that seek to destroy the living.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1562,8 +1567,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Hideous, large and man-eating.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1579,8 +1584,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Amoral, goblin-like minions in service to a master.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1596,8 +1601,8 @@
 	 		<td class="author">Curio</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384310034792469" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1613,8 +1618,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1630,8 +1635,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Blink and you'll miss them.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1647,8 +1652,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1664,8 +1669,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1681,8 +1686,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1698,8 +1703,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1715,8 +1720,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1732,8 +1737,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1749,8 +1754,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1766,8 +1771,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1783,8 +1788,8 @@
 	 		<td class="author">Jim Parkin</td>
 			<td class="source"><a href="https://www.drivethrurpg.com/product/324238/Weird-North" target="_blank">game</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1800,8 +1805,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1817,8 +1822,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1834,8 +1839,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Massive burrowing worms.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1851,8 +1856,8 @@
 	 		<td class="author">Baal</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1868,8 +1873,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Fire-breathing dragon.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1885,8 +1890,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1902,8 +1907,8 @@
 	 		<td class="author">yochaigal, gooscar</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/663658762741088284/699401685281275966" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Erase memories with an outfit.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1919,8 +1924,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1936,8 +1941,8 @@
 	 		<td class="author">davesvedberg</td>
 			<td class="source"><a href="https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/failed-careers.html" target="_blank" >failed-careers</a></td>
 		</tr>
 	
@@ -1953,8 +1958,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Pony-sized metal-eater.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1970,8 +1975,8 @@
 	 		<td class="author">Jim Parkin</td>
 			<td class="source"><a href="https://www.drivethrurpg.com/product/324238/Weird-North" target="_blank">game</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1987,8 +1992,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2004,8 +2009,8 @@
 	 		<td class="author">twocalf</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/722319134481973298" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2021,8 +2026,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2038,8 +2043,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2055,8 +2060,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2072,8 +2077,8 @@
 	 		<td class="author">davesvedberg</td>
 			<td class="source"><a href="https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/failed-careers.html" target="_blank" >failed-careers</a></td>
 		</tr>
 	
@@ -2089,8 +2094,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2106,8 +2111,8 @@
 	 		<td class="author">Curio</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384094980243527" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2123,8 +2128,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2140,8 +2145,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2157,8 +2162,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2174,8 +2179,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">Undead warriors.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2191,8 +2196,8 @@
 	 		<td class="author">mihau</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/717659288503582731" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/failed-careers.html" target="_blank" >failed-careers</a></td>
 		</tr>
 	
@@ -2208,8 +2213,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2225,8 +2230,8 @@
 	 		<td class="author">Baal</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2242,8 +2247,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2259,8 +2264,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2276,8 +2281,8 @@
 	 		<td class="author">curio, baal, roqueromero</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703235613251600404" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/failed-careers.html" target="_blank" >failed-careers</a></td>
 		</tr>
 	
@@ -2293,8 +2298,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2310,8 +2315,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2327,8 +2332,8 @@
 	 		<td class="author">Curio</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384424245690378" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2344,8 +2349,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2361,8 +2366,8 @@
 	 		<td class="author">davesvedberg</td>
 			<td class="source"><a href="https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/failed-careers.html" target="_blank" >failed-careers</a></td>
 		</tr>
 	
@@ -2378,8 +2383,8 @@
 	 		<td class="author">yochaigal</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499193406828838924/698706414364917790" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2395,8 +2400,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2412,8 +2417,8 @@
 	 		<td class="author">Jim Parkin</td>
 			<td class="source"><a href="https://www.drivethrurpg.com/product/324238/Weird-North" target="_blank">game</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2429,8 +2434,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2446,8 +2451,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2463,8 +2468,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2480,8 +2485,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2497,8 +2502,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2514,8 +2519,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2531,8 +2536,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2548,8 +2553,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2565,8 +2570,8 @@
 	 		<td class="author">AwkwardTurtle</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700700727714119721" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2582,8 +2587,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2599,8 +2604,8 @@
 	 		<td class="author">twocalf</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/718138501480185916" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2616,8 +2621,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2633,8 +2638,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2650,8 +2655,8 @@
 	 		<td class="author">Jim Parkin</td>
 			<td class="source"><a href="https://classless-kobolds.itch.io/weird-north" target="_blank">itch</a></td>
 			<td class="genre">sword and sorcery</td>
-
 			<td class="summary">A picaresque, sword & sorcery RPG.</td>
+			<td class="cost">$6</td>
 			<td class="category"><a href="/intotheodd/hacks.html" target="_blank" >hacks</a></td>
 		</tr>
 	
@@ -2667,8 +2672,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2684,8 +2689,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2701,8 +2706,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2718,8 +2723,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2735,8 +2740,8 @@
 	 		<td class="author">roqueromero</td>
 			<td class="source">  </td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2752,8 +2757,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2769,8 +2774,8 @@
 	 		<td class="author">yochaigal</td>
 			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/701782404339335168" target="_blank">discord</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2786,8 +2791,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary"></td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2803,8 +2808,8 @@
 	 		<td class="author">vladar</td>
 			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="genre"></td>
-
 			<td class="summary">A walking corpse animated by magic.</td>
+			<td class="cost"></td>
 			<td class="category"><a href="/intotheodd/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	

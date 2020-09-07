@@ -13,6 +13,7 @@
 			<th style="width:10%;"><span class="sort" data-sort="source">Source</span></th>
 			<th style="width:20%;"><span class="sort" data-sort="genre">Genre</span></th>
 			<th style="width:20%;"><span class="sort" data-sort="summary">Summary</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="cost">Cost</span></th>
 			<th style="width:20%;"><span class="sort" data-sort="category">Category</span></th>
 			</tr>
 	</thead>
@@ -21,6 +22,7 @@
 		<th><form><select id="filter-author"></select></form></th>
 		<th><form><select id="filter-source"></select></form></th>
 		<th><form><select id="filter-genre"></select></form></th>
+		<th></th>
 		<th></th>
 		<th><form><select id="filter-category"></select></form></th>
 	</tr>
@@ -42,8 +44,8 @@
 	 		<td class="author">{{ post.author | join: ", " }}</td>
 			<td class="source">{% if post.source-url %}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
 			<td class="genre">{{ post.genre | truncate: 200 }}</td>
-
 			<td class="summary">{{ post.summary | truncate: 200 }}</td>
+			<td class="cost">{{ post.cost | truncate: 200 }}</td>
 			<td class="category">{% for cat in post.category %}<a href="{{ site.baseurl }}/{{ cat | replace: ' ', '-' }}.html" target="_blank" >{{ cat }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</td>
 		</tr>
 	{% endfor %}
