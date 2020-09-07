@@ -4,15 +4,15 @@ display: standalone
 icons:
   -
     sizes: 16x16.png
-    src: /favicons/favicon-16x16.png
+    src: /intotheodd/favicon-16x16.png
     type: image/png
   -
     sizes: 32x32
-    src: /favicon-32x32.png
+    src: /intotheodd/favicons/favicon-32x32.png
     type: image/png
 -
     sizes: 150x150
-    src: /mstile-150x150.png
+    src: /intotheodd/favicons/mstile-150x150.png
     type: image/png
 
 name: ""
