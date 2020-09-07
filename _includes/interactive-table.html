@@ -39,9 +39,10 @@
       {{ titlecase }}
         {% endif %}
    </a></td>
-			<td class="author">{{ post.author | join: ", " }}</td>
+	 		<td class="author">{{ post.author | join: ", " }}</td>
 			<td class="source">{% if post.source-url %}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
 			<td class="genre">{{ post.genre | truncate: 200 }}</td>
+
 			<td class="summary">{{ post.summary | truncate: 200 }}</td>
 			<td class="category">{% for cat in post.category %}<a href="{{ site.baseurl }}/{{ cat | replace: ' ', '-' }}.html" target="_blank" >{{ cat }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</td>
 		</tr>

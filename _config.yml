@@ -3,7 +3,6 @@ staticman:
   branch: gh-pages
 permalink: /:slug-:month:day:short_year
 include: ['_pages']
-baseurl: ""
 title: Jekyll-db
 description:
 google_analytics:
