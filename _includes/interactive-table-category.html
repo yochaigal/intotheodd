@@ -8,14 +8,16 @@
 <table class="table table-striped">
 	<thead>
 		<tr>
-			<th style="width:15%;"><span class="sort" data-sort="name">Name</span></th>
-			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
-			<th style="width:15%;"><span class="sort" data-sort="author">Author</span></th>
-			<th style="width:15%;"><span class="sort" data-sort="summary">Summary</span></th>
-			<th style="width:15%;"><span class="sort" data-sort="stats">Stats</span></th>
-			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="name">Name</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="summary">Summary</span></th>
+			<th style="width:10%;"><span class="sort" data-sort="source">Source</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="author">Author</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="genre">Genre</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="category">Category</span></th>
 		</tr>
 	</thead>
+
+
 	<tbody class="list">
 		{% assign sortedPosts = site.posts | sort: 'title' %}
 		{% for post in sortedPosts %}
@@ -31,12 +33,12 @@
 				{{ titlecase }}
 					{% endif %}
 		 </a></td>
+		 		<td class="summary">{{ post.summary | truncate: 200 }}</td>
 				<td class="source">{% if post.source-url %}<a href="{{ post.source-url }}" target="_blank">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
 				<td class="author">{{ post.author | join: ", " }}</td>
-				<td class="summary">{{ post.summary | truncate: 200 }}</td>
-				<td class="stats">{{ post.stats | truncate: 200 }}</td>
+				<td class="genre">{{ post.genre | truncate: 200 }}</td>
 				<td class="category">{% for cat in post.category %}<a href="{{ site.baseurl }}/{{ cat | replace: ' ', '-' }}.html" target="_blank" >{{ cat }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</td>
-							</tr>
+				</tr>
 		{% endif %}
 	{% endfor %}
 	</tbody>
@@ -44,28 +46,3 @@
 </div>
 
 </div>
-
-<script type="text/javascript">
-var options = {
-	valueNames: ['name', 'source', 'author', 'summary', 'stats', 'category']
-};
-var entryList = new List('entry-list', options);
-
-var hash = window.location.hash;
-var searchInput = document.querySelector('input.search');
-if(hash.length > 1) {
-  searchInput.value = hash.substr(1);
-  if ("createEvent" in document) {
-    var evt = document.createEvent("HTMLEvents");
-    evt.initEvent("keyup", false, true);
-    searchInput.dispatchEvent(evt);
-  }
-  else {
-    searchInput.fireEvent("onkeyup");
-  }
-}
-searchInput.addEventListener('keyup', function () {
-  window.location.hash = this.value;
-});
-
-</script>

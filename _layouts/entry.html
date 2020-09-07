@@ -9,6 +9,8 @@ layout: default
         <header class="post-header">
           <h2 class="post-title">{% assign words = page.name | replace: '-', ' ' | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}</a></h2>
           </header>
+          <p></p>
+          <p></p>
           <h3 class="post-stats"><b>{{ page.stats | truncate: 300 }}</b></h3>
           <h4 class="post-subtext1">{{ page.subtext1 | truncate: 500 }}</h4>
           <h4 class="post-subtext2">{{ page.subtext2 | truncate: 500 }}</h4>
@@ -18,9 +20,11 @@ layout: default
         <article class="post-content">
           {{ content }}
         </article>
-
         <div class="col-xs-12" style="height:30px;"></div>
-        <h4 class="post-category"> <b>category: </b><a href="{{ site.baseurl }}/{{page.category}}.html"><b>{{ page.category }}</b></a> <b>source: <a href="{{page.source-url}}">{{ page.source }}</a></p></h5>
+        <h4 class="post-genre"> <b>genre: </b>{{ page.genre }}</a></p></h4>
+
+        <p></p>
+        <h4 class="post-category"> <b>category: </b><a href="{{ site.baseurl }}/{{page.category}}.html"><b>{{ page.category }}</b></a> <b>source: <a href="{{page.source-url}}">{{ page.source }}</a></p></h4>
         <h4 <p><i>return to the <a href=https://yochaigal.github.io/intotheodd/><b>main page</b></a>.</i></p> </h4>
         <div class="col-xs-12" style="height:50px;"></div>
 

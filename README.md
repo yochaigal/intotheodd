@@ -18,28 +18,22 @@ Verify that the chosen date is not in use for the content you want first.
 ### File Format
 Example format below. Copy and paste the change for the content you're submitting. You can also choose an existing file as a template.
 
-```yaml
+```
 ---
 layout: entry
 category:
-- monsters
-link: http://www.content.url
-author: ['Jane Doe', 'John Smith']
-source: Where you Found it
-source-url: http://into-the-odd-content.url
-
-excerpt: Put the description of the content here. Keep it short; no more than 200 characters
- will display.
-
-category:
-- category (use an existing category please, otherwise you'll get a not-found)
-
-license: cc-by, cc-by-sa, non-open, unknown
-cost: paid, free, pwyw
-
-tags:
-- setting (if there is one)
-
+- failed-careers, monsters, oddities, hacks
+name: Name of Content Item
+author: Who made it
+source: where you found it
+source-url: how to get to the source
+genre: for hacks or failed careers
+summary: a short line about it
+stats: monster stats!
+subtext1: bullet points
+subtext2:
+subtext3:
+subtext4:
 ---
 
   Any content you want shown on the individual entry page should go here. If you don't use an

@@ -1,6 +1,28 @@
 [{
+	"name": "Weird North ",
+	"source": "itch",
+	"source-url": "https://classless-kobolds.itch.io/weird-north",
+	"license": "",
+	"cost": "",
+	"author": "Jim Parkin",
+	"description": "
+",
+	"stats": "",
+	"subtext1": "WEIRD NORTH is a role-playing game for one referee and a handful of players.",
+	"subtext2": "Players take control of wandering sellswords and adventurers, exploring a huge and curious world in order to claim great wealth, expand their renown, and achieve personal goals.",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "hacks",
+	"genre": "sword and sorcery"
+},{
 	"name": "Tiger ",
-	"source": "Weird North",
+	"source": "game",
 	"source-url": "https://www.drivethrurpg.com/product/324238/Weird-North",
 	"license": "",
 	"cost": "",
@@ -18,10 +40,11 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Sabre Cat ",
-	"source": "Weird North",
+	"source": "game",
 	"source-url": "https://www.drivethrurpg.com/product/324238/Weird-North",
 	"license": "",
 	"cost": "",
@@ -39,10 +62,11 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Puma ",
-	"source": "Weird North",
+	"source": "game",
 	"source-url": "https://www.drivethrurpg.com/product/324238/Weird-North",
 	"license": "",
 	"cost": "",
@@ -60,7 +84,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Zombie ",
 	"source": "itdr",
@@ -81,7 +106,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Yeti ",
 	"source": "itdr",
@@ -102,7 +128,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Wolf ",
 	"source": "itdr",
@@ -123,7 +150,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Wild_boar ",
 	"source": "itdr",
@@ -144,7 +172,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Viper ",
 	"source": "itdr",
@@ -165,7 +194,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Troll ",
 	"source": "itdr",
@@ -186,7 +216,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Stinkfrog ",
 	"source": "itdr",
@@ -207,7 +238,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Snake_demon ",
 	"source": "itdr",
@@ -228,7 +260,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Skeleton ",
 	"source": "itdr",
@@ -249,7 +282,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Rust_monster ",
 	"source": "itdr",
@@ -270,7 +304,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Red_dragon ",
 	"source": "itdr",
@@ -291,7 +326,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Purple_worm ",
 	"source": "itdr",
@@ -312,7 +348,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Phase_panther ",
 	"source": "itdr",
@@ -333,7 +370,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Orc ",
 	"source": "itdr",
@@ -354,7 +392,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Ogre ",
 	"source": "itdr",
@@ -375,7 +414,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Mummy ",
 	"source": "itdr",
@@ -396,7 +436,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Manticore ",
 	"source": "itdr",
@@ -417,7 +458,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Lion ",
 	"source": "itdr",
@@ -438,7 +480,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Landshark ",
 	"source": "itdr",
@@ -459,7 +502,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Imp ",
 	"source": "itdr",
@@ -480,7 +524,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Hootbear ",
 	"source": "itdr",
@@ -501,7 +546,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Hook_horror ",
 	"source": "itdr",
@@ -522,7 +568,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Hellhound ",
 	"source": "itdr",
@@ -543,7 +590,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Goblin ",
 	"source": "itdr",
@@ -564,7 +612,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Gnoll ",
 	"source": "itdr",
@@ -585,7 +634,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Gelatinous_cube ",
 	"source": "itdr",
@@ -606,7 +656,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Gazer ",
 	"source": "itdr",
@@ -627,7 +678,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Filth_eater ",
 	"source": "itdr",
@@ -648,7 +700,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Elk ",
 	"source": "itdr",
@@ -669,7 +722,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Elephant ",
 	"source": "itdr",
@@ -690,7 +744,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Deer ",
 	"source": "itdr",
@@ -711,7 +766,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Crocodile ",
 	"source": "itdr",
@@ -732,7 +788,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Brain_lord ",
 	"source": "itdr",
@@ -753,7 +810,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Boa_constrictor ",
 	"source": "itdr",
@@ -774,7 +832,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Bear ",
 	"source": "itdr",
@@ -795,7 +854,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Wind Up_portable_booby_trap ",
 	"source": "",
@@ -816,7 +876,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Wind Up_music_box ",
 	"source": "",
@@ -837,7 +898,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Wind Up_heater ",
 	"source": "",
@@ -858,7 +920,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Wind Up_door_opener ",
 	"source": "",
@@ -879,7 +942,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Watermask ",
 	"source": "",
@@ -900,7 +964,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Water_pill ",
 	"source": "",
@@ -921,7 +986,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Unmasking_electrolantern ",
 	"source": "",
@@ -942,7 +1008,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Unbreakable_lock ",
 	"source": "",
@@ -963,7 +1030,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Ultra_dried_boat ",
 	"source": "",
@@ -984,7 +1052,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Tuned_horseshoes ",
 	"source": "",
@@ -1005,7 +1074,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Tricky_fingers ",
 	"source": "",
@@ -1026,7 +1096,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Transportation_retractable_pen ",
 	"source": "",
@@ -1047,7 +1118,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Tobacco_of_monstrosities ",
 	"source": "",
@@ -1068,7 +1140,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "The_move'_harness ",
 	"source": "",
@@ -1089,7 +1162,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Spitting_wooden_box ",
 	"source": "",
@@ -1110,7 +1184,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Spheroscreen ",
 	"source": "",
@@ -1131,7 +1206,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Soles_from_the_wastelands ",
 	"source": "",
@@ -1152,7 +1228,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Smell_of_success ",
 	"source": "",
@@ -1173,7 +1250,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Silent_weighing_machine ",
 	"source": "",
@@ -1194,7 +1272,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Silent_backpack ",
 	"source": "",
@@ -1215,7 +1294,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Silent_alarm_whistle ",
 	"source": "",
@@ -1236,7 +1316,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Sesame_tuning_fork ",
 	"source": "",
@@ -1257,7 +1338,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Self Filling_decanter ",
 	"source": "",
@@ -1278,7 +1360,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Secret_door_gears ",
 	"source": "",
@@ -1299,7 +1382,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Scarsmetic ",
 	"source": "",
@@ -1320,7 +1404,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Saint_vitus_flute ",
 	"source": "",
@@ -1341,7 +1426,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Round The Corner Cape ",
 	"source": "",
@@ -1362,7 +1448,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Rejoining_rope ",
 	"source": "",
@@ -1383,7 +1470,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Purifying_tankard ",
 	"source": "",
@@ -1404,7 +1492,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Purifying_canteen ",
 	"source": "",
@@ -1425,7 +1514,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Psych O Helm ",
 	"source": "",
@@ -1446,7 +1536,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Protocol_napkin ",
 	"source": "",
@@ -1467,7 +1558,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Projecting_cloak ",
 	"source": "",
@@ -1488,7 +1580,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Projectile_catchers ",
 	"source": "",
@@ -1509,7 +1602,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Portable_knob ",
 	"source": "",
@@ -1530,7 +1624,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Portable_jack In The Box ",
 	"source": "",
@@ -1551,7 +1646,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Portable_hole ",
 	"source": "",
@@ -1572,7 +1668,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Pole_soles ",
 	"source": "",
@@ -1593,7 +1690,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Personal_lock ",
 	"source": "",
@@ -1614,7 +1712,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Multiplying_wooden_ladder ",
 	"source": "",
@@ -1635,7 +1734,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Morphing_cloak ",
 	"source": "",
@@ -1656,7 +1756,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Modified_prosthetic_shooter_arm ",
 	"source": "",
@@ -1677,7 +1778,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Modified_prosthetic_brawler_arm ",
 	"source": "",
@@ -1698,7 +1800,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Memorizing_compass ",
 	"source": "",
@@ -1719,7 +1822,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Mechanically_enhanced_flippers ",
 	"source": "",
@@ -1740,7 +1844,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Mechanically_enhanced_cat_feet ",
 	"source": "",
@@ -1761,7 +1866,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Mechanic_pin_of_silence ",
 	"source": "",
@@ -1782,7 +1888,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Master_key ",
 	"source": "",
@@ -1803,7 +1910,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Machine_embroidered_flying_carpet ",
 	"source": "",
@@ -1824,7 +1932,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Irresistible_fishing_rod ",
 	"source": "",
@@ -1845,7 +1954,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Heating_twin_screws ",
 	"source": "",
@@ -1866,7 +1976,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Hearing_horn ",
 	"source": "",
@@ -1887,7 +1998,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Graviton Gun ",
 	"source": "",
@@ -1908,7 +2020,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Gliding_plate ",
 	"source": "",
@@ -1929,7 +2042,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Gambling_deck_or_die ",
 	"source": "",
@@ -1950,7 +2064,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Freezing Liquid Dust ",
 	"source": "discord",
@@ -1971,7 +2086,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Folding_scaffold ",
 	"source": "",
@@ -1992,7 +2108,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Fire_snuffer ",
 	"source": "",
@@ -2013,7 +2130,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Extra_fix ",
 	"source": "",
@@ -2034,7 +2152,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Entangling_rope ",
 	"source": "",
@@ -2055,7 +2174,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Enhanced_knitting_needles ",
 	"source": "",
@@ -2076,7 +2196,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Devouring_bag ",
 	"source": "",
@@ -2097,7 +2218,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Detachable_beholder_eye ",
 	"source": "",
@@ -2118,7 +2240,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Containing_canvas ",
 	"source": "",
@@ -2139,7 +2262,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Collapsing_machinery ",
 	"source": "",
@@ -2160,7 +2284,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Carboy_of_daylight ",
 	"source": "",
@@ -2181,7 +2306,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Canning_can ",
 	"source": "",
@@ -2202,7 +2328,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Canned_cube ",
 	"source": "",
@@ -2223,7 +2350,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Bouncing_cage ",
 	"source": "",
@@ -2244,7 +2372,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Blinding_machinery_gadget ",
 	"source": "",
@@ -2265,7 +2394,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Bat_jacket ",
 	"source": "",
@@ -2286,7 +2416,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Automated_ventriloquist_puppet ",
 	"source": "",
@@ -2307,7 +2438,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Augmenting_arm_wrappings ",
 	"source": "",
@@ -2328,7 +2460,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Augmented_blindfold ",
 	"source": "",
@@ -2349,7 +2482,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Arachnogloves ",
 	"source": "",
@@ -2370,7 +2504,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Animal_whistle ",
 	"source": "",
@@ -2391,7 +2526,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Adjustable_blanket ",
 	"source": "",
@@ -2412,7 +2548,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Telemarketer ",
 	"source": "discord",
@@ -2512,7 +2649,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "failed-careers"
+	"categories": "failed-careers",
+	"genre": ""
 },{
 	"name": "Solitary Symphonist ",
 	"source": "discord",
@@ -2610,7 +2748,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "failed-careers"
+	"categories": "failed-careers",
+	"genre": ""
 },{
 	"name": "Sludge Island Tagger ",
 	"source": "discord",
@@ -2694,7 +2833,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "failed-careers"
+	"categories": "failed-careers",
+	"genre": ""
 },{
 	"name": "Self Saboteur ",
 	"source": "discord",
@@ -2866,7 +3006,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "failed-careers"
+	"categories": "failed-careers",
+	"genre": ""
 },{
 	"name": "Rpg Designer ",
 	"source": "discord",
@@ -3066,7 +3207,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "failed-careers"
+	"categories": "failed-careers",
+	"genre": ""
 },{
 	"name": "Emergency Primatologist ",
 	"source": "discord",
@@ -3146,7 +3288,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "failed-careers"
+	"categories": "failed-careers",
+	"genre": ""
 },{
 	"name": "Retroactive Disguise ",
 	"source": "discord",
@@ -3167,7 +3310,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Grease Of All Flavours ",
 	"source": "discord",
@@ -3188,7 +3332,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "oddities"
+	"categories": "oddities",
+	"genre": ""
 },{
 	"name": "Worm Avatar ",
 	"source": "discord",
@@ -3209,7 +3354,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Water_bear ",
 	"source": "discord",
@@ -3230,7 +3376,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Vicious_cyclist ",
 	"source": "discord",
@@ -3251,7 +3398,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Thaumovoric_eels ",
 	"source": "discord",
@@ -3272,7 +3420,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Star Rat ",
 	"source": "discord",
@@ -3293,7 +3442,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Smoke_enforcer ",
 	"source": "discord",
@@ -3314,7 +3464,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Shiv Slug ",
 	"source": "discord",
@@ -3335,7 +3486,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Sand_golem ",
 	"source": "discord",
@@ -3356,7 +3508,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Quadcrocs ",
 	"source": "discord",
@@ -3377,7 +3530,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Pandimensional_pack_alpaca ",
 	"source": "discord",
@@ -3398,7 +3552,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Meat Trap_sunflower ",
 	"source": "discord",
@@ -3419,7 +3574,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Interdictor_drone ",
 	"source": "discord",
@@ -3440,7 +3596,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Incandescent_huntsman ",
 	"source": "discord",
@@ -3461,7 +3618,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Identifier_drone ",
 	"source": "discord",
@@ -3482,7 +3640,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Ice_frog ",
 	"source": "discord",
@@ -3503,7 +3662,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Hummingbat_swarm ",
 	"source": "discord",
@@ -3524,7 +3684,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Hologhoul ",
 	"source": "discord",
@@ -3545,7 +3706,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Headcrab ",
 	"source": "discord",
@@ -3566,7 +3728,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Glowie_the_giant_glow_worm_mockery ",
 	"source": "discord",
@@ -3587,7 +3750,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Ghost_whale ",
 	"source": "discord",
@@ -3608,7 +3772,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Gazur_ ",
 	"source": "discord",
@@ -3629,7 +3794,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Gate_trog ",
 	"source": "discord",
@@ -3650,7 +3816,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Furious_floating_book ",
 	"source": "discord",
@@ -3671,7 +3838,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Electrosnail ",
 	"source": "discord",
@@ -3692,7 +3860,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Dust_elementals ",
 	"source": "discord",
@@ -3713,7 +3882,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Dire_flower_ape ",
 	"source": "discord",
@@ -3734,7 +3904,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Deep Coral_colony ",
 	"source": "discord",
@@ -3755,7 +3926,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Collector_slug ",
 	"source": "discord",
@@ -3776,7 +3948,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Chittering_skull_flies ",
 	"source": "discord",
@@ -3797,7 +3970,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Celestial Priest ",
 	"source": "twitter",
@@ -3818,7 +3992,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Catwisp ",
 	"source": "discord",
@@ -3839,7 +4014,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Bilgewater_fox_snake ",
 	"source": "discord",
@@ -3860,7 +4036,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Baobob ",
 	"source": "discord",
@@ -3881,7 +4058,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Automaton_abomination ",
 	"source": "discord",
@@ -3902,7 +4080,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Amphibian_overlords ",
 	"source": "discord",
@@ -3923,7 +4102,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Basilisk ",
 	"source": "ose srd",
@@ -3944,7 +4124,8 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 },{
 	"name": "Alzabo ",
 	"source": "discord",
@@ -3965,5 +4146,6 @@
 ",
 	"link": "",
 	"tags": "",
-	"categories": "monsters"
+	"categories": "monsters",
+	"genre": ""
 }]

@@ -35,9 +35,9 @@
 
   <div class="starter-template row">
     <h1>List of Into The Odd Content</h1>
-    <p class="lead">160 oddities, careers, or monsters. </p>
+    <p class="lead">161 oddities, careers, or monsters. </p>
     <p> Items are just <a href="https://github.com/yochaigal/intotheodd/tree/gh-pages/_posts">posts</a>. Click on the item name to open a new tab. Type to search. Click on row headers to sort. <br /> See a <a href="output.json">JSON representation</a> of the data below.</p>
-    <p>To open an issue (including adding a missing oddity, career or monster) or just get in touch, visit the repo <a href="https://github.com/yochaigal/intotheodd/tree/gh-pages">here</a>.</small></p>
+    <p>To open an issue (including adding a missing oddity, career, monster or hack) or just get in touch, visit the repo <a href="https://github.com/yochaigal/intotheodd/tree/gh-pages">here</a>.</small></p>
   </div>
 
 
@@ -51,19 +51,19 @@
 <table class="table table-striped">
 	<thead>
 		<tr>
-			<th style="width:15%;"><span class="sort" data-sort="name">Name</span></th>
-			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
-			<th style="width:15%;"><span class="sort" data-sort="author">Author</span></th>
-			<th style="width:15%;"><span class="sort" data-sort="summary">Summary</span></th>
-			<th style="width:15%;"><span class="sort" data-sort="stats">Stats</span></th>
-			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
-		</tr>
+			<th style="width:20%;"><span class="sort" data-sort="name">Name</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="author">Author</span></th>
+			<th style="width:10%;"><span class="sort" data-sort="source">Source</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="genre">Genre</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="summary">Summary</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="category">Category</span></th>
+			</tr>
 	</thead>
 	<tr>
 		<th></th>
-		<th><form><select id="filter-source"></select></form></th>
 		<th><form><select id="filter-author"></select></form></th>
-		<th></th>
+		<th><form><select id="filter-source"></select></form></th>
+		<th><form><select id="filter-genre"></select></form></th>
 		<th></th>
 		<th><form><select id="filter-category"></select></form></th>
 	</tr>
@@ -80,10 +80,10 @@
       Adjustable Blanket 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -96,10 +96,10 @@
       Alzabo 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499195645131882506/730565162825809940" target="_blank">discord</a></td>
 			<td class="author">yochaigal</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499195645131882506/730565162825809940" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary">A red bear that steals its victim's voice.</td>
-			<td class="stats">12 HP, 1 Armor, 12 STR, 6 DEX, 16 CHA, bite (d6), claw (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -112,10 +112,10 @@
       Amphibian Overlords 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575" target="_blank">discord</a></td>
 			<td class="author">Baal</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary">Exotic Capitalists.</td>
-			<td class="stats">3 HP Overpriced revolver (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -128,10 +128,10 @@
       Animal Whistle 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -144,10 +144,10 @@
       Arachnogloves 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -160,10 +160,10 @@
       Augmented Blindfold 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -176,10 +176,10 @@
       Augmenting Arm Wrappings 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -192,10 +192,10 @@
       Automated Ventriloquist Puppet 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -208,10 +208,10 @@
       Automaton Abomination 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700699391970902016" target="_blank">discord</a></td>
 			<td class="author">AwkwardTurtle</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700699391970902016" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary">A huge machine that consumes it’s victims and splits into smaller parts.</td>
-			<td class="stats">12 HP, 5 CHA, Whirling Blades (d8 Blast)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -224,10 +224,10 @@
       Baobob 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499197623748657162/708649760428523592" target="_blank">discord</a></td>
 			<td class="author">Zac Bir</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499197623748657162/708649760428523592" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary">A malicious version of the Baobab tree.</td>
-			<td class="stats">10 HP, 2 Armor, 18 STR, branch whip (d8), huge</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -240,10 +240,10 @@
       Basilisk 
         
    </a></td>
-			<td class="source"><a href="https://oldschoolessentials.necroticgnome.com/srd/index.php/Basilisk" target="_blank">ose srd</a></td>
 			<td class="author">yochaigal</td>
+			<td class="source"><a href="https://oldschoolessentials.necroticgnome.com/srd/index.php/Basilisk" target="_blank">ose srd</a></td>
+			<td class="genre"></td>
 			<td class="summary">A lizard that turns its victims to stone.</td>
-			<td class="stats">12 HP, 2 Armor, 15 STR, 9 DEX, 5 CHA, bite (d10), gaze (Blast)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -256,10 +256,10 @@
       Bat Jacket 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -272,10 +272,10 @@
       Bear 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">6 HP, 1 Armor, STR 15,  CHA 7, bite (d8),  claws (2d6)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -288,10 +288,10 @@
       Bilgewater Fox Snake 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499195645131882506/690636047478030387" target="_blank">discord</a></td>
 			<td class="author">magnificentophat & voidlight</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499195645131882506/690636047478030387" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary">A big snake looking for friends.</td>
-			<td class="stats">10 HP, 10 STR, 16 DEX, 12 CHA, coil and bite (d8), flailing thrash (d4 Blast)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -304,10 +304,10 @@
       Blinding Machinery Gadget 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -320,10 +320,10 @@
       Boa Constrictor 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">5 HP, STR 16,  CHA 3, bite (d4)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -336,10 +336,10 @@
       Bouncing Cage 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -352,10 +352,10 @@
       Brain Lord 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Psionic abberations from the Beyond.</td>
-			<td class="stats">18 HP, 14 STR, 14 DEX, 20 CHA, immunity to mind-altering spells</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -368,10 +368,10 @@
       Canned Cube 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -384,10 +384,10 @@
       Canning Can 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -400,10 +400,10 @@
       Carboy Of Daylight 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -416,10 +416,10 @@
       Catwisp, Twirling Cat 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/701191300657184829" target="_blank">discord</a></td>
 			<td class="author">Slater</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/701191300657184829" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary">A dangerous cat looking for pats.</td>
-			<td class="stats">3 HP,  4 STR, 14 DEX, 10 CHA, twirling claws (d4), rippling pounce (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -432,10 +432,10 @@
       Celestial Priest 
         
    </a></td>
-			<td class="source"><a href="https://twitter.com/yochaigal1/status/1297989454347501576?s=20" target="_blank">twitter</a></td>
 			<td class="author">yochaigal</td>
+			<td class="source"><a href="https://twitter.com/yochaigal1/status/1297989454347501576?s=20" target="_blank">twitter</a></td>
+			<td class="genre"></td>
 			<td class="summary">An alien priest that needs to absorb flesh from others.</td>
-			<td class="stats">12 HP, 1 Armor, STR 11, DEX 15, CHA 13,  flesh tentacle (d10, Blast)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -448,10 +448,10 @@
       Chittering Skull Flies 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499195645131882506/693518743086825562" target="_blank">discord</a></td>
 			<td class="author">yochaigal</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499195645131882506/693518743086825562" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary">Giant bugs that live in corpses.</td>
-			<td class="stats">6 HP, 6 STR, 12 DEX, 3 CHA, bite (d6), Group of d6</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -464,10 +464,10 @@
       Collapsing Machinery 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -480,10 +480,10 @@
       Collector Slug 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705383587179921449" target="_blank">discord</a></td>
 			<td class="author">Curio</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705383587179921449" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">6 HP,  5 DEX, 15 CHA, bite and grapple (d4)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -496,10 +496,10 @@
       Containing Canvas 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -512,10 +512,10 @@
       Crocodile 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">3 HP, 1 Armor, STR 15,  CHA 5, bite (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -528,10 +528,10 @@
       Deep Coral Colony 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575" target="_blank">discord</a></td>
 			<td class="author">Baal</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">5 HP, 13 STR, 13 DEX, Lash (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -544,10 +544,10 @@
       Deer 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">2 HP, DEX 16, CHA 5, hooves (d6)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -560,10 +560,10 @@
       Detachable Beholder Eye 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -576,10 +576,10 @@
       Devouring Bag 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -592,10 +592,10 @@
       Dire Flower Ape 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384228577214495" target="_blank">discord</a></td>
 			<td class="author">Curio</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384228577214495" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">7 HP,  15 STR, 5 CHA, pummel (d6+d6)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -608,10 +608,10 @@
       Dust Elementals 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/698707233650901032" target="_blank">discord</a></td>
 			<td class="author">yochaigal</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/698707233650901032" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">10 HP, 15 DEX, desiccating touch (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -624,10 +624,10 @@
       Electrosnail 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703478322495094815" target="_blank">discord</a></td>
 			<td class="author">twocalf</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703478322495094815" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">3 HP,  2 Armor, 5 STR, 3 DEX, eyestalk zap (d4 ignores Armor)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -640,10 +640,10 @@
       Elephant 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">12 HP, 1 Armor, STR 20,  CHA 8, tusks (d10)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -656,10 +656,10 @@
       Elk 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">6 HP, STR 16,  CHA 5, d8 Horns</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -672,10 +672,10 @@
       Emergency Primatologist 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/722766040857313370" target="_blank">discord</a></td>
 			<td class="author">mihau</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/722766040857313370" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/failed-careers.html" target="_blank" >failed-careers</a></td>
 		</tr>
 	
@@ -688,10 +688,10 @@
       Enhanced Knitting Needles 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -704,10 +704,10 @@
       Entangling Rope 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -720,10 +720,10 @@
       Extra Fix 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -736,10 +736,10 @@
       Filth Eater 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Big, stupid beasts that eat nearly anything they find.</td>
-			<td class="stats">16 HP, 1 Armor, 16 STR, 6 DEX, 5 CHA, bite (d6)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -752,10 +752,10 @@
       Fire Snuffer 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -768,10 +768,10 @@
       Folding Scaffold 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -784,10 +784,10 @@
       Freezing Liquid Dust 
         
    </a></td>
-			<td class="source"> discord </td>
 			<td class="author">roqueromero</td>
+			<td class="source"> discord </td>
+			<td class="genre"></td>
 			<td class="summary">Freeze things.</td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -800,10 +800,10 @@
       Furious Floating Book 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499193406828838924/685533964840075309" target="_blank">discord</a></td>
 			<td class="author">yochaigal</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499193406828838924/685533964840075309" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">3 HP, 11 DEX, book slam (d6)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -816,10 +816,10 @@
       Gambling Deck Or Die 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -832,10 +832,10 @@
       Gate Trog 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384271161851914" target="_blank">discord</a></td>
 			<td class="author">Curio</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384271161851914" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">6 HP,  1 Armor, 5 CHA, shock-baton (d6)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -848,10 +848,10 @@
       Gazer 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">A telekinetic, floating one-eyed monster.</td>
-			<td class="stats">20 HP, 1 Armor, 16 STR, 16 DEX, 17 CHA</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -864,10 +864,10 @@
       Gazur 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/693041267331825716" target="_blank">discord</a></td>
 			<td class="author">Curio</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/693041267331825716" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">6 HP</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -880,10 +880,10 @@
       Gelatinous Cube 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Giant, transparent ooze.</td>
-			<td class="stats">16 HP, 2 Armor, 14 STR, 3 DEX, 3 CHA</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -896,10 +896,10 @@
       Ghost Whale 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/663658762741088284/690576913458266192" target="_blank">discord</a></td>
 			<td class="author">yochaigal</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/663658762741088284/690576913458266192" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">10 HP, 5 DEX</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -912,10 +912,10 @@
       Gliding Plate 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -928,10 +928,10 @@
       Glowie, The Giant Glow Worm Mockery 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/699988788897906709" target="_blank">discord</a></td>
 			<td class="author">ShakeSharp</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/699988788897906709" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">20 HP, 3 Armor, 18 STR, rolling death (d12, Blast), detachment</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -944,10 +944,10 @@
       Gnoll 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Intelligent man-hyenas hybrids.</td>
-			<td class="stats">9 HP, 2 Armor (light armor and shield), 12 STR, 12 DEX, 7 CHA, axe (d6/d8), 3d6s in stolen coins and trinkets</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -960,10 +960,10 @@
       Goblin 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Mischievous creatures that can easily be bribed with</td>
-			<td class="stats">4 HP, 8 STR, 14 DEX, 8 CHA, spear (d6), bow (d4)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -976,10 +976,10 @@
       Graviton Gun 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">rattlemayne</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -992,10 +992,10 @@
       Grease Of All Flavours 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/715566908304523366" target="_blank">discord</a></td>
 			<td class="author">roqueromero</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/715566908304523366" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary">Make anything food.</td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1008,10 +1008,10 @@
       Headcrab 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/694480567785357343" target="_blank">discord</a></td>
 			<td class="author">Freddo</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/694480567785357343" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">2 HP 6 STR, jump-attack (d6)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1024,10 +1024,10 @@
       Hearing Horn 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1040,10 +1040,10 @@
       Heating Twin Screws 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1056,10 +1056,10 @@
       Hellhound 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Demonic dogs that hunt in packs.</td>
-			<td class="stats">5 HP, 1 Armor, 12 DEX, bite (d6), immunity to fire</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1072,10 +1072,10 @@
       Hologhoul 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700469456047964180" target="_blank">discord</a></td>
 			<td class="author">Curio</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700469456047964180" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">1 HP,  1 STR, 16 DEX, bite (d4)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1088,10 +1088,10 @@
       Hook Horror 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">A 10-foot tall tunnel horror, with hooks.</td>
-			<td class="stats">7 HP, 3 Armor, 15 STR, 8 DEX, 6 CHA, hooks (2d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1104,10 +1104,10 @@
       Hootbear 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Bear-Owl hybrid that lives in forests.</td>
-			<td class="stats">10 HP, 1 Armor, 15 STR, 6 DEX, 5 CHA, claws (2d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1120,10 +1120,10 @@
       Hummingbat Swarm 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700630310806749234" target="_blank">discord</a></td>
 			<td class="author">Curio</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700630310806749234" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">5 HP,  5 STR, 15 DEX, scratch (d4), detachment</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1136,10 +1136,10 @@
       Ice Frog 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703692547502899260" target="_blank">discord</a></td>
 			<td class="author">twocalf</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703692547502899260" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">3 HP,  1 Armor, 5 STR, chomp (d4)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1152,10 +1152,10 @@
       Identifier Drone 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703698712194711553" target="_blank">discord</a></td>
 			<td class="author">twocalf</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703698712194711553" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">2 HP,  3 STR, bash (d2)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1168,10 +1168,10 @@
       Imp 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Winged tricksters.</td>
-			<td class="stats">3 HP, 6 STR, 16 DEX, 14 CHA, venomous bite, all attacks (except magical weapons) are Impaired</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1184,10 +1184,10 @@
       Incandescent Huntsman 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700112795928100974" target="_blank">discord</a></td>
 			<td class="author">gooscar & twocalf</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700112795928100974" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">3 HP,  15 DEX</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1200,10 +1200,10 @@
       Interdictor Drone 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703702071710449727" target="_blank">discord</a></td>
 			<td class="author">twocalf</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703702071710449727" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">2 HP,  3 STR</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1216,10 +1216,10 @@
       Irresistible Fishing Rod 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1232,10 +1232,10 @@
       Landshark 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Burowing behemoth.</td>
-			<td class="stats">18 HP, 3 Armor, 17 STR, 8 DEX, 8 CHA, bite (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1248,10 +1248,10 @@
       Lion 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">6 HP, 1 Armor, STR 17, DEX 15,  bite (d8),  claws (2d6)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1264,10 +1264,10 @@
       Machine Embroidered Flying Carpet 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1280,10 +1280,10 @@
       Manticore 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Man-lion-scorpion monster. Run.</td>
-			<td class="stats">8 HP, 1 Armor, 17 STR, 15 DEX, claws (2d6), bite (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1296,10 +1296,10 @@
       Master Key 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1312,10 +1312,10 @@
       Meat Trap Sunflower 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384387927081021" target="_blank">discord</a></td>
 			<td class="author">Curio</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384387927081021" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">4 HP, suffocation (d4)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1328,10 +1328,10 @@
       Mechanic Pin Of Silence 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1344,10 +1344,10 @@
       Mechanically Enhanced Cat Feet 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1360,10 +1360,10 @@
       Mechanically Enhanced Flippers 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1376,10 +1376,10 @@
       Memorizing Compass 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1392,10 +1392,10 @@
       Modified Prosthetic Brawler Arm 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1408,10 +1408,10 @@
       Modified Prosthetic Shooter Arm 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1424,10 +1424,10 @@
       Morphing Cloak 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1440,10 +1440,10 @@
       Multiplying Wooden Ladder 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1456,10 +1456,10 @@
       Mummy 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Undead terrors that seek to destroy the living.</td>
-			<td class="stats">9 HP, 1 Armor, 16 STR, 8 DEX, fist (d8), immune to non-magical attacks; fire attacks are enhanced</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1472,10 +1472,10 @@
       Ogre 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Hideous, large and man-eating.</td>
-			<td class="stats">6 HP, 1 Armor, 18 STR, 8 DEX, 7 CHA, club (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1488,10 +1488,10 @@
       Orc 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Amoral, goblin-like minions in service to a master.</td>
-			<td class="stats">5 HP, 2 Armor (piecemeal armor and a shield), 11 STR, 9 DEX, 8 CHA, martial weapon (d6/d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1504,10 +1504,10 @@
       Pandimensional Pack Alpaca 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384310034792469" target="_blank">discord</a></td>
 			<td class="author">Curio</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384310034792469" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">5 HP, headbutt (d4)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1520,10 +1520,10 @@
       Personal Lock 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1536,10 +1536,10 @@
       Phase Panther 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Blink and you'll miss them.</td>
-			<td class="stats">13 HP, 16 STR, 18 DEX, 6 CHA, clawed tentacles (2d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1552,10 +1552,10 @@
       Pole Soles 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1568,10 +1568,10 @@
       Portable Hole 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1584,10 +1584,10 @@
       Portable Jack In The Box 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1600,10 +1600,10 @@
       Portable Knob 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1616,10 +1616,10 @@
       Projectile Catchers 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1632,10 +1632,10 @@
       Projecting Cloak 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1648,10 +1648,10 @@
       Protocol Napkin 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1664,10 +1664,10 @@
       Psych O Helm 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1680,10 +1680,10 @@
       Puma 
         
    </a></td>
-			<td class="source"><a href="https://www.drivethrurpg.com/product/324238/Weird-North" target="_blank">Weird North</a></td>
 			<td class="author">Jim Parkin</td>
+			<td class="source"><a href="https://www.drivethrurpg.com/product/324238/Weird-North" target="_blank">game</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">4 HP, 12 DEX, claws (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1696,10 +1696,10 @@
       Purifying Canteen 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1712,10 +1712,10 @@
       Purifying Tankard 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1728,10 +1728,10 @@
       Purple Worm 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Massive burrowing worms.</td>
-			<td class="stats">30 HP, 3 Armor, 20 STR, 3 DEX, 5 CHA, sting (d10)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1744,10 +1744,10 @@
       Quadcrocs 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575" target="_blank">discord</a></td>
 			<td class="author">Baal</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">6 HP, 1 Armor, 13 STR, Quad-Bite (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1760,10 +1760,10 @@
       Red Dragon 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Fire-breathing dragon.</td>
-			<td class="stats">25 HP, 3 Armor, 20 STR, 12 CHA, 2d10 claws, Advantage on Saves from magic</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1776,10 +1776,10 @@
       Rejoining Rope 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1792,10 +1792,10 @@
       Retroactive Disguise 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/663658762741088284/699401685281275966" target="_blank">discord</a></td>
 			<td class="author">yochaigal, gooscar</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/663658762741088284/699401685281275966" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary">Erase memories with an outfit.</td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1808,10 +1808,10 @@
       Round The Corner Cape 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1824,10 +1824,10 @@
       Rpg Designer 
         
    </a></td>
-			<td class="source"><a href="https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit" target="_blank">discord</a></td>
 			<td class="author">davesvedberg</td>
+			<td class="source"><a href="https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/failed-careers.html" target="_blank" >failed-careers</a></td>
 		</tr>
 	
@@ -1840,10 +1840,10 @@
       Rust Monster 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Pony-sized metal-eater.</td>
-			<td class="stats">6 HP, 12 DEX, 5 CHA, bite (d6)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1856,10 +1856,10 @@
       Sabre Cat 
         
    </a></td>
-			<td class="source"><a href="https://www.drivethrurpg.com/product/324238/Weird-North" target="_blank">Weird North</a></td>
 			<td class="author">Jim Parkin</td>
+			<td class="source"><a href="https://www.drivethrurpg.com/product/324238/Weird-North" target="_blank">game</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">8 HP, 15 STR, 13 DEX, rend (d10)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1872,10 +1872,10 @@
       Saint Vitus Flute 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1888,10 +1888,10 @@
       Sand Golem 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/722319134481973298" target="_blank">discord</a></td>
 			<td class="author">twocalf</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/722319134481973298" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">6 HP</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -1904,10 +1904,10 @@
       Scarsmetic 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1920,10 +1920,10 @@
       Secret Door Gears 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1936,10 +1936,10 @@
       Self Filling Decanter 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1952,10 +1952,10 @@
       Self Saboteur 
         
    </a></td>
-			<td class="source"><a href="https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit" target="_blank">discord</a></td>
 			<td class="author">davesvedberg</td>
+			<td class="source"><a href="https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/failed-careers.html" target="_blank" >failed-careers</a></td>
 		</tr>
 	
@@ -1968,10 +1968,10 @@
       Sesame Tuning Fork 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -1984,10 +1984,10 @@
       Shiv Slug 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384094980243527" target="_blank">discord</a></td>
 			<td class="author">Curio</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384094980243527" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">3 HP,  5 DEX, neurotoxin (d6 DEX damage)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2000,10 +2000,10 @@
       Silent Alarm Whistle 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2016,10 +2016,10 @@
       Silent Backpack 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2032,10 +2032,10 @@
       Silent Weighing Machine 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2048,10 +2048,10 @@
       Skeleton 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">Undead warriors.</td>
-			<td class="stats">5 HP, 2 Armor (see note) 13 DEX, 12 CHA, blunt sword (d6)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2064,10 +2064,10 @@
       Sludge Island Tagger 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/717659288503582731" target="_blank">discord</a></td>
 			<td class="author">mihau</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/717659288503582731" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/failed-careers.html" target="_blank" >failed-careers</a></td>
 		</tr>
 	
@@ -2080,10 +2080,10 @@
       Smell Of Success 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2096,10 +2096,10 @@
       Smoke Enforcer 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575" target="_blank">discord</a></td>
 			<td class="author">Baal</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/695715698910953575" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">4 HP, 1 Armor, Shock prod (d6), 3 cough-inducing smoke bombs</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2112,10 +2112,10 @@
       Snake Demon 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">18 HP, 1 Armor, 17 STR, 17 DEX, 16 CHA, six swords (6d6, can target multiple melee opponents)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2128,10 +2128,10 @@
       Soles From The Wastelands 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2144,10 +2144,10 @@
       Solitary Symphonist 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703235613251600404" target="_blank">discord</a></td>
 			<td class="author">curio, baal, roqueromero</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703235613251600404" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/failed-careers.html" target="_blank" >failed-careers</a></td>
 		</tr>
 	
@@ -2160,10 +2160,10 @@
       Spheroscreen 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2176,10 +2176,10 @@
       Spitting Wooden Box 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2192,10 +2192,10 @@
       Star Rat 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384424245690378" target="_blank">discord</a></td>
 			<td class="author">Curio</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/705384424245690378" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">1 HP, 1 STR, bite (1 damage)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2208,10 +2208,10 @@
       Stinkfrog 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">6 HP, 1 Armor, 13 DEX, 7 CHA, spear (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2224,10 +2224,10 @@
       Telemarketer 
         
    </a></td>
-			<td class="source"><a href="https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit" target="_blank">discord</a></td>
 			<td class="author">davesvedberg</td>
+			<td class="source"><a href="https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/failed-careers.html" target="_blank" >failed-careers</a></td>
 		</tr>
 	
@@ -2240,10 +2240,10 @@
       Thaumovoric Eels 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499193406828838924/698706414364917790" target="_blank">discord</a></td>
 			<td class="author">yochaigal</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/499193406828838924/698706414364917790" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">8 HP 3 STR, volatile bite (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2256,10 +2256,10 @@
       The Move' Harness 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2272,10 +2272,10 @@
       Tiger 
         
    </a></td>
-			<td class="source"><a href="https://www.drivethrurpg.com/product/324238/Weird-North" target="_blank">Weird North</a></td>
 			<td class="author">Jim Parkin</td>
+			<td class="source"><a href="https://www.drivethrurpg.com/product/324238/Weird-North" target="_blank">game</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">5 HP, 14 STR, cite-and-claws (d6 + d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2288,10 +2288,10 @@
       Tobacco Of Monstrosities 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2304,10 +2304,10 @@
       Transportation Retractable Pen 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2320,10 +2320,10 @@
       Tricky Fingers 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2336,10 +2336,10 @@
       Troll 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">9 HP, 18 STR, 13 DEX, 7 CHA, claws and bite (3d8, can target multiple melee opponents)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2352,10 +2352,10 @@
       Tuned Horseshoes 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2368,10 +2368,10 @@
       Ultra Dried Boat 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2384,10 +2384,10 @@
       Unbreakable Lock 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2400,10 +2400,10 @@
       Unmasking Electrolantern 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2416,10 +2416,10 @@
       Vicious Cyclist 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700700727714119721" target="_blank">discord</a></td>
 			<td class="author">AwkwardTurtle</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/700700727714119721" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">6 HP,  5 STR, 15 DEX, Ride Down (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2432,10 +2432,10 @@
       Viper 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">3 HP,  , DEX 16, CHA 3, venomous bite (d6)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2448,10 +2448,10 @@
       Water Bear 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/718138501480185916" target="_blank">discord</a></td>
 			<td class="author">twocalf</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/718138501480185916" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">15 HP, 3 Armor, 3 DEX, bite (d6)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2464,10 +2464,10 @@
       Water Pill 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2480,11 +2480,27 @@
       Watermask 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
+		</tr>
+	
+		<tr>
+			<td class="name">
+   <a href="/weird-north-090720">
+        
+      
+      
+      Weird North 
+        
+   </a></td>
+			<td class="author">Jim Parkin</td>
+			<td class="source"><a href="https://classless-kobolds.itch.io/weird-north" target="_blank">itch</a></td>
+			<td class="genre">sword and sorcery</td>
+			<td class="summary">A picaresque, sword & sorcery RPG</td>
+			<td class="category"><a href="/hacks.html" target="_blank" >hacks</a></td>
 		</tr>
 	
 		<tr>
@@ -2496,10 +2512,10 @@
       Wild Boar 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">4 HP,  STR 13, DEX 11, CHA 5, tusks (d10)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2512,10 +2528,10 @@
       Wind Up Door Opener 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2528,10 +2544,10 @@
       Wind Up Heater 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2544,10 +2560,10 @@
       Wind Up Music Box 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2560,10 +2576,10 @@
       Wind Up Portable Booby Trap 
         
    </a></td>
-			<td class="source">  </td>
 			<td class="author">roqueromero</td>
+			<td class="source">  </td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats"></td>
 			<td class="category"><a href="/oddities.html" target="_blank" >oddities</a></td>
 		</tr>
 	
@@ -2576,10 +2592,10 @@
       Wolf 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">3 HP,  STR 12, DEX 15, CHA 6, bite (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2592,10 +2608,10 @@
       Worm Avatar 
         
    </a></td>
-			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/701782404339335168" target="_blank">discord</a></td>
 			<td class="author">yochaigal</td>
+			<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/701782404339335168" target="_blank">discord</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">8 HP,  5 DEX, toxic bite (d8)</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2608,10 +2624,10 @@
       Yeti 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary"></td>
-			<td class="stats">6 HP, 1 Armor, 18 STR, 14 DEX, claws (2d6),</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2624,10 +2640,10 @@
       Zombie 
         
    </a></td>
-			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
 			<td class="author">vladar</td>
+			<td class="source"><a href="https://github.com/Vladar4/itdr" target="_blank">itdr</a></td>
+			<td class="genre"></td>
 			<td class="summary">A walking corpse animated by magic.</td>
-			<td class="stats">3 HP, 14 STR, 6 DEX, fist (d6), slow</td>
 			<td class="category"><a href="/monsters.html" target="_blank" >monsters</a></td>
 		</tr>
 	
@@ -2638,7 +2654,6 @@
 </div>
 
 <script type="text/javascript" src="scripts.js"></script>
-
 
 
 <div class="row">
