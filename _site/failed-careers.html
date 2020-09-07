@@ -48,14 +48,16 @@
 <table class="table table-striped">
 	<thead>
 		<tr>
-			<th style="width:15%;"><span class="sort" data-sort="name">Name</span></th>
-			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
-			<th style="width:15%;"><span class="sort" data-sort="author">Author</span></th>
-			<th style="width:15%;"><span class="sort" data-sort="summary">Summary</span></th>
-			<th style="width:15%;"><span class="sort" data-sort="stats">Stats</span></th>
-			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="name">Name</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="summary">Summary</span></th>
+			<th style="width:10%;"><span class="sort" data-sort="source">Source</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="author">Author</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="genre">Genre</span></th>
+			<th style="width:20%;"><span class="sort" data-sort="category">Category</span></th>
 		</tr>
 	</thead>
+
+
 	<tbody class="list">
 		
 		
@@ -143,12 +145,12 @@
 				Emergency Primatologist 
 					
 		 </a></td>
+		 		<td class="summary"></td>
 				<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/722766040857313370" target="_blank">discord</a></td>
 				<td class="author">mihau</td>
-				<td class="summary"></td>
-				<td class="stats"></td>
+				<td class="genre"></td>
 				<td class="category"><a href="/failed-careers.html" target="_blank" >failed-careers</a></td>
-							</tr>
+				</tr>
 		
 	
 		  
@@ -303,12 +305,12 @@
 				Rpg Designer 
 					
 		 </a></td>
+		 		<td class="summary"></td>
 				<td class="source"><a href="https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit" target="_blank">discord</a></td>
 				<td class="author">davesvedberg</td>
-				<td class="summary"></td>
-				<td class="stats"></td>
+				<td class="genre"></td>
 				<td class="category"><a href="/failed-careers.html" target="_blank" >failed-careers</a></td>
-							</tr>
+				</tr>
 		
 	
 		  
@@ -335,12 +337,12 @@
 				Self Saboteur 
 					
 		 </a></td>
+		 		<td class="summary"></td>
 				<td class="source"><a href="https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit" target="_blank">discord</a></td>
 				<td class="author">davesvedberg</td>
-				<td class="summary"></td>
-				<td class="stats"></td>
+				<td class="genre"></td>
 				<td class="category"><a href="/failed-careers.html" target="_blank" >failed-careers</a></td>
-							</tr>
+				</tr>
 		
 	
 		  
@@ -365,12 +367,12 @@
 				Sludge Island Tagger 
 					
 		 </a></td>
+		 		<td class="summary"></td>
 				<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/717659288503582731" target="_blank">discord</a></td>
 				<td class="author">mihau</td>
-				<td class="summary"></td>
-				<td class="stats"></td>
+				<td class="genre"></td>
 				<td class="category"><a href="/failed-careers.html" target="_blank" >failed-careers</a></td>
-							</tr>
+				</tr>
 		
 	
 		  
@@ -391,12 +393,12 @@
 				Solitary Symphonist 
 					
 		 </a></td>
+		 		<td class="summary"></td>
 				<td class="source"><a href="https://discordapp.com/channels/499193406828838922/674544134798966806/703235613251600404" target="_blank">discord</a></td>
 				<td class="author">curio, baal, roqueromero</td>
-				<td class="summary"></td>
-				<td class="stats"></td>
+				<td class="genre"></td>
 				<td class="category"><a href="/failed-careers.html" target="_blank" >failed-careers</a></td>
-							</tr>
+				</tr>
 		
 	
 		  
@@ -417,13 +419,15 @@
 				Telemarketer 
 					
 		 </a></td>
+		 		<td class="summary"></td>
 				<td class="source"><a href="https://docs.google.com/document/d/1f-zsmxdHv2LJUUJJcLhH8OSmX0zYDBSpSQECnRAMmEA/edit" target="_blank">discord</a></td>
 				<td class="author">davesvedberg</td>
-				<td class="summary"></td>
-				<td class="stats"></td>
+				<td class="genre"></td>
 				<td class="category"><a href="/failed-careers.html" target="_blank" >failed-careers</a></td>
-							</tr>
+				</tr>
 		
+	
+		  
 	
 		  
 	
@@ -480,31 +484,6 @@
 </div>
 
 </div>
-
-<script type="text/javascript">
-var options = {
-	valueNames: ['name', 'source', 'author', 'summary', 'stats', 'category']
-};
-var entryList = new List('entry-list', options);
-
-var hash = window.location.hash;
-var searchInput = document.querySelector('input.search');
-if(hash.length > 1) {
-  searchInput.value = hash.substr(1);
-  if ("createEvent" in document) {
-    var evt = document.createEvent("HTMLEvents");
-    evt.initEvent("keyup", false, true);
-    searchInput.dispatchEvent(evt);
-  }
-  else {
-    searchInput.fireEvent("onkeyup");
-  }
-}
-searchInput.addEventListener('keyup', function () {
-  window.location.hash = this.value;
-});
-
-</script>
 
 
 <div class="row">
