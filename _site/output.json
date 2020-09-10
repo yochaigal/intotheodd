@@ -1,7 +1,7 @@
 [{
 	"name": "Xenobioddity ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://pretendo.games/2019/02/21/wip-xenobioddity/",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Jason Tocci",
@@ -22,9 +22,9 @@
 	"genre": "sci-fi",
 	"cost": "$0.00"
 },{
-	"name": "Warhammer 99,000 ",
+	"name": "Warphammer 99,000 ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://www.bastionland.com/2015/11/warphammer-99000.html",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Chris McDowall",
@@ -47,7 +47,7 @@
 },{
 	"name": "Vermin (of Bastion) ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/10tWxv1bjYzZiKMYZaEdBSAq7viYOg5n7/view?usp%3Ddrivesdk",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -70,7 +70,7 @@
 },{
 	"name": "Van Jesus ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://micah-anderson.itch.io/vanjesus/download/eyJleHBpcmVzIjoxNTc3NzQzMTAzLCJpZCI6NTE0NDMwfQ%253d%253d%252e2thPKjMKCx0omvRwEUcgTtGN1ZE%253d",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Micah Anderson",
@@ -93,7 +93,7 @@
 },{
 	"name": "Unknown Arcana ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/1UN5CE9T4-D_HMS5GDigafyTBnOEuOUmH/view?pli%3D1",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -116,7 +116,7 @@
 },{
 	"name": "Underground ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/0BzlzuNqxWzf6T0llZUVxY3V6amM/view",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -139,7 +139,7 @@
 },{
 	"name": "Trash Goblins ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://rmossie.itch.io/trash-goblins",
 	"license": "",
 	"cost": "$0.00",
 	"author": "RMOssie",
@@ -162,7 +162,7 @@
 },{
 	"name": "The World Broke ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://dimfrost.itch.io/the-world-broke",
 	"license": "",
 	"cost": "$3.99",
 	"author": "dimfrost",
@@ -185,7 +185,7 @@
 },{
 	"name": "The New Economy ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/1hUijwgG3zqxT5kbuVsSf4Krx08fakn72/view",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -208,7 +208,7 @@
 },{
 	"name": "The Mutants Of Ixx ",
 	"source": "dtrpg",
-	"source-url": "",
+	"source-url": "https://www.drivethrurpg.com/product/274526/The-Mutants-of-Ixx",
 	"license": "",
 	"cost": "$2.00",
 	"author": "Karl Stjernberg",
@@ -231,7 +231,7 @@
 },{
 	"name": "The Labyrinth Of Verra ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://joaquin-ollo.itch.io/the-labyrinth-of-verra",
 	"license": "",
 	"cost": "$5.00",
 	"author": "Joaquin Ollo",
@@ -254,7 +254,7 @@
 },{
 	"name": "The Diabolical Dossier ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://rmossie.itch.io/the-diabolical-dossier",
 	"license": "",
 	"cost": "$5.00",
 	"author": "RMOssie",
@@ -277,7 +277,7 @@
 },{
 	"name": "The Cabin ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://docs.google.com/document/d/1DmqcIkWLPvOxHmK7eOAZ66Q_EHh5DqkpENj27e7IFOc/edit",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -300,7 +300,7 @@
 },{
 	"name": "Teenage Mutant Ninjas Into The Odd: 2 ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://docs.google.com/document/d/1QL556z9ozNlag0d-jBzFBYHAh8y__Lk-bPLoJ9bOxYw/edit",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -323,7 +323,7 @@
 },{
 	"name": "Tales Of Mordhearse Hyperlite ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://unwashedmendicant.itch.io/tales-of-mordhearse-hyperlite",
 	"license": "",
 	"cost": "$0.00",
 	"author": "unwashedmendicant",
@@ -346,7 +346,7 @@
 },{
 	"name": "Striders ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://gearoong.itch.io/striders-srd",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Gearoong",
@@ -369,7 +369,7 @@
 },{
 	"name": "Street Fighting Dogs ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/1KLzYLP9aVwhMbqkVg69XbUf8F4U5AY1t/view",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -392,7 +392,7 @@
 },{
 	"name": "Squires Errant ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://flyrefi.itch.io/squires-errant",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Tim B.",
@@ -415,7 +415,7 @@
 },{
 	"name": "Songbirds ",
 	"source": "dtrpg",
-	"source-url": "",
+	"source-url": "https://www.drivethrurpg.com/product/234978/Songbirds",
 	"license": "",
 	"cost": "$7.99",
 	"author": "John Battle",
@@ -438,7 +438,7 @@
 },{
 	"name": "Slick Thames ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/0Bye96K5Ut6LQajh0VHU0d0w5X0U/view",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -461,7 +461,7 @@
 },{
 	"name": "Sky Whalers Of Jupiter ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://cosmicorrery.itch.io/sky-whalers-of-jupiter",
 	"license": "",
 	"cost": "$0.00",
 	"author": "cosmicorrery",
@@ -484,7 +484,7 @@
 },{
 	"name": "Shabby Art Of Mystery ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://docs.google.com/document/d/1GZchmPyWXzeg7pfuBnnsZBCjIhoE95NeQcGU3DNhQSs/edit",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -507,7 +507,7 @@
 },{
 	"name": "Saga ",
 	"source": "dropbox",
-	"source-url": "",
+	"source-url": "https://www.dropbox.com/s/w842sonbmapmop4/Saga.pdf?dl%3D0",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -530,7 +530,7 @@
 },{
 	"name": "Red Ink Adventures ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://dreamingdragonslayer.wordpress.com/2019/12/07/red-ink-adventures/",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Sam Doebler",
@@ -553,7 +553,7 @@
 },{
 	"name": "Rats In The Walls ",
 	"source": "lulu",
-	"source-url": "",
+	"source-url": "http://www.lulu.com/shop/kobayashi/rats-in-the-walls/paperback/product-23732747.html",
 	"license": "",
 	"cost": "$17.62",
 	"author": "Kobayashi",
@@ -576,7 +576,7 @@
 },{
 	"name": "Radnarok (into The End) ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://docs.google.com/document/d/1X1W-9niCfpOHuT2pockv87dDi8nI1IP6b-uymYEW1OM/edit%23",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -599,7 +599,7 @@
 },{
 	"name": "Qz ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://jasontocci.itch.io/qz",
 	"license": "",
 	"cost": "$5.00",
 	"author": "Jason Tocci",
@@ -622,7 +622,7 @@
 },{
 	"name": "Quarrel & Fable ",
 	"source": "dtrpg",
-	"source-url": "",
+	"source-url": "https://www.drivethrurpg.com/product/231601/Quarrel--Fable",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Sean F. Smith",
@@ -645,7 +645,7 @@
 },{
 	"name": "Patchwork Arcology ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/1pJKmRJ024AVrbBWiFGiXExdXxPa1Gdj-/view?usp%3Ddrivesdk",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -668,7 +668,7 @@
 },{
 	"name": "Palace Run ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://benignbrownbeast.blogspot.com/2019/08/palace-run-02.html",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Ian McDougall",
@@ -691,7 +691,7 @@
 },{
 	"name": "Oddpocalypse ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://www.bastionland.com/2015/09/oddpocalypse.html",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Chris McDowall",
@@ -714,7 +714,7 @@
 },{
 	"name": "Odd Planet ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/1MRmOxc7HxINDAnAcvmjtRBgbV0cIvUCd/view?usp%3Dsharing",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -737,7 +737,7 @@
 },{
 	"name": "Obscure Adventures ",
 	"source": "dtrpg",
-	"source-url": "",
+	"source-url": "https://www.drivethrurpg.com/product/262290/Obscure-Adventures--Fold-n-Play-OSR",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Ricardo Esteves",
@@ -760,7 +760,7 @@
 },{
 	"name": "Non’s Day Out ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://themagniloquentmoth.blogspot.com/2019/01/nons-day-out.html",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Salinday",
@@ -783,7 +783,7 @@
 },{
 	"name": "Nekrovon ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://walterlicinio.itch.io/nekrovon",
 	"license": "",
 	"cost": "$3.33",
 	"author": "Walter Licinio",
@@ -806,7 +806,7 @@
 },{
 	"name": "Mountaineers, Mercenaries, And Madmen ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://slantiopink.blogspot.com/2019/09/mountaineers-mercenaries-and-madmen.html?",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Slantio",
@@ -829,7 +829,7 @@
 },{
 	"name": "Moonhop ",
 	"source": "dtrpg",
-	"source-url": "",
+	"source-url": "https://www.drivethrurpg.com/product/271188/Moonhop",
 	"license": "",
 	"cost": "$2.99",
 	"author": "Type1Ninja",
@@ -852,7 +852,7 @@
 },{
 	"name": "Metroplex ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://reptilianesoterica.itch.io/metroplex",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Reptilian Esoterica",
@@ -875,7 +875,7 @@
 },{
 	"name": "Merchants Of Venus ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://docs.google.com/document/d/1GthgMkl-ajC2WfkUz5yYW4EkkWG8ZpmO6u-ScpE9Ji0/edit",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -898,7 +898,7 @@
 },{
 	"name": "Maze Rats ",
 	"source": "dtrpg",
-	"source-url": "",
+	"source-url": "https://www.drivethrurpg.com/product/197158/Maze-Rats",
 	"license": "",
 	"cost": "$2.99",
 	"author": "Ben Milton",
@@ -921,7 +921,7 @@
 },{
 	"name": "Maximum Recursion Depth ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://maxcan7.itch.io/maximum-recursion-depth-or-sometimes-the-only-way-to-win-is-to-stop-playing",
 	"license": "",
 	"cost": "$0.00",
 	"author": "maxcan7",
@@ -944,7 +944,7 @@
 },{
 	"name": "Mausritter ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://losing-games.itch.io/mausritter",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Losing Games",
@@ -967,7 +967,7 @@
 },{
 	"name": "Into_the_bronze ",
 	"source": "dtrpg",
-	"source-url": "",
+	"source-url": "https://www.drivethrurpg.com/product/318919",
 	"license": "",
 	"cost": "$12.00",
 	"author": "Lantern's Faun",
@@ -990,7 +990,7 @@
 },{
 	"name": "Into_the_borderlands ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://docs.google.com/document/d/19qpEkgBRTLgkvkCgwVBc8iPcTSfKNu-GkdSO-CFWtnU/edit",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -1013,7 +1013,7 @@
 },{
 	"name": "Into The Wasteland ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://wrathofzombie.wordpress.com/2015/11/09/into-the-wasteland-rules-for-using-into-the-odd-to-runplay-in-a-fallout-campaign/",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Mike Evans",
@@ -1036,7 +1036,7 @@
 },{
 	"name": "Into The Void ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/0B4XPsApBrOnLVHlWZVhSS0VuRE0/view?usp=sharing",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Tore Nielsen",
@@ -1059,7 +1059,7 @@
 },{
 	"name": "Into The Troika ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://1.bp.blogspot.com/-E_2Kyg6_i5k/XlJc9Grx9tI/AAAAAAAAkmU/1GqmqMgLPxIDKq2s3BvkAAlpE7xYG3j4gCEwYBhgL/s1600/Bildschirmfoto%252B2020-02-23%252Bum%252B12.06.13.png",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Eamon Mulholland",
@@ -1082,7 +1082,7 @@
 },{
 	"name": "Into The Rave ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://pitch-black-lair.itch.io/into-the-rave",
 	"license": "",
 	"cost": "$3.75",
 	"author": "Pitch Black Lair",
@@ -1105,7 +1105,7 @@
 },{
 	"name": "Into The Ninth World ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://pretendo.games/2019/06/02/into-the-ninth-world-converting-numenera-to-into-the-odd/",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Jason Tocci",
@@ -1128,7 +1128,7 @@
 },{
 	"name": "Into The Jungle ",
 	"source": "dtrpg",
-	"source-url": "",
+	"source-url": "https://www.drivethrurpg.com/product/273630/Into-The-Jungle",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Missing in action",
@@ -1151,7 +1151,7 @@
 },{
 	"name": "Into The Hollow ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://underwaterowlbear.itch.io/into-the-hollow",
 	"license": "",
 	"cost": "$0.00",
 	"author": "UnderwaterOwlbear",
@@ -1174,7 +1174,7 @@
 },{
 	"name": "Into The Haunt ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://docs.google.com/file/d/0B5K_Bqfr0dqcb1lWYW5ycEpqZkU/edit",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Gremlin Legions",
@@ -1197,7 +1197,7 @@
 },{
 	"name": "Into The Gungeon ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://wasitlikely.blogspot.com/2019/05/into-gungeon-run-n-gunbullet-hell-hack.html",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Mr. Screw On Head",
@@ -1220,7 +1220,7 @@
 },{
 	"name": "Into The Glog ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/1iltzsY-WA3gvk4nQOhA6BWq_C6US9uXh/view?usp=sharing",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Type1ninja",
@@ -1243,7 +1243,7 @@
 },{
 	"name": "Into The Eclipse ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://docs.google.com/document/d/18K81CsXCG0ZfAMo4fLxXEYxjadd3C-zdeSTLBYT6ggI/edit",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Jason Tocci",
@@ -1266,7 +1266,7 @@
 },{
 	"name": "Into The Dungeon: Revived ",
 	"source": "github",
-	"source-url": "",
+	"source-url": "https://vladar4.github.io/itdr/",
 	"license": "",
 	"cost": "$0.00",
 	"author": "vladar4",
@@ -1289,7 +1289,7 @@
 },{
 	"name": "Into The Dredd ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/0Bye96K5Ut6LQSFBIYXRrV1FDMVE/view",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Sean F Smith",
@@ -1312,7 +1312,7 @@
 },{
 	"name": "Into The Depths ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://cosmicorrery.itch.io/into-the-depths",
 	"license": "",
 	"cost": "$2.25",
 	"author": "cosmicorrery",
@@ -1335,7 +1335,7 @@
 },{
 	"name": "Into The Chopper ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://unspeakable-games.itch.io/into-the-chopper",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Unspeakable Games",
@@ -1358,7 +1358,7 @@
 },{
 	"name": "Into The Card ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://archaism.wordpress.com/2017/02/26/into-the-card-a-variant-for-fifty-two-friends/",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -1381,7 +1381,7 @@
 },{
 	"name": "Into London 1814 ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://intolondon1814.blogspot.com/p/presentation.html",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -1404,7 +1404,7 @@
 },{
 	"name": "Internment Camp Ny 1 ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "http://iceandruin.blogspot.com/search/label/Internment%2520Camp%2520NY-1",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Matt Strom",
@@ -1427,7 +1427,7 @@
 },{
 	"name": "In Die Dunkelheit ",
 	"source": "dtrpg",
-	"source-url": "",
+	"source-url": "https://www.drivethrurpg.com/product/253172/In-die-Dunkelheit",
 	"license": "",
 	"cost": "$4.74",
 	"author": "Norbert G. Matausch",
@@ -1450,7 +1450,7 @@
 },{
 	"name": "Guns Of Telluria ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://fictivefantasies.wordpress.com/into-the-odd-open-table/",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Kaprou",
@@ -1473,7 +1473,7 @@
 },{
 	"name": "Finders Keepers ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://slightadjustments.blogspot.com/2019/12/finders-keepers.html",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Spwack",
@@ -1496,7 +1496,7 @@
 },{
 	"name": "Fear Of The Unknown ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://docs.google.com/document/d/1xZ7XfBoXNpO0AaiTZT5GBVHyNAKOhi7fnEIPUfcu0-M/edit?usp=sharing",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Wizard Lizard",
@@ -1519,7 +1519,7 @@
 },{
 	"name": "Eldritch Investigationland ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://pellep.itch.io/eldritchinvestigationland",
 	"license": "",
 	"cost": "$0.00",
 	"author": "PelleP",
@@ -1542,7 +1542,7 @@
 },{
 	"name": "Doomhammer ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://docs.google.com/document/d/1ifIXbaPZInakAXrBPRIdvJv1abw1fWaIY8etE9-wAcQ/edit?usp%3Ddrivesdk",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Rattlemayne's",
@@ -1565,7 +1565,7 @@
 },{
 	"name": "Dirk Rules! ",
 	"source": "dtrpg",
-	"source-url": "",
+	"source-url": "https://www.drivethrurpg.com/product/300649",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Dirk with a vengeance",
@@ -1588,7 +1588,7 @@
 },{
 	"name": "Death Is The New Pink ",
 	"source": "dtrpg",
-	"source-url": "",
+	"source-url": "https://www.drivethrurpg.com/product/214126/Death-is-the-New-Pink",
 	"license": "",
 	"cost": "$9.99",
 	"author": "Mike Evans",
@@ -1611,7 +1611,7 @@
 },{
 	"name": "Cybernetic Bastards ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/1ILKveKjKV4Z7FJAtyUwppsIbFTq_WdsU/view",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Twocalf",
@@ -1634,7 +1634,7 @@
 },{
 	"name": "Crawling Bastion ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://maxver.itch.io/crawling-bastions",
 	"license": "",
 	"cost": "$5.00",
 	"author": "mv",
@@ -1657,7 +1657,7 @@
 },{
 	"name": "Cormorant ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://seanfsmith.itch.io/cormorant-rpg",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Sean F Smith",
@@ -1680,7 +1680,7 @@
 },{
 	"name": "Carapace ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://torthevic.itch.io/carapace",
 	"license": "",
 	"cost": "$3.99",
 	"author": "TorTheVic",
@@ -1703,7 +1703,7 @@
 },{
 	"name": "Bloodring ",
 	"source": "blog",
-	"source-url": "",
+	"source-url": "https://benignbrownbeast.blogspot.com/2019/02/bloodring.html",
 	"license": "",
 	"cost": "$0.00",
 	"author": "",
@@ -1726,7 +1726,7 @@
 },{
 	"name": "Blood And Chrome ",
 	"source": "google-drive",
-	"source-url": "",
+	"source-url": "https://drive.google.com/file/d/1TnM5vPUJ0c8GUiTlHEvNr6NV-94afxUT/view",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Sam Doebler",
@@ -1749,7 +1749,7 @@
 },{
 	"name": "Any Planet Is Earth ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://classless-kobolds.itch.io/any-planet-is-earth",
 	"license": "",
 	"cost": "$3.00",
 	"author": "Jim Parkin",
@@ -1772,7 +1772,7 @@
 },{
 	"name": "Anna X66 ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://scablandspress.itch.io/anna-x66",
 	"license": "",
 	"cost": "$0.00",
 	"author": "Scablands Press",
@@ -1795,7 +1795,7 @@
 },{
 	"name": "Agents Of The O.d.d. ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://jasontocci.itch.io/agents-of-the-odd",
 	"license": "",
 	"cost": "$5.00",
 	"author": "Jason Tocci",
@@ -1818,7 +1818,7 @@
 },{
 	"name": "2400 ",
 	"source": "itch",
-	"source-url": "",
+	"source-url": "https://jasontocci.itch.io/2400",
 	"license": "",
 	"cost": "$6.00",
 	"author": "Jason Tocci",
@@ -1843,15 +1843,15 @@
 	"source": "itch",
 	"source-url": "https://classless-kobolds.itch.io/weird-north",
 	"license": "",
-	"cost": "$6",
+	"cost": "$6.00",
 	"author": "Jim Parkin",
 	"description": "
 ",
 	"stats": "",
 	"subtext1": "Weird North is a role-playing game for one referee and a handful of players.",
-	"subtext2": "Players take control of wandering sellswords and adventurers, exploring a huge and curious world in order to claim great wealth, expand their renown, and achieve personal goals.",
-	"subtext3": "Submitted as part of #Eclectic BastionJam.",
-	"subtext4": "",
+	"subtext2": "Players take control of wandering sellswords and adventurers,",
+	"subtext3": "exploring a huge and curious world in order to claim great wealth, expand their renown, and achieve personal goals.",
+	"subtext4": "Submitted as part of #Eclectic BastionJam.",
 	"inspiration": "",
 	"inspiration-url": "",
 	"content": "
@@ -1860,7 +1860,7 @@
 	"tags": "",
 	"categories": "hacks",
 	"genre": "sword and sorcery",
-	"cost": "$6"
+	"cost": "$6.00"
 },{
 	"name": "Tiger ",
 	"source": "game",

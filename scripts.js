@@ -1,11 +1,11 @@
 var options = {
 	valueNames: [
 		'name',
-		'source',
 		'author',
-		'summary',
-		'stats',
+		'source',
 		'genre',
+		'summary',
+		'cost',
 		'category']
 };
 
@@ -70,6 +70,7 @@ function populateOptions(select, options) {
 var filterSource = document.querySelector('#filter-source');
 var filterAuthor = document.querySelector('#filter-author');
 var filterGenre = document.querySelector('#filter-genre');
+var filterCost = document.querySelector('#filter-cost');
 var filterCategory = document.querySelector('#filter-category');
 
 
@@ -78,6 +79,7 @@ function filters () {
 		var source = filterSource.value;
 		var author = filterAuthor.value;
 		var genre = filterGenre.value;
+		var cost = filterCost.value;
 		var category = filterCategory.value;
 
 		return (source === 'all'
@@ -89,6 +91,9 @@ function filters () {
 			&& (genre === 'all'
 				|| ((genre === 'n/a') && item.values().genre.trim() === '')
 				|| (stripHtml(item.values().genre).split(splitExp).indexOf(genre) >= 0))
+			&& (cost === 'all'
+					|| ((cost === 'n/a') && item.values().cost.trim() === '')
+					|| (stripHtml(item.values().cost).split(splitExp).indexOf(cost) >= 0))
 			&& (category === 'all'
 				|| ((category === 'n/a') && item.values().category.trim() === '')
 				|| (stripHtml(item.values().category).split(splitExp).indexOf(category) >= 0));
@@ -103,6 +108,9 @@ filterAuthor.onchange = function () {filters();};
 
 populateOptions(filterGenre, getOptions('genre'));
 filterGenre.onchange = function () {filters();};
+
+populateOptions(filterCost, getOptions('cost'));
+filterCost.onchange = function () {filters();};
 
 populateOptions(filterCategory, getOptions('category'));
 filterCategory.onchange = function () {filters();};
