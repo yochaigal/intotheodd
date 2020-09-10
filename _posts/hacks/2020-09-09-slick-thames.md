@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: google-drive
-source_url: https://drive.google.com/file/d/0Bye96K5Ut6LQajh0VHU0d0w5X0U/view
+source-url: https://drive.google.com/file/d/0Bye96K5Ut6LQajh0VHU0d0w5X0U/view
 ---

@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: blog
-source_url: https://slightadjustments.blogspot.com/2019/12/finders-keepers.html
+source-url: https://slightadjustments.blogspot.com/2019/12/finders-keepers.html
 ---

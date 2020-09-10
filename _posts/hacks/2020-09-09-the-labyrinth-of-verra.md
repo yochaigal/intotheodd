@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://joaquin-ollo.itch.io/the-labyrinth-of-verra
+source-url: https://joaquin-ollo.itch.io/the-labyrinth-of-verra
 ---

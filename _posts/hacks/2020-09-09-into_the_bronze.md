@@ -12,5 +12,5 @@ subtext4: "Character sheets in A4 and Letter paper size for free here: https://w
 category:
 - hacks
 source: dtrpg
-source_url: https://www.drivethrurpg.com/product/318919
+source-url: https://www.drivethrurpg.com/product/318919
 ---

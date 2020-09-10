@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://flyrefi.itch.io/squires-errant
+source-url: https://flyrefi.itch.io/squires-errant
 ---

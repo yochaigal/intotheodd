@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://losing-games.itch.io/mausritter
+source-url: https://losing-games.itch.io/mausritter
 ---

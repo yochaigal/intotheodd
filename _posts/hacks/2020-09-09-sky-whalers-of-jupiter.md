@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://cosmicorrery.itch.io/sky-whalers-of-jupiter
+source-url: https://cosmicorrery.itch.io/sky-whalers-of-jupiter
 ---

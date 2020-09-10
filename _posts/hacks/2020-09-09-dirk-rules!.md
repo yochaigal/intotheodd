@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: dtrpg
-source_url: https://www.drivethrurpg.com/product/300649
+source-url: https://www.drivethrurpg.com/product/300649
 ---

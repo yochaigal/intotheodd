@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: dtrpg
-source_url: https://www.drivethrurpg.com/product/274526/The-Mutants-of-Ixx
+source-url: https://www.drivethrurpg.com/product/274526/The-Mutants-of-Ixx
 ---

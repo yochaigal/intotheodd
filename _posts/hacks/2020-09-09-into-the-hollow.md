@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://underwaterowlbear.itch.io/into-the-hollow
+source-url: https://underwaterowlbear.itch.io/into-the-hollow
 ---

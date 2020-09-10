@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: blog
-source_url: https://wasitlikely.blogspot.com/2019/05/into-gungeon-run-n-gunbullet-hell-hack.html
+source-url: https://wasitlikely.blogspot.com/2019/05/into-gungeon-run-n-gunbullet-hell-hack.html
 ---

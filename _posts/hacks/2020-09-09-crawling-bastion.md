@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://maxver.itch.io/crawling-bastions
+source-url: https://maxver.itch.io/crawling-bastions
 ---

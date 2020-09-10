@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://pellep.itch.io/eldritchinvestigationland
+source-url: https://pellep.itch.io/eldritchinvestigationland
 ---

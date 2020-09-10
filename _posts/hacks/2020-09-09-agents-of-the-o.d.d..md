@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://jasontocci.itch.io/agents-of-the-odd
+source-url: https://jasontocci.itch.io/agents-of-the-odd
 ---

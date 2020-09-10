@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: blog
-source_url: https://archaism.wordpress.com/2017/02/26/into-the-card-a-variant-for-fifty-two-friends/
+source-url: https://archaism.wordpress.com/2017/02/26/into-the-card-a-variant-for-fifty-two-friends/
 ---

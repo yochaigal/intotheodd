@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://classless-kobolds.itch.io/any-planet-is-earth
+source-url: https://classless-kobolds.itch.io/any-planet-is-earth
 ---

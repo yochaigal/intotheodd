@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://rmossie.itch.io/trash-goblins
+source-url: https://rmossie.itch.io/trash-goblins
 ---

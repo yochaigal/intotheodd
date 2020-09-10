@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://pitch-black-lair.itch.io/into-the-rave
+source-url: https://pitch-black-lair.itch.io/into-the-rave
 ---

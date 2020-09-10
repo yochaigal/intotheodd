@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: lulu
-source_url: http://www.lulu.com/shop/kobayashi/rats-in-the-walls/paperback/product-23732747.html
+source-url: http://www.lulu.com/shop/kobayashi/rats-in-the-walls/paperback/product-23732747.html
 ---

@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: blog
-source_url: http://iceandruin.blogspot.com/search/label/Internment%2520Camp%2520NY-1
+source-url: http://iceandruin.blogspot.com/search/label/Internment%2520Camp%2520NY-1
 ---

@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://unwashedmendicant.itch.io/tales-of-mordhearse-hyperlite
+source-url: https://unwashedmendicant.itch.io/tales-of-mordhearse-hyperlite
 ---

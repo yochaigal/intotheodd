@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: dtrpg
-source_url: https://www.drivethrurpg.com/product/231601/Quarrel--Fable
+source-url: https://www.drivethrurpg.com/product/231601/Quarrel--Fable
 ---

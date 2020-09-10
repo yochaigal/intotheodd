@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: dtrpg
-source_url: https://www.drivethrurpg.com/product/214126/Death-is-the-New-Pink
+source-url: https://www.drivethrurpg.com/product/214126/Death-is-the-New-Pink
 ---

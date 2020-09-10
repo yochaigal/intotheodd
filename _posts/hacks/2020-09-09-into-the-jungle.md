@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: dtrpg
-source_url: https://www.drivethrurpg.com/product/273630/Into-The-Jungle
+source-url: https://www.drivethrurpg.com/product/273630/Into-The-Jungle
 ---

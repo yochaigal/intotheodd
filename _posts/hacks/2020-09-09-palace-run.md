@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: blog
-source_url: https://benignbrownbeast.blogspot.com/2019/08/palace-run-02.html
+source-url: https://benignbrownbeast.blogspot.com/2019/08/palace-run-02.html
 ---

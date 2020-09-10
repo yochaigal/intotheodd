@@ -12,5 +12,5 @@ subtext4: "Single page of rules can be printed as a poster"
 category:
 - hacks
 source: itch
-source_url: https://seanfsmith.itch.io/cormorant-rpg
+source-url: https://seanfsmith.itch.io/cormorant-rpg
 ---

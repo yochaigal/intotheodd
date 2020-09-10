@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: blog
-source_url: https://www.bastionland.com/2015/09/oddpocalypse.html
+source-url: https://www.bastionland.com/2015/09/oddpocalypse.html
 ---

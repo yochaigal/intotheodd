@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://maxcan7.itch.io/maximum-recursion-depth-or-sometimes-the-only-way-to-win-is-to-stop-playing
+source-url: https://maxcan7.itch.io/maximum-recursion-depth-or-sometimes-the-only-way-to-win-is-to-stop-playing
 ---

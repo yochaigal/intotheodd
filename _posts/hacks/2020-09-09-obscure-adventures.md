@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: dtrpg
-source_url: https://www.drivethrurpg.com/product/262290/Obscure-Adventures--Fold-n-Play-OSR
+source-url: https://www.drivethrurpg.com/product/262290/Obscure-Adventures--Fold-n-Play-OSR
 ---

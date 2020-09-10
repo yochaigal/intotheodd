@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: blog
-source_url: https://fictivefantasies.wordpress.com/into-the-odd-open-table/
+source-url: https://fictivefantasies.wordpress.com/into-the-odd-open-table/
 ---

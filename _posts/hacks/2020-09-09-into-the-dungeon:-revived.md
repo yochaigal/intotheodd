@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: github
-source_url: https://vladar4.github.io/itdr/
+source-url: https://vladar4.github.io/itdr/
 ---

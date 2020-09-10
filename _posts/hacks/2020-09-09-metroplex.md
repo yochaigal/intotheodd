@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://reptilianesoterica.itch.io/metroplex
+source-url: https://reptilianesoterica.itch.io/metroplex
 ---

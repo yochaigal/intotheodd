@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://unspeakable-games.itch.io/into-the-chopper
+source-url: https://unspeakable-games.itch.io/into-the-chopper
 ---

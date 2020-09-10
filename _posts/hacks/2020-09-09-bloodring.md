@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: blog
-source_url: https://benignbrownbeast.blogspot.com/2019/02/bloodring.html
+source-url: https://benignbrownbeast.blogspot.com/2019/02/bloodring.html
 ---

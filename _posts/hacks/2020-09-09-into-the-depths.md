@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: itch
-source_url: https://cosmicorrery.itch.io/into-the-depths
+source-url: https://cosmicorrery.itch.io/into-the-depths
 ---

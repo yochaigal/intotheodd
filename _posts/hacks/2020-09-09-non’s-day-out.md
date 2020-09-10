@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: blog
-source_url: https://themagniloquentmoth.blogspot.com/2019/01/nons-day-out.html
+source-url: https://themagniloquentmoth.blogspot.com/2019/01/nons-day-out.html
 ---

@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: blog
-source_url: https://dreamingdragonslayer.wordpress.com/2019/12/07/red-ink-adventures/
+source-url: https://dreamingdragonslayer.wordpress.com/2019/12/07/red-ink-adventures/
 ---

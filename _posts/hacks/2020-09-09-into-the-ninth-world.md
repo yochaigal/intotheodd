@@ -12,5 +12,5 @@ subtext4:
 category:
 - hacks
 source: blog
-source_url: https://pretendo.games/2019/06/02/into-the-ninth-world-converting-numenera-to-into-the-odd/
+source-url: https://pretendo.games/2019/06/02/into-the-ninth-world-converting-numenera-to-into-the-odd/
 ---
