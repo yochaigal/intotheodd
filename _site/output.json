@@ -1,4 +1,50 @@
 [{
+	"name": "Salt Mummy ",
+	"source": "game",
+	"source-url": "https://www.drivethrurpg.com/product/324238/Weird-North",
+	"license": "",
+	"cost": "",
+	"author": "Jim Parkin",
+	"description": "
+",
+	"stats": "8 HP, 15 STR, 13 DEX, rend (d10)",
+	"subtext1": " • Apex feline agility with ursine musculature.",
+	"subtext2": " • Two freaking scimitar teeth.",
+	"subtext3": " • Critical: d6 - 1-4 bleed out, 5-6 lose a limb.",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "monsters",
+	"genre": "",
+	"cost": ""
+},{
+	"name": "Numa ",
+	"source": "dtrpg",
+	"source-url": "https://www.drivethrurpg.com/product/327725/Numa",
+	"license": "",
+	"cost": "$12.00",
+	"author": "Tiago Rolim",
+	"description": "
+",
+	"stats": "",
+	"subtext1": "In a distant swamp in the interior of medieval Japan, in a small city called Mizutamari, lives a society of frogs built around dynastic swamp lords and amphibious warriors beholden to oaths of honor and revenge. NUMA is heavily inspired by the graphic novels Musashi by Eji Yoshikawa and Vagabond by Takehiro Inoue, Akira Kurosawa’s samurai films, OSR RPGs, and oriental batrachians.",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "
+",
+	"link": "",
+	"tags": "",
+	"categories": "hacks",
+	"genre": "japanese",
+	"cost": "$12.00"
+},{
 	"name": "Xenobioddity ",
 	"source": "blog",
 	"source-url": "https://pretendo.games/2019/02/21/wip-xenobioddity/",
