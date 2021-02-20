@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Dragon, White
 stats: 11 HP, 2 Armor, 16 STR, bite (d8+d8)
 subtext1: " • Ferocious, primal dragons that dwell in cold regions. Hunt dangerous prey and keep their bodies as trophies."

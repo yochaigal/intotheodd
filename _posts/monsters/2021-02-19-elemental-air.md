@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Elemental, Air
 stats: 16 HP, 11 STR, 15 DEX, 8 WIL, wind blow (d8)
 subtext1: " • Huge, living vortexes of whirling air."

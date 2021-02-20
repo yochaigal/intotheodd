@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Dragon, Green
 stats: 12 HP, 2 Armor, 15 STR, 18 WIL, bite (d8+d8)
 subtext1: " • Treacherous, scheming forest-dwelling amphibious dragons."

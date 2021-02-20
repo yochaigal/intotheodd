@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Fish, Giant Piranha
 stats: 3 HP, 12 DEX, bite (d8)
 subtext1: " • 5’ long piranhas with colorful scales. Live in rivers and attack anything in the water."

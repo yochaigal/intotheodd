@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Buccaneer
 stats: 4 HP, 14 DEX, 12 WIL, scimitar (d6)
 subtext1: " • Outlaw sailors who raid coastal settlements and board other ships."

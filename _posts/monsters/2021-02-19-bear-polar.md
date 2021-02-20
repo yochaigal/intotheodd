@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Bear, Polar
 stats: 7 HP, 16 STR, claws (d8)
 subtext1: " • 11’ tall white-furred bears who live in cold regions, eat mostly fish."

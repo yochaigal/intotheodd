@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Dog, Hunting
 stats: 2 HP, 12 DEX, bite (d6)
 subtext1: " • Bulky, domestic-only breeds with a ferocious nature."

@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Fish, Giant Pike
 stats: 4 HP, 14 DEX, bite (d6+d6)
 subtext1: " • 10’ long, aggressive hunting fish. Dwell in deep lakes."

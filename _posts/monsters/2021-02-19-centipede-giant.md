@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Centipede, Giant
 stats: 1 HP, 6 STR, 6 WIL, bite (d4)
 subtext1: " • 1’ long centipedes that live in damp, underground places."

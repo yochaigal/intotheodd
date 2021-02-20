@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Elemental, Fire
 stats: 16 HP, 12 DEX, 14 WIL, blow (d8)
 subtext1: " • Living columns of pure flame that burn everything in their path."

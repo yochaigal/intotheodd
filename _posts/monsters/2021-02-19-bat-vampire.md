@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Bat, Vampire
 stats: 3 HP,  8 STR, bite (d8)
 subtext1: " • Big, flying mammals with nocturnal habits that nest in caves."

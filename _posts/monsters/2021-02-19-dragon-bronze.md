@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Dragon, Bronze
 stats: 13 HP, 2 Armor, 16 STR, 14 DEX, 14 WIL, bite (d8+d8)
 subtext1: " • Coastal dwelling, good dragons who eat mostly fish and aquatic plants."

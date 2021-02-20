@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Black Pudding
 stats: 10 HP, 5 DEX, devouring touch (d8)
 subtext1: " • Huge, brainless blobs of black jelly driven by unstoppable hunger."

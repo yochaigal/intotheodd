@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Crocodile, Giant
 stats: 15 HP, 1 Armor, 17 STR, 8 DEX, bite (d10+d10)
 subtext1: " • 50’ long, extremely rare reptiles found on unexplored fluvial regions."

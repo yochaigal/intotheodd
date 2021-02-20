@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Bear, Grizzly
 stats: 6 HP, 15 STR, claws (d8)
 subtext1: " • Aggressive, 9’ tall reddish-brown furred bears who live in mountains. Prefer to eat meat."

@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Fish, Giant Rockfish
 stats: 5 HP, 1 Armor, 12 STR, spine (d6)
 subtext1: " • Spiny fish with rock-like scales. Live in saltwater. Normally passive, but attacks if disturbed."

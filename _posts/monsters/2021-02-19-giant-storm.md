@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Giant, Storm
 stats: 15 HP, 2 Armor, 20 STR, 14 DEX, 18 WIL, greatsword (d10+d10)
 subtext1: " • 22’ tall humanoids with bronze-hued skin and light-colored hair. Live in mountain peaks and deep waters."

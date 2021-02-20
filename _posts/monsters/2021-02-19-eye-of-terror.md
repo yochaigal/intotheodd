@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Eye of Terror
 stats: 12 HP, 12 STR, 8 DEX, 16 WIL, bite (d8+d8)
 subtext1: " • Floating spheres with a large maw, one big central eye, and several small eyes on stalks scattered through the body. Scheming and greedy, lair deep underground."

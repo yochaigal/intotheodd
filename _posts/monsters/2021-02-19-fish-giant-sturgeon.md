@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Fish, Giant Sturgeon
 stats: 10 HP, 2 Armor. 14 STR
 subtext1: " • Huge, 30’ long, aggressive armored fish."

@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Elemental, Earth
 stats: 12 HP, 3 Armor, 16 STR, 8 DEX, fist (d10)
 subtext1: " • Huge humanoid beings made of earth and stone."

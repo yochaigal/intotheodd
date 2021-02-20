@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Crab, Giant
 stats: 3 HP, 3 Armor, 11 STR, 4 DEX, pincers (d8)
 subtext1: " • Huge crustaceans that live in coastal areas and mindlessly attack anything that comes near."

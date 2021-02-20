@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Golem, Iron
 stats: 18 HP, 3 Armor, 18 STR, 8 WIL, sword (d10+d10)
 subtext1: " • 12’ humanoid statues forged with fire and magic. Wield massive swords of iron."

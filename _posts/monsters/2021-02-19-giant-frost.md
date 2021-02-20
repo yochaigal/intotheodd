@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Giant, Frost
 stats: 10 HP, 2 Armor, 18 STR, 12 WIL, greataxe (d8+d8)
 subtext1: " • 18’ tall humanoids with blue-ish skin and pale hair. Wear furs and iron armor."

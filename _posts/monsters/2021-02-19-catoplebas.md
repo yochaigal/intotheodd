@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Catoplebas
 stats: 7 HP, 13 STR, tail(d8)
 subtext1: " • Monstrous creatures with a long, bony tail, a bloated body, short and stumpy legs, a long neck, and a boar-like head. Dwell in swamps."

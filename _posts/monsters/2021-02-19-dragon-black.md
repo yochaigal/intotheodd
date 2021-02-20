@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Dragon, Black
 stats: 11 HP, 2 Armor, 16 STR, 16 DEX, 14 WIL, bite (d10+d10)
 subtext1: " • Cruel, amphibious dragons who dwell in swamps and marshes."

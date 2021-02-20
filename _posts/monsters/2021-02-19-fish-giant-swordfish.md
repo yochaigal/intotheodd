@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Fish, Giant Swordfish
 stats: 3 HP, 12 DEX, sword (d8)
 subtext1: " • Long saltwater fish with a bone sword on the snout. Mostly peaceful."

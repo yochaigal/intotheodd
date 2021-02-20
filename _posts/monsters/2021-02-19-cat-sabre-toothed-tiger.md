@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Cat, Sabre-Toothed Tiger
 stats: 8 HP, STR 15, bite (d10)
 subtext1: " • Huge, aggressive cats with foot-long fangs."

@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Dragon, Copper
 stats: 12 HP, 2 Armor, 16 STR, 14 DEX, 18 WIL, bite (d8+d8)
 subtext1: " • Good aligned dragons that dwell in dry, rocky regions."

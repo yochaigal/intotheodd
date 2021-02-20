@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Crocodile, Large
 stats: 6 HP, 1 Armor, 14 STR, 8 DEX, bite (d8)
 subtext1: " • 20’ long, may attack small boats and canoes."

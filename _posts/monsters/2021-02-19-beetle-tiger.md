@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Beetle, Tiger
 stats: 3 HP, 6 STR, 12 DEX, 6 WIL, bite (d6)
 subtext1: " • 4’ long striped beetles with strong mandibles."

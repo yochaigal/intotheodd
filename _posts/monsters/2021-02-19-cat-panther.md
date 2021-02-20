@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Cat, Panther
 stats: 4 HP, 14 DEX, bite (d8)
 subtext1: " • Dark furred cats that live on forests and plains."

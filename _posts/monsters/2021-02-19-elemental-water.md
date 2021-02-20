@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Elemental, Water
 stats: 12 HP, 2 armor, 15 STR, blow (d8)
 subtext1: " • Huge waves of flowing water."

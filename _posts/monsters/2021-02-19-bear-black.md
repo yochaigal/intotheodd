@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Bear, Black
 stats: 5 HP, 14 STR, claws (d6)
 subtext1: " • 6’ tall bears who eat mostly berries and roots."

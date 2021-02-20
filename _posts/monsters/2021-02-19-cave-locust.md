@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Cave Locust
 stats: 2 HP, 6 STR, 12 DEX, bite (d4)
 subtext1: " • Giant, herbivorous crickets that dwell in caves. Easily blend into stone due to their natural coloration."

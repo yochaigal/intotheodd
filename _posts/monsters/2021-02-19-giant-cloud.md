@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Giant, Cloud
 stats: 12 HP, 1 Armor, 19 STR, 12 DEX, 18 WIL, morningstar(d8+d8)
 subtext1: " • 20’ tall humanoids with hair and skin in tones of grey and white. House in castles built atop the highest mountains or floating in cloud banks."

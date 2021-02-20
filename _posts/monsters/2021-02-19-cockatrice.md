@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Cockatrice
 stats: 5 HP, 8 STR, 12 DEX, beak (d6)
 subtext1: " • Small, hybrid creatures resembling chickens with reptilian features."

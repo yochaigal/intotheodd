@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Golem, Clay
 stats: 11 HP, 2 Armor, 15 STR, 7 DEX, 8 WIL, fists (d8)
 subtext1: " • 8’ tall humanoid statues made of baked clay and animated by dark magics."

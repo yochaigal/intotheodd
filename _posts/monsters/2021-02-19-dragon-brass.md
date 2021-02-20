@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Dragon, Brass
 stats: 11 HP, 2 Armor, 16 STR, 19 WIL, bite (d8+d8)
 subtext1: " • Charismatic, good-aligned dragons who hide their hoards in dunes of sand."

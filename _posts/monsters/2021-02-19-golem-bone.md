@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Golem, Bone
 stats: 8 HP, 2 Armor, 15 STR, 8 WIL, arms (d8, blast)
 subtext1: " • 6’ tall humanoid constructs made of human bone. Have 4 arms spread around their torso."

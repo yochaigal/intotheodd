@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Golem, Flesh
 stats: 9 HP, 1 Armor, 15 STR, 8 DEX, 8 WIL, fists (d8)
 subtext1: " • 7’ tall humanoid abominations made of flesh stitched together."

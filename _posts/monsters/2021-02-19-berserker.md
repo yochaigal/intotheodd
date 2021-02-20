@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Berserker
 stats: 4 HP, 1 armor, 14 STR, battleaxe (d10, bulky)
 subtext1: " • Tribal fighters who fight recklessly, never taking prisoners."

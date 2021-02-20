@@ -1,5 +1,6 @@
 ---
 layout: entry 
+category: monsters
 name: Dragon, Silver
 stats: 13 HP, 3 Armor, 16 STR, 14 WIL, bite (d8+d8)
 subtext1: " • Noble and selfless dragons, with shining scales rescinding of a knight's armor. Dwell at the top of cold mountains."
