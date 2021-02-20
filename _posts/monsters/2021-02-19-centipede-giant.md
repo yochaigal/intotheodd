@@ -5,7 +5,7 @@ name: Centipede, Giant
 stats: 1 HP, 6 STR, 6 WIL, bite (d4)
 subtext1: " • 1’ long centipedes that live in damp, underground places."
 subtext2: " • Critical damage: their deadly poison hinders the target incapacitated for up to 10 days (save STR once a day to recover)."
-subtext3: " • Breathe a line of cold dealing d10 damage and potentially paralyzing those caught."
+subtext3: 
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

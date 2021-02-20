@@ -5,7 +5,7 @@ name: Golem, Clay
 stats: 11 HP, 2 Armor, 15 STR, 7 DEX, 8 WIL, fists (d8)
 subtext1: " • 8’ tall humanoid statues made of baked clay and animated by dark magics."
 subtext2: " • Immune to mundane attacks and fire. Resistant to weapon damage that is not bludgeoning."
-subtext3: "Critical Damage: Inflicts a curse on the victim, STR cannot be healed until the curse is lifted."
+subtext3: " • Critical Damage: Inflicts a curse on the victim, STR cannot be healed until the curse is lifted."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

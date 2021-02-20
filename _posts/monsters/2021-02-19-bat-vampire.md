@@ -5,7 +5,7 @@ name: Bat, Vampire
 stats: 3 HP,  8 STR, bite (d8)
 subtext1: " • Big, flying mammals with nocturnal habits that nest in caves."
 subtext2: " • Unaffected by darkness or blinding effects, blinded by magical silence or constant loud noises."
-subtext3: " • Critical damage: Hug victims for d8 damage."
+subtext3: " • Recover 1d4 HP after biting a victim that has blood."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

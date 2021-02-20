@@ -5,7 +5,7 @@ name: Beetle, Fire
 stats: 2 HP, 4 STR, 12 DEX, 6 WIL, bite(d4)
 subtext1: " • 3’ long beetles commonly found underground."
 subtext2: " • Emits light through glands located in the abdomens and above the eyes,"
-subtext3: " • Always chase prey that flees."
+subtext3: 
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

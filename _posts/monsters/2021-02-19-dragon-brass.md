@@ -5,7 +5,7 @@ name: Dragon, Brass
 stats: 11 HP, 2 Armor, 16 STR, 19 WIL, bite (d8+d8)
 subtext1: " • Charismatic, good-aligned dragons who hide their hoards in dunes of sand."
 subtext2: " • Highly value conversations, frequently shapechanges into humanoids to interact with adventurers."
-subtext3: " • Once it smells blood, it will not stop attacking."
+subtext3: " • Breathes gas in a cone, targets affected fall asleep or flee in fear."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

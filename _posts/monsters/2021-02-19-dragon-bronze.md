@@ -5,7 +5,7 @@ name: Dragon, Bronze
 stats: 13 HP, 2 Armor, 16 STR, 14 DEX, 14 WIL, bite (d8+d8)
 subtext1: " • Coastal dwelling, good dragons who eat mostly fish and aquatic plants."
 subtext2: " • Shapechange into small beasts to watch nearby wildlife and passing ships."
-subtext3: " • Critical damage: The spines release a highly lethal poison (d4 extra STR damage)."
+subtext3: " • Breathes lightning on a line for d10 damage or repulsion gas in a cone, pushing victims away."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

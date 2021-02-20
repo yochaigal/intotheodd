@@ -5,7 +5,7 @@ name: Fish, Giant Electric Eel
 stats: 2 HP, 12 DEX, bite (d6)
 subtext1: " • 9’ long eels that live in warm, clear water."
 subtext2: " • Able to emit an electric shock, damaging all in the nearby water for d10."
-subtext3: ""
+subtext3: 
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

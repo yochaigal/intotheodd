@@ -5,7 +5,7 @@ name: Crab, Giant
 stats: 3 HP, 3 Armor, 11 STR, 4 DEX, pincers (d8)
 subtext1: " • Huge crustaceans that live in coastal areas and mindlessly attack anything that comes near."
 subtext2: " • Their heavy carapace makes them notably sturdy but slow and unable to swim."
-subtext3: " • Once in melee combat, it will not stop attacking its victim until dead."
+subtext3: 
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

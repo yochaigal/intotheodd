@@ -5,7 +5,7 @@ name: Demon Knight
 stats: 10 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, longsword (d8), Unholy Symbol (Hatred when bathed in blood)
 subtext1: " • Once holy warriors who fell to the temptation of dark powers that they now serve in undeath. Rides nightmarish steeds into battle."
 subtext2: " • Lesser undead creatures mindlessly follow their command."
-subtext3: " • Might be summoned by powerful magic and ordered to complete tasks, but will subvert commands while following them to the letter."
+subtext3: " • Their evil aura frightens anyone who comes into nearby range."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

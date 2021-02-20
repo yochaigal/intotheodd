@@ -5,7 +5,7 @@ name: Black Pudding
 stats: 10 HP, 5 DEX, devouring touch (d8)
 subtext1: " • Huge, brainless blobs of black jelly driven by unstoppable hunger."
 subtext2: " • Can only be harmed by flames."
-subtext3: " • Can easily destroy smaller ships with their crushing bite."
+subtext3: " • Can move in walls and ceilings and squeeze through small holes."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

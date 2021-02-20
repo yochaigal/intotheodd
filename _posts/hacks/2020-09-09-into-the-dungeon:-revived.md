@@ -1,7 +1,7 @@
 ---
 layout: entry
 name: "Into the Dungeon: Revived"
-author: vladar4
+author: vladar
 genre: fantasy
 summary: "Complete fantasy rules, based on Into The Odd."
 cost: "$0.00"

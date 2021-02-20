@@ -5,7 +5,7 @@ name: Giant, Storm
 stats: 15 HP, 2 Armor, 20 STR, 14 DEX, 18 WIL, greatsword (d10+d10)
 subtext1: " • 22’ tall humanoids with bronze-hued skin and light-colored hair. Live in mountain peaks and deep waters."
 subtext2: " • Unharmed by lightning, can summon storms at their will."
-subtext3: "Can summon lightning bolts to attack nearby enemies for d12 damage."
+subtext3: " • Can summon lightning bolts to attack nearby enemies for d12 damage."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

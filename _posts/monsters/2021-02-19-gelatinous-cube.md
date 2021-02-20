@@ -5,7 +5,7 @@ name: Gelatinous Cube
 stats: 6 HP, 16 STR, 8 DEX, 4 WIL, touch (d8)
 subtext1: " • Large cubes of transparent jelly, dwell in dungeons absorbing items and living creatures."
 subtext2: " • May go undetected due to being transparent."
-subtext3: "Critical damage: Its touch paralyzes victims (d6 DEX damage)."
+subtext3: " • Critical damage: Its touch paralyzes victims (d6 DEX damage)."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

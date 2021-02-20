@@ -5,7 +5,7 @@ name: Bear, Grizzly
 stats: 6 HP, 15 STR, claws (d8)
 subtext1: " • Aggressive, 9’ tall reddish-brown furred bears who live in mountains. Prefer to eat meat."
 subtext2: " • Frequently are found sleeping."
-subtext3: " • For each detachment of regular brigands, there’s one leader who has chainmail (2 armor) and a longsword(d8)."
+subtext3: 
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

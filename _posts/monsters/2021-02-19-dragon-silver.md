@@ -5,7 +5,7 @@ name: Dragon, Silver
 stats: 13 HP, 3 Armor, 16 STR, 14 WIL, bite (d8+d8)
 subtext1: " • Noble and selfless dragons, with shining scales rescinding of a knight's armor. Dwell at the top of cold mountains."
 subtext2: " • Frequently deals with humans, going through great efforts to help those in need."
-subtext3: " • Can envelop itself in a wind aura, impairing missile attacks."
+subtext3: " • Breathe a line of cold dealing d10 damage and potentially paralyzing those caught."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

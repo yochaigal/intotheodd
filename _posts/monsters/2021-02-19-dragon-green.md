@@ -5,7 +5,7 @@ name: Dragon, Green
 stats: 12 HP, 2 Armor, 15 STR, 18 WIL, bite (d8+d8)
 subtext1: " • Treacherous, scheming forest-dwelling amphibious dragons."
 subtext2: " • Highly cunning, value the victims they tricked and their power of influence more than any hoard of gold."
-subtext3: " • Critical damage: Paralyzes victims (d6 DEX damage). After paralyzing a victim, it moves to another target."
+subtext3: " • Breathes a thick cloud of poisonous gas for d10 damage to all caught."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

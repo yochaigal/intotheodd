@@ -5,7 +5,7 @@ name: Bear, Polar
 stats: 7 HP, 16 STR, claws (d8)
 subtext1: " • 11’ tall white-furred bears who live in cold regions, eat mostly fish."
 subtext2: " • Excellent at swimming."
-subtext3: " • Moves through sand and broken ground without difficulty."
+subtext3: " • Can move effortlessly through snow and ice."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

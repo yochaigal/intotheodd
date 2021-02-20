@@ -5,7 +5,7 @@ name: Elemental, Earth
 stats: 12 HP, 3 Armor, 16 STR, 8 DEX, fist (d10)
 subtext1: " • Huge humanoid beings made of earth and stone."
 subtext2: " • Create small earth tremors with their natural strength."
-subtext3: " • Critical Damage: Inflicts a curse on the victim, STR cannot be healed until the curse is lifted."
+subtext3: " • Can meld into the earth and move through it as if swimming."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

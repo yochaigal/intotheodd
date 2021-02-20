@@ -5,7 +5,7 @@ name: Dragon Turtle
 stats: 30 HP, 3 Armor, 20 STR, 6 DEX, bite (d10+d10)
 subtext1: " • Gargantuan sea monsters with the shell of a turtle and draconic features. Lurk in deep oceans and can be mistaken for a small island when on the surface."
 subtext2: " • Attack ships, sinking them to add any treasure to their massive underwater hoards."
-subtext3: " • Excellent trackers, hunt accompanied by dire wolves."
+subtext3: " • Breathes large clouds of steam, clogging visions and damaging all inside for d8 damage."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

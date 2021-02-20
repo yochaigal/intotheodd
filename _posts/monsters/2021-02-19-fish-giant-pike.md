@@ -5,7 +5,7 @@ name: Fish, Giant Pike
 stats: 4 HP, 14 DEX, bite (d6+d6)
 subtext1: " • 10’ long, aggressive hunting fish. Dwell in deep lakes."
 subtext2: " • Use their great speed to surprise victims."
-subtext3: ""
+subtext3: 
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

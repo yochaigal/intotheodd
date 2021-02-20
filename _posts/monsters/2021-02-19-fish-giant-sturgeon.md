@@ -5,7 +5,7 @@ name: Fish, Giant Sturgeon
 stats: 10 HP, 2 Armor. 14 STR
 subtext1: " • Huge, 30’ long, aggressive armored fish."
 subtext2: " • Swallow its victims whole if able."
-subtext3: ""
+subtext3: 
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

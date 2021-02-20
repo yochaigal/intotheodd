@@ -5,7 +5,7 @@ name: Giant, Hill
 stats: 8 HP, 15 STR, 6 WIL, great club (d8+d8)
 subtext1: " • 12’ tall, hairy and brutish humanoids. Dwell in hills and plains."
 subtext2: " • Low intelligence, relies only on its ferocity."
-subtext3: "Frequently attack settlements for food."
+subtext3: " • Frequently attack settlements for food."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

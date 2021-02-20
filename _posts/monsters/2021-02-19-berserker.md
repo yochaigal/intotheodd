@@ -5,7 +5,7 @@ name: Berserker
 stats: 4 HP, 1 armor, 14 STR, battleaxe (d10, bulky)
 subtext1: " • Tribal fighters who fight recklessly, never taking prisoners."
 subtext2: " • Can enter in battle rage, enhancing all damage dealt and received."
-subtext3: " • Shapechanger: may take the form of beasts and humanoids."
+subtext3: 
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

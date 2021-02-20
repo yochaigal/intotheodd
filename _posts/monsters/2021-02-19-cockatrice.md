@@ -5,7 +5,7 @@ name: Cockatrice
 stats: 5 HP, 8 STR, 12 DEX, beak (d6)
 subtext1: " • Small, hybrid creatures resembling chickens with reptilian features."
 subtext2: " • Critical damage: the victim gets petrified (d8+d8 DEX damage)."
-subtext3: " • Breathes large clouds of steam, clogging visions and damaging all inside for d8 damage."
+subtext3: 
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

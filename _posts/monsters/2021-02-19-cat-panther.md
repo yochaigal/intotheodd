@@ -5,7 +5,7 @@ name: Cat, Panther
 stats: 4 HP, 14 DEX, bite (d8)
 subtext1: " • Dark furred cats that live on forests and plains."
 subtext2: " • Hunts medium or small-sized animals, using their high speed in their favor."
-subtext3: " • Breathes gas in a cone, targets affected fall asleep or flee in fear."
+subtext3: 
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

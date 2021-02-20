@@ -5,7 +5,7 @@ name: Dog, Hunting
 stats: 2 HP, 12 DEX, bite (d6)
 subtext1: " • Bulky, domestic-only breeds with a ferocious nature."
 subtext2: " • Track by scent. Once started, very"
-subtext3: " • Can meld into the earth and move through it as if swimming."
+subtext3: " • Difficult to put off the trail."
 subtext4: " • Only attack at their owner’s command."
 author: xenio
 inspiration: TSR Monsters

@@ -5,7 +5,7 @@ name: Fish, Giant Rockfish
 stats: 5 HP, 1 Armor, 12 STR, spine (d6)
 subtext1: " • Spiny fish with rock-like scales. Live in saltwater. Normally passive, but attacks if disturbed."
 subtext2: " • Camouflages in rocks and coral formations."
-subtext3: "Critical damage: The spines release a highly lethal poison (d4 extra STR damage)."
+subtext3: " • Critical damage: The spines release a highly lethal poison (d4 extra STR damage)."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

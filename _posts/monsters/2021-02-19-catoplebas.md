@@ -5,7 +5,7 @@ name: Catoplebas
 stats: 7 HP, 13 STR, tail(d8)
 subtext1: " • Monstrous creatures with a long, bony tail, a bloated body, short and stumpy legs, a long neck, and a boar-like head. Dwell in swamps."
 subtext2: " • Critical damage: the tail renders the victim stunned (d8 DEX damage)."
-subtext3: " • Breath fire in a massive cone for d10 damage to all caught."
+subtext3: 
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

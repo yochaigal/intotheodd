@@ -5,7 +5,7 @@ name: Elemental, Fire
 stats: 16 HP, 12 DEX, 14 WIL, blow (d8)
 subtext1: " • Living columns of pure flame that burn everything in their path."
 subtext2: " • Highly vulnerable to being touched by water or rain."
-subtext3: " • Absorb electricity damage received, healing HP by the same amount instead."
+subtext3: " • Can scatter their flames, freely changing its form."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

@@ -5,7 +5,7 @@ name: Dragon, White
 stats: 11 HP, 2 Armor, 16 STR, bite (d8+d8)
 subtext1: " • Ferocious, primal dragons that dwell in cold regions. Hunt dangerous prey and keep their bodies as trophies."
 subtext2: " • Effortlessly crosses snow and ice."
-subtext3: " • Immune to fire and heat."
+subtext3: " • Breathes freezing cold for d10 Damage to all in the blast, freezing any liquids and creating an icy surface."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters

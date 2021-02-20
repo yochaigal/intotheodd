@@ -5,7 +5,7 @@ name: Dragon, Black
 stats: 11 HP, 2 Armor, 16 STR, 16 DEX, 14 WIL, bite (d10+d10)
 subtext1: " • Cruel, amphibious dragons who dwell in swamps and marshes."
 subtext2: " • Attack by separating their victims and killing them one by one."
-subtext3: " • Its tusks can be sold for high amounts of gold if removed whole."
+subtext3: " • Breathes acid in a long line for d10 damage to all caught, corroding wood and cloth."
 subtext4: 
 author: xenio
 inspiration: TSR Monsters
