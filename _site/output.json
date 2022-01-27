@@ -10,7 +10,7 @@
 	"stats": "14 HP, 3 Armor, 17 STR, 8 DEX, fists (d10)",
 	"subtext1": " • 10’ tall animated statues carved from pure stone.",
 	"subtext2": " • Immune to mundane attacks, fire, cold, and electricity.",
-	"subtext3": "Emits a magic aura that slows the movement of nearby creatures.",
+	"subtext3": " • Emits a magic aura that slows the movement of nearby creatures.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -33,8 +33,8 @@
 	"stats": "18 HP, 3 Armor, 18 STR, 8 WIL, sword (d10+d10)",
 	"subtext1": " • 12’ humanoid statues forged with fire and magic. Wield massive swords of iron.",
 	"subtext2": " • Immune to mundane attacks, electricity, and cold.",
-	"subtext3": "Absorb electricity damage, healing HP by the same amount instead.",
-	"subtext4": "• Absorb electricity damage received, healing HP by the same amount instead.",
+	"subtext3": " • Absorb electricity damage received, healing HP by the same amount instead.",
+	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
 	"content": "
@@ -56,7 +56,7 @@
 	"stats": "9 HP, 1 Armor, 15 STR, 8 DEX, 8 WIL, fists (d8)",
 	"subtext1": " • 7’ tall humanoid abominations made of flesh stitched together.",
 	"subtext2": " • Immune to mundane attacks, fire, and cold.",
-	"subtext3": "Absorb electricity damage received, healing HP by the same amount instead.",
+	"subtext3": " • Absorb electricity damage received, healing HP by the same amount instead.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -79,7 +79,7 @@
 	"stats": "11 HP, 2 Armor, 15 STR, 7 DEX, 8 WIL, fists (d8)",
 	"subtext1": " • 8’ tall humanoid statues made of baked clay and animated by dark magics.",
 	"subtext2": " • Immune to mundane attacks and fire. Resistant to weapon damage that is not bludgeoning.",
-	"subtext3": "Critical Damage: Inflicts a curse on the victim, STR cannot be healed until the curse is lifted.",
+	"subtext3": " • Critical Damage: Inflicts a curse on the victim, STR cannot be healed until the curse is lifted.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -102,7 +102,7 @@
 	"stats": "20 HP, 3 Armor, 20 STR, 8 DEX, 11 WIL, fists (d10+d10)",
 	"subtext1": " • Towering constructs made of pure bronze. Reassemble fire giants, and emanate strong heat.",
 	"subtext2": " • Immune to mundane attacks and fire.",
-	"subtext3": "When it suffers slashing or piercing damage to its STR, spurts a burning liquid, damaging the attacker for 2d6.",
+	"subtext3": " • When it suffers slashing or piercing damage to its STR, spurts a burning liquid, damaging the attacker for 2d6.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -148,7 +148,7 @@
 	"stats": "10 HP, 3 Armor, 16 STR, 12 DEX, 14 WIL, claws (d8)",
 	"subtext1": " • Artificial constructs made in the shape of giant felines. Created by wizards in a slow and complex process.",
 	"subtext2": " • Track without error, able to see invisible creatures nearby.",
-	"subtext3": "Immune to mundane attacks, gas, and mind-controlling effects.",
+	"subtext3": " • Immune to mundane attacks, gas, and mind-controlling effects.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -171,7 +171,7 @@
 	"stats": "4 HP, 8 STR, 12 DEX, 8 WIL, dagger or short bow (d6)",
 	"subtext1": " • Small, grotesque humanoids with skin in earthly tones of green, brown, and grey.",
 	"subtext2": " • Avoid combat, only attacking when in advantage, using hit-and-run tactics.",
-	"subtext3": "Sometimes are found using dire wolves as mounts.",
+	"subtext3": " • Sometimes are found using dire wolves as mounts.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -194,7 +194,7 @@
 	"stats": "4 HP, 8 STR, 12 DEX, 14 WIL, crossbow (d8, bulky)",
 	"subtext1": " • Short humanoids with long noses and pointed ears. Live underground or deep in forests.",
 	"subtext2": " • Highly intelligent tinkers. Can easily be convinced by the promise of something valuable or uncommon.",
-	"subtext3": "Can see well in the darkness or low light.",
+	"subtext3": " • Can see well in the darkness or low light.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -217,7 +217,7 @@
 	"stats": "4 HP, 1 Armor, 12 STR, 8 WIL, spear or short bow (d6)",
 	"subtext1": " • Monstrous humanoid hyenas of low intelligence. Legend says they were created in a wizard’s experiments.",
 	"subtext2": " • Attack in large packs, intimidating its victims with numbers.",
-	"subtext3": "Critical damage: the gnoll enters in a rampage after tasting blood, making another attack immediately.",
+	"subtext3": " • Critical damage: the gnoll enters in a rampage after tasting blood, making another attack immediately.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -240,7 +240,7 @@
 	"stats": "15 HP, 2 Armor, 20 STR, 14 DEX, 18 WIL, greatsword (d10+d10)",
 	"subtext1": " • 22’ tall humanoids with bronze-hued skin and light-colored hair. Live in mountain peaks and deep waters.",
 	"subtext2": " • Unharmed by lightning, can summon storms at their will.",
-	"subtext3": "Can summon lightning bolts to attack nearby enemies for d12 damage.",
+	"subtext3": " • Can summon lightning bolts to attack nearby enemies for d12 damage.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -263,7 +263,7 @@
 	"stats": "9 HP, 2 Armor, 16 STR, 14 DEX, stone club (d8+d8)",
 	"subtext1": " • 14’ tall slender humanoids with stone-like gray skin. Dwell in caverns or build primitive homes of stone in valleys.",
 	"subtext2": " • Attack victims by throwing rocks at them from far away.",
-	"subtext3": "Can easily camouflage into stone.",
+	"subtext3": " • Can easily camouflage into stone.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -286,7 +286,7 @@
 	"stats": "8 HP, 15 STR, 6 WIL, great club (d8+d8)",
 	"subtext1": " • 12’ tall, hairy and brutish humanoids. Dwell in hills and plains.",
 	"subtext2": " • Low intelligence, relies only on its ferocity.",
-	"subtext3": "Frequently attack settlements for food.",
+	"subtext3": " • Frequently attack settlements for food.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -309,7 +309,7 @@
 	"stats": "10 HP, 2 Armor, 18 STR, 12 WIL, greataxe (d8+d8)",
 	"subtext1": " • 18’ tall humanoids with blue-ish skin and pale hair. Wear furs and iron armor.",
 	"subtext2": " • Unharmed by cold and ice.",
-	"subtext3": "Excellent trackers, hunt accompanied by dire wolves.",
+	"subtext3": " • Excellent trackers, hunt accompanied by dire wolves.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -332,7 +332,7 @@
 	"stats": "11 HP, 3 Armor, 17 STR, 8 DEX, greatsword (d10+d10)",
 	"subtext1": " • 16’ tall humanoids with red hair and charcoal skin. Wear heavy armor made of brass, bronze or copper. Dwell in fortresses built near volcanoes.",
 	"subtext2": " • Masters of craft and war, know how to forge the finest weaponry.",
-	"subtext3": "Immune to fire and heat.",
+	"subtext3": " • Immune to fire and heat.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -355,7 +355,7 @@
 	"stats": "12 HP, 1 Armor, 19 STR, 12 DEX, 18 WIL, morningstar(d8+d8)",
 	"subtext1": " • 20’ tall humanoids with hair and skin in tones of grey and white. House in castles built atop the highest mountains or floating in cloud banks.",
 	"subtext2": " • Cannot be surprised due to its keen sight and smell senses.",
-	"subtext3": "Can envelop itself in a wind aura, impairing missile attacks.",
+	"subtext3": " • Can envelop itself in a wind aura, impairing missile attacks.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -401,7 +401,7 @@
 	"stats": "10 HP, 3 Armor, 14 WIL, draining touch (d6)",
 	"subtext1": " • Incorporeal spirits of the restless dead.",
 	"subtext2": " • Can possess victims that fail a WIL save, taking control of their bodies.",
-	"subtext3": "Critical damage: Drains the victim’s life force (d6 extra STR damage).",
+	"subtext3": " • Critical damage: Drains the victim’s life force (d6 extra STR damage).",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -424,7 +424,7 @@
 	"stats": "4 HP, 12 STR, WIL 6, claws (d6+d6)",
 	"subtext1": " • Grotesque, humanoid undead that craves eating flesh. Found in packs of Ghouls.",
 	"subtext2": " • Exhale a strong stench, nauseating nearby living creatures.",
-	"subtext3": "Critical damage: Paralyzes victims (d6 DEX damage). After paralyzing a victim, it moves to another target.",
+	"subtext3": " • Critical damage: Paralyzes victims (d6 DEX damage). After paralyzing a victim, it moves to another target.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -447,7 +447,7 @@
 	"stats": "6 HP, 16 STR, 8 DEX, 4 WIL, touch (d8)",
 	"subtext1": " • Large cubes of transparent jelly, dwell in dungeons absorbing items and living creatures.",
 	"subtext2": " • May go undetected due to being transparent.",
-	"subtext3": "Critical damage: Its touch paralyzes victims (d6 DEX damage).",
+	"subtext3": " • Critical damage: Its touch paralyzes victims (d6 DEX damage).",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -470,7 +470,7 @@
 	"stats": "6 HP, 14 STR, 8 DEX, 12 WIL, claws (d6+d6)",
 	"subtext1": " • Magical creatures that look like monstrous, horned, winged statues.",
 	"subtext2": " • Guard places by standing still to pass like inanimate statues and attacking anything that comes near.",
-	"subtext3": "Cannot be charmed and put to sleep.",
+	"subtext3": " • Cannot be charmed and put to sleep.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -562,7 +562,7 @@
 	"stats": "5 HP, 1 Armor, 12 STR, spine (d6)",
 	"subtext1": " • Spiny fish with rock-like scales. Live in saltwater. Normally passive, but attacks if disturbed.",
 	"subtext2": " • Camouflages in rocks and coral formations.",
-	"subtext3": "Critical damage: The spines release a highly lethal poison (d4 extra STR damage).",
+	"subtext3": " • Critical damage: The spines release a highly lethal poison (d4 extra STR damage).",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -585,7 +585,7 @@
 	"stats": "3 HP, 12 DEX, bite (d8)",
 	"subtext1": " • 5’ long piranhas with colorful scales. Live in rivers and attack anything in the water.",
 	"subtext2": " • Dwell in large groups and overwhelm victims by swarming them.",
-	"subtext3": "Once it smells blood, it will not stop attacking.",
+	"subtext3": "• Once it smells blood, it will not stop attacking.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -677,7 +677,7 @@
 	"stats": "12 HP, 12 STR, 8 DEX, 16 WIL, bite (d8+d8)",
 	"subtext1": " • Floating spheres with a large maw, one big central eye, and several small eyes on stalks scattered through the body. Scheming and greedy, lair deep underground.",
 	"subtext2": " • Cancels any magic effect in a nearby range facing its central eye.",
-	"subtext3": "The eyestalks cast one of those spells each round randomly: (1-Charm, 2-Phobia, 3-Telekinesis, 4-Sleep, 5-Shuffle, 6-Vision)",
+	"subtext3": " • The eyestalks cast one of those spells each round randomly: (1-Charm, 2-Phobia, 3-Telekinesis, 4-Sleep, 5-Shuffle, 6-Vision)",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -746,7 +746,7 @@
 	"stats": "9 HP, 16 STR, 6 DEX, tusks (d8)",
 	"subtext1": " • Large tusked animals that dwell near hot forests. Found both alone and in herds.",
 	"subtext2": " • With enough open ground for a clear run, it will charge its victims, enhancing damage.",
-	"subtext3": " • Emits a magic aura that slows the movement of nearby creatures.",
+	"subtext3": "• Its tusks can be sold for high amounts of gold if removed whole."",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -769,7 +769,7 @@
 	"stats": "12 HP, 2 armor, 15 STR, blow (d8)",
 	"subtext1": " • Huge waves of flowing water.",
 	"subtext2": " • Must stay near a body of water.",
-	"subtext3": " • Absorb electricity damage, healing HP by the same amount instead.",
+	"subtext3": " • Envelop victims inside their forms to drown then.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -792,7 +792,7 @@
 	"stats": "16 HP, 12 DEX, 14 WIL, blow (d8)",
 	"subtext1": " • Living columns of pure flame that burn everything in their path.",
 	"subtext2": " • Highly vulnerable to being touched by water or rain.",
-	"subtext3": " • Absorb electricity damage received, healing HP by the same amount instead.",
+	"subtext3": " • Can scatter their flames, freely changing its form.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -815,7 +815,7 @@
 	"stats": "12 HP, 3 Armor, 16 STR, 8 DEX, fist (d10)",
 	"subtext1": " • Huge humanoid beings made of earth and stone.",
 	"subtext2": " • Create small earth tremors with their natural strength.",
-	"subtext3": " • Critical Damage: Inflicts a curse on the victim, STR cannot be healed until the curse is lifted.",
+	"subtext3": " • Can meld into the earth and move through it as if swimming.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -838,7 +838,7 @@
 	"stats": "16 HP, 11 STR, 15 DEX, 8 WIL, wind blow (d8)",
 	"subtext1": " • Huge, living vortexes of whirling air.",
 	"subtext2": " • Sweep away lighter creatures with their strong winds.",
-	"subtext3": " • When it suffers slashing or piercing damage to its STR, spurts a burning liquid, damaging the attacker for 2d6.",
+	"subtext3": " • Harm aerial creatures by disrupting their flight.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -861,7 +861,7 @@
 	"stats": "10 HP, 15 STR, 14 WIL, flaming sword (d10, bulky)",
 	"subtext1": " • Highly intelligent beings from the elemental plane of fire. Manifest as huge men with terrifying faces and an aura of heat and smoke.",
 	"subtext2": " • May transform into a pillar or wall of flames, burning everything it touches.",
-	"subtext3": " • Immune to mundane attacks, gas, and mind-controlling effects.",
+	"subtext3": " • Might be summoned by powerful magic and ordered to complete tasks, but will subvert commands while following them to the letter.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -884,7 +884,7 @@
 	"stats": "4 HP, 2 Armor, 14 STR, hammer (d8)",
 	"subtext1": " • Short and bulky, bearded humanoids who dwell in mountains and underground.",
 	"subtext2": " • Can see perfectly in low-light and partially in darkness.",
-	"subtext3": " • Sometimes are found using dire wolves as mounts.",
+	"subtext3": " • Highly resistant to poison and disease.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -907,7 +907,7 @@
 	"stats": "4 HP, 1 Armor, 14 STR, 8 WIL, Warhammer (d10, bulky)",
 	"subtext1": " • Scrawny dwarven creatures with grey skin and ugly visages. Dwell in underworld strongholds and are known for their avarice.",
 	"subtext2": " • Can see perfectly in the dark, but are blinded by bright light.",
-	"subtext3": " • Can see well in the darkness or low light.",
+	"subtext3": "• Surprise victims using their ability to turn invisible for a short time.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -930,7 +930,7 @@
 	"stats": "4 HP, 14 WIL, unarmed (d4)",
 	"subtext1": " • Shy, peaceful tree spirits whose manifest in a beautiful female form.",
 	"subtext2": " • Spiritually bound with a tree, may disappear by joining with the tree again. Can’t go too far away from it and dies if the tree dies.",
-	"subtext3": " • Critical damage: the gnoll enters in a rampage after tasting blood, making another attack immediately.",
+	"subtext3": " • Charm strangers that come near. Charmed creatures mindlessly walk into the tree, disappearing forever if not rescued quickly.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -953,7 +953,7 @@
 	"stats": "4 HP, 8 STR, 14 DEX, 12 WIL, shortsword (d6), a Spellbook (choose one&#58; Web, Spider Climb, or Night Sphere)",
 	"subtext1": " • Elvish humanoids of dark skin and hair of silver and white. Live deep in the underworld and feverishly worship strange deities.",
 	"subtext2": " • Can see perfectly in the dark, but are blinded by bright light.",
-	"subtext3": " • Can summon lightning bolts to attack nearby enemies for d12 damage.",
+	"subtext3": " • Wander in groups, frequently accompanied by giant spiders.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -976,7 +976,7 @@
 	"stats": "6 HP, 14 DEX, bite (d6)",
 	"subtext1": " • Hybrid monstrosities resulting from the transformation ritual of the servants of the drow spider deity. Have the 8 legs of a giant spider and the upper body and head of the drow.",
 	"subtext2": " • Hunt on underworld caverns, eating the blood of paralyzed victims. Frequently accompanied by giant spiders.",
-	"subtext3": " • Frequently attack settlements for food.",
+	"subtext3": " • Critical Damage: The poison paralyzes the victim’s body (d6 DEX damage).",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -999,7 +999,7 @@
 	"stats": "15 HP, 3 Armor, 18 STR, 12 DEX, 16 WIL, bite (d10+d10)",
 	"subtext1": " • Gargantuan, proud, greedy, and cruel. Guarding their massive hoards atop the highest mountains, these are the most dangerous dragons of existence.",
 	"subtext2": " • Arrogant and tyrannical, act on impulse when angered, frequently wiping out civilizations as a show of power.",
-	"subtext3": " • Critical damage: Drains the victim’s life force (d6 extra STR damage).",
+	"subtext3": " • Breathes fire in a cone for d12 damage to all caught in the flames.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1022,7 +1022,7 @@
 	"stats": "11 HP, 2 Armor, 16 STR, bite (d8+d8)",
 	"subtext1": " • Ferocious, primal dragons that dwell in cold regions. Hunt dangerous prey and keep their bodies as trophies.",
 	"subtext2": " • Effortlessly crosses snow and ice.",
-	"subtext3": " • Immune to fire and heat.",
+	"subtext3": " • Breathes freezing cold for d10 Damage to all in the blast, freezing any liquids and creating an icy surface.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1045,7 +1045,7 @@
 	"stats": "30 HP, 3 Armor, 20 STR, 6 DEX, bite (d10+d10)",
 	"subtext1": " • Gargantuan sea monsters with the shell of a turtle and draconic features. Lurk in deep oceans and can be mistaken for a small island when on the surface.",
 	"subtext2": " • Attack ships, sinking them to add any treasure to their massive underwater hoards.",
-	"subtext3": " • Excellent trackers, hunt accompanied by dire wolves.",
+	"subtext3": " • Breathes large clouds of steam, clogging visions and damaging all inside for d8 damage.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1068,7 +1068,7 @@
 	"stats": "13 HP, 3 Armor, 16 STR, 14 WIL, bite (d8+d8)",
 	"subtext1": " • Noble and selfless dragons, with shining scales rescinding of a knight's armor. Dwell at the top of cold mountains.",
 	"subtext2": " • Frequently deals with humans, going through great efforts to help those in need.",
-	"subtext3": " • Can envelop itself in a wind aura, impairing missile attacks.",
+	"subtext3": " • Breathe a line of cold dealing d10 damage and potentially paralyzing those caught.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1091,7 +1091,7 @@
 	"stats": "12 HP, 2 Armor, 15 STR, 18 WIL, bite (d8+d8)",
 	"subtext1": " • Treacherous, scheming forest-dwelling amphibious dragons.",
 	"subtext2": " • Highly cunning, value the victims they tricked and their power of influence more than any hoard of gold.",
-	"subtext3": " • Critical damage: Paralyzes victims (d6 DEX damage). After paralyzing a victim, it moves to another target.",
+	"subtext3": " • Breathes a thick cloud of poisonous gas for d10 damage to all caught.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1114,7 +1114,7 @@
 	"stats": "15 HP, 3 Armor, 18 STR, 13 DEX, 16 WIL, bite (d10+d10)",
 	"subtext1": " • Majestic, reserved dragons with dark golden scales. Can be found anywhere, but nest atop mountains, feeding of jewels and other minerals.",
 	"subtext2": " • Master shapechangers, can take the form of any humanoid or animal.",
-	"subtext3": " • Critical damage: Its touch paralyzes victims (d6 DEX damage).",
+	"subtext3": " • Breath fire in a massive cone for d10 damage to all caught.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1137,7 +1137,7 @@
 	"stats": "12 HP, 2 Armor, 16 STR, 14 DEX, 18 WIL, bite (d8+d8)",
 	"subtext1": " • Good aligned dragons that dwell in dry, rocky regions.",
 	"subtext2": " • Appreciate jokes and riddles, frequently prank passing travelers.",
-	"subtext3": " • Cannot be charmed and put to sleep.",
+	"subtext3": " • Breathes acid in a cone for d10 damage or slowing gas, halving the movement of all affected.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1160,7 +1160,7 @@
 	"stats": "13 HP, 2 Armor, 16 STR, 14 DEX, 14 WIL, bite (d8+d8)",
 	"subtext1": " • Coastal dwelling, good dragons who eat mostly fish and aquatic plants.",
 	"subtext2": " • Shapechange into small beasts to watch nearby wildlife and passing ships.",
-	"subtext3": " • Critical damage: The spines release a highly lethal poison (d4 extra STR damage).",
+	"subtext3": " • Breathes lightning on a line for d10 damage or repulsion gas in a cone, pushing victims away.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1183,7 +1183,7 @@
 	"stats": "11 HP, 2 Armor, 16 STR, 19 WIL, bite (d8+d8)",
 	"subtext1": " • Charismatic, good-aligned dragons who hide their hoards in dunes of sand.",
 	"subtext2": " • Highly value conversations, frequently shapechanges into humanoids to interact with adventurers.",
-	"subtext3": " • Once it smells blood, it will not stop attacking.",
+	"subtext3": " • Breathes gas in a cone, targets affected fall asleep or flee in fear.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1206,7 +1206,7 @@
 	"stats": "13 HP, 2 Armor, 16 STR, 17 WIL, bite (d10+d10)",
 	"subtext1": " • Proud dragons that dwell in deserts and other drylands.",
 	"subtext2": " • Extremely vain, often take victims as slaves to adore them.",
-	"subtext3": " • The eyestalks cast one of those spells each round randomly: (1-Charm, 2-Phobia, 3-Telekinesis, 4-Sleep, 5-Shuffle, 6-Vision)",
+	"subtext3": " • Breathes lightning in a long line for d10 damage to all caught.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1229,7 +1229,7 @@
 	"stats": "11 HP, 2 Armor, 16 STR, 16 DEX, 14 WIL, bite (d10+d10)",
 	"subtext1": " • Cruel, amphibious dragons who dwell in swamps and marshes.",
 	"subtext2": " • Attack by separating their victims and killing them one by one.",
-	"subtext3": " • Its tusks can be sold for high amounts of gold if removed whole.",
+	"subtext3": " • Breathes acid in a long line for d10 damage to all caught, corroding wood and cloth.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1252,7 +1252,7 @@
 	"stats": "3 HP, 12 DEX, bite (d6)",
 	"subtext1": " • Wild dogs that roam in forests in large packs.",
 	"subtext2": " • While in packs of at least 4 dogs, morale checks are made with advantage.",
-	"subtext3": " • Envelop victims inside their forms to drown then.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1275,7 +1275,7 @@
 	"stats": "3 HP, 1 Armor, 12 STR, bite (d8)",
 	"subtext1": " • Large breeds selected by their bulk and strength.",
 	"subtext2": " • Not scared by noise or battle.",
-	"subtext3": " • Can scatter their flames, freely changing its form.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1298,7 +1298,7 @@
 	"stats": "2 HP, 12 DEX, bite (d6)",
 	"subtext1": " • Bulky, domestic-only breeds with a ferocious nature.",
 	"subtext2": " • Track by scent. Once started, very",
-	"subtext3": " • Can meld into the earth and move through it as if swimming.",
+	"subtext3": " • Difficult to put off the trail.",
 	"subtext4": " • Only attack at their owner’s command.",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1321,7 +1321,7 @@
 	"stats": "10 HP, 1 armor, 15 DEX, fists(d8)",
 	"subtext1": " • Tall, cloudy humanoids from the plane of air. Highly intelligent, use invisibility and illusions to trick other beings.",
 	"subtext2": " • May transform into a whirlwind, sweeping everything on its path.",
-	"subtext3": " • Harm aerial creatures by disrupting their flight.",
+	"subtext3": " • Capable of granting wishes, the result always is distorted based on the wording of the wish.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1344,7 +1344,7 @@
 	"stats": "3 HP, 12 DEX, bite (d6)",
 	"subtext1": " • Giant, omnivorous black ants that build their colonies deep underground.",
 	"subtext2": " • When hungry, they will consume anything in their path.",
-	"subtext3": " • Can easily camouflage into stone.",
+	"subtext3": " • Once in melee combat, it will not stop attacking its victim until dead.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1367,7 +1367,7 @@
 	"stats": "10 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, longsword (d8), Unholy Symbol (Hatred when bathed in blood)",
 	"subtext1": " • Once holy warriors who fell to the temptation of dark powers that they now serve in undeath. Rides nightmarish steeds into battle.",
 	"subtext2": " • Lesser undead creatures mindlessly follow their command.",
-	"subtext3": " • Might be summoned by powerful magic and ordered to complete tasks, but will subvert commands while following them to the letter.",
+	"subtext3": " • Their evil aura frightens anyone who comes into nearby range.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1390,7 +1390,7 @@
 	"stats": "4 HP, 11 STR, 8 DEX, 12 WIL, dagger (d6)",
 	"subtext1": " • Amphibious, fish-headed humanoids with webbed fingers. Live in deep seas and are able to see in the darkness.",
 	"subtext2": " • Highly resistant to magical effects.",
-	"subtext3": " • Highly resistant to poison and disease.",
+	"subtext3": " • Occasionally surface to trade with coastal settlements, frequently requesting union between one of them and a human.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1399,6 +1399,223 @@
 	"link": "",
 	"tags": "",
 	"categories": "monsters",
+	"genre": "",
+	"cost": ""
+},{
+	"name": "Data ",
+	"source": "",
+	"source-url": "",
+	"license": "",
+	"cost": "",
+	"author": "",
+	"description": "name,stats,subtext1,subtext2,subtext3,subtext4,author,inspiration,inspiration-source,source,source-url
+Acolyte,"4 HP, 1 Armor, 14 WIL, mace (d6), Holy Symbol (Ward once per day)",""" • Holy men in a quest for their deity.""",""" • Normally travel in groups of 4+.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+category: monsters
+Ankheg,"7 HP, 2 Armor, 16 STR, 8 WIL, bite (d8)",""" • Huge insectoids with multiple legs and shiny black eyes.""",""" • Stay burrowed just beneath the surfaces to ambush creatures walking above.""",""" • Squirts acid on distant enemies for d10 damage.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Ape, White","5 HP, 14 STR, claws (d6+d6)",""" • Albino gorillas with nocturnal habits.""",""" • Defend their territory with threats and then violence.""",""" • Throw rocks at enemies for d6 damage.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Bandit,"4 HP, 14 DEX, dagger(d6)",""" • Thieves who will value money over anything.""",""" • Use disguises, stealth, and trickery to surprise victims.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Banshee,"7 HP, 3 Armor, 6 STR, 12 DEX,  14 WIL, ghostly touch(d8)",""" • Incorporeal feminine spirits that lingered after death and haunt the living.""",""" • Unharmed by cold, heat, or the elements.""",""" • Critical damage: Their wailing freezes the victim’s soul (d8 WIL damage)""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Basilisk,"6 HP, 12 STR, 13 DEX, bite (d10)",""" • Long, magical, serpentine lizards that dwell in caverns.""",""" • Anyone who looks directly at them starts to get petrified.""",""" • Critical damage: the victim gets petrified (d8+d8 DEX damage).""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Bat, Vampire","3 HP,  8 STR, bite (d8)",""" • Big, flying mammals with nocturnal habits that nest in caves.""",""" • Unaffected by darkness or blinding effects, blinded by magical silence or constant loud noises.""",""" • Recover 1d4 HP after biting a victim that has blood.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Bear, Black","5 HP, 14 STR, claws (d6)",""" • 6’ tall bears who eat mostly berries and roots.""",""" • Only attack if cornered or to protect their young.""",""" • Sometimes raids camps for food.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Bear, Cave","8 HP, 17 STR, claws (d10)",""" • Ferocious 15’ tall carnivorous bears who live in caves.""",""" • Have poor eyesight, but track using smell. Follow tracks of blood.""",""" • Critical damage: Hug victims for d8 damage.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Bear, Grizzly","6 HP, 15 STR, claws (d8)",""" • Aggressive, 9’ tall reddish-brown furred bears who live in mountains. Prefer to eat meat.""",""" • Frequently are found sleeping.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Bear, Polar","7 HP, 16 STR, claws (d8)",""" • 11’ tall white-furred bears who live in cold regions, eat mostly fish.""",""" • Excellent at swimming.""",""" • Can move effortlessly through snow and ice.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Beetle, Fire","2 HP, 4 STR, 12 DEX, 6 WIL, bite(d4)",""" • 3’ long beetles commonly found underground.""",""" • Emits light through glands located in the abdomens and above the eyes,""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Beetle, Tiger","3 HP, 6 STR, 12 DEX, 6 WIL, bite (d6)",""" • 4’ long striped beetles with strong mandibles.""",""" • Eats other smaller creatures but sometimes hunts humans.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Berserker,"4 HP, 1 armor, 14 STR, battleaxe (d10, bulky)",""" • Tribal fighters who fight recklessly, never taking prisoners.""",""" • Can enter in battle rage, enhancing all damage dealt and received.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Black Pudding,"10 HP, 5 DEX, devouring touch (d8)",""" • Huge, brainless blobs of black jelly driven by unstoppable hunger.""",""" • Can only be harmed by flames.""",""" • Can move in walls and ceilings and squeeze through small holes.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Blink Dog,"3 HP, 14 DEX, bite (d6)",""" • Intelligent, fey-like dogs that live in packs.""",""" • Teleport away in a blink after attacking.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Boar,"3 HP, 12 STR, 6 WIL, tusks (d6)",""" • Omnivorous wild boars that dwell primarily in forests.""",""" • Not naturally aggressive, but can be dangerous if disturbed.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Brigand,"4 HP, 1 armor, shortsword (d6) or short bow (d6)",""" • Outlaws and mercenaries who raid settlements and ambush travelers.""",""" • Travel in large groups of at least one detachment.""",""" • For each detachment of regular brigands, there’s one leader who has chainmail (2 armor) and a longsword(d8).""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Buccaneer,"4 HP, 14 DEX, 12 WIL, scimitar (d6)",""" • Outlaw sailors who raid coastal settlements and board other ships.""",""" • Travel in large ship crews, only fighting in clear advantage, generally numerical.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Bugbear,"4 HP, 1 Armor, 14 DEX, club (d8, bulky)",""" • Large, hairy, goblinoid-like creatures.""",""" • Use stealth to surprise and attack their victims.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Camel,"3 HP, 15 STR, bite (d6)",""" • Beasts of burden native to drylands.""",""" • Might go weeks without water after being properly sated.""",""" • Moves through sand and broken ground without difficulty.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Cat, Lion","5 HP, 12 STR, 12 DEX, bite (d10)",""" • Hunts in groups called pride. Live in savannahs or other similar drylands.""",""" • Carnivorous. Prefer to eat bovines but might hunt even humans.""",""" • Always chase prey that flees.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Cat, Panther","4 HP, 14 DEX, bite (d8)",""" • Dark furred cats that live on forests and plains.""",""" • Hunts medium or small-sized animals, using their high speed in their favor.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Cat, Sabre-Toothed Tiger","8 HP, STR 15, bite (d10)",""" • Huge, aggressive cats with foot-long fangs.""",""" • Extremely rare, generally found in regions untouched by civilization.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Cat, Tiger","6 HP, 14 STR, 14 DEX, bite (d8)",""" • Large, with striped fur. Live in woodlands and colder regions.""",""" • Hunt alone, using their coloration to camouflage and surprise their victims.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Catoplebas,"7 HP, 13 STR, tail(d8)",""" • Monstrous creatures with a long, bony tail, a bloated body, short and stumpy legs, a long neck, and a boar-like head. Dwell in swamps.""",""" • Critical damage: the tail renders the victim stunned (d8 DEX damage).""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Cave Locust,"2 HP, 6 STR, 12 DEX, bite (d4)",""" • Giant, herbivorous crickets that dwell in caves. Easily blend into stone due to their natural coloration.""",""" • Emmit loud shrieks when threatened, possibly alerting other nearby creatures.""",""" • Immune to most types of poison.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Centaur,"4 HP, 1 Armor, 12 STR, 12 DEX, 13 WIL, spear or short bow (d6)",""" • Creatures with the lower body and legs of a horse and the upper body and head of a human.""",""" • Live in small tribes hidden amidst dense forests with labyrinthic paths.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Centipede, Giant","1 HP, 6 STR, 6 WIL, bite (d4)",""" • 1’ long centipedes that live in damp, underground places.""",""" • Critical damage: their deadly poison hinders the target incapacitated for up to 10 days (save STR once a day to recover).""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Chimera,"9 HP, 14 STR, bite (d6+d6+d6, blast)",""" • Three-headed flying monstrosities, hybrid of lion, goat, and dragon.""",""" • The draconic head breaths fire in a cone for d10 damage.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Cockatrice,"5 HP, 8 STR, 12 DEX, beak (d6)",""" • Small, hybrid creatures resembling chickens with reptilian features.""",""" • Critical damage: the victim gets petrified (d8+d8 DEX damage).""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Couatl,"9 HP, 15 WIL, bite (d6)",""" • Long, feathered serpents with colorful wings. Live in hot jungles and are considered divine by native people.""",""" • Highly intelligent and magical, are capable of speaking multiple languages.""",""" • Shapechanger: may take the form of beasts and humanoids.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Crab, Giant","3 HP, 3 Armor, 11 STR, 4 DEX, pincers (d8)",""" • Huge crustaceans that live in coastal areas and mindlessly attack anything that comes near.""",""" • Their heavy carapace makes them notably sturdy but slow and unable to swim.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Crocodile, Giant","15 HP, 1 Armor, 17 STR, 8 DEX, bite (d10+d10)",""" • 50’ long, extremely rare reptiles found on unexplored fluvial regions.""",""" • Attracted to the scent of blood or movement in the water.""",""" • Can easily destroy smaller ships with their crushing bite.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Crocodile, Large","6 HP, 1 Armor, 14 STR, 8 DEX, bite (d8)",""" • 20’ long, may attack small boats and canoes.""",""" • Attracted to the scent of blood or heavy movement in the water.""",""" • Swim silently just under the surface to ambush victims.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Cyclops,"13 HP, 18 STR, 8 DEX, 6 WIL, club (d10)",""" • Giant humanoids with a single large eye centered on the face. Dwell in caves and herd small animals.""",""" • Slow-witted, can easily be fooled by other intelligent beings.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Deep Ones,"4 HP, 11 STR, 8 DEX, 12 WIL, dagger (d6)",""" • Amphibious, fish-headed humanoids with webbed fingers. Live in deep seas and are able to see in the darkness.""",""" • Highly resistant to magical effects.""",""" • Occasionally surface to trade with coastal settlements, frequently requesting union between one of them and a human.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Demon Knight,"10 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, longsword (d8), Unholy Symbol (Hatred when bathed in blood)",""" • Once holy warriors who fell to the temptation of dark powers that they now serve in undeath. Rides nightmarish steeds into battle.""",""" • Lesser undead creatures mindlessly follow their command.""",""" • Their evil aura frightens anyone who comes into nearby range.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Djinn,"10 HP, 1 armor, 15 DEX, fists(d8)",""" • Tall, cloudy humanoids from the plane of air. Highly intelligent, use invisibility and illusions to trick other beings.""",""" • May transform into a whirlwind, sweeping everything on its path.""",""" • Capable of granting wishes, the result always is distorted based on the wording of the wish.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dog, Hunting","2 HP, 12 DEX, bite (d6)",""" • Bulky, domestic-only breeds with a ferocious nature.""",""" • Track by scent. Once started, very""",""" • Difficult to put off the trail.""",""" • Only attack at their owner’s command.""",xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dog, War","3 HP, 1 Armor, 12 STR, bite (d8)",""" • Large breeds selected by their bulk and strength.""",""" • Not scared by noise or battle.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dog, Wild","3 HP, 12 DEX, bite (d6)",""" • Wild dogs that roam in forests in large packs.""",""" • While in packs of at least 4 dogs, morale checks are made with advantage.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Black","11 HP, 2 Armor, 16 STR, 16 DEX, 14 WIL, bite (d10+d10)",""" • Cruel, amphibious dragons who dwell in swamps and marshes.""",""" • Attack by separating their victims and killing them one by one.""",""" • Breathes acid in a long line for d10 damage to all caught, corroding wood and cloth.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Blue","13 HP, 2 Armor, 16 STR, 17 WIL, bite (d10+d10)",""" • Proud dragons that dwell in deserts and other drylands.""",""" • Extremely vain, often take victims as slaves to adore them.""",""" • Breathes lightning in a long line for d10 damage to all caught.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Brass","11 HP, 2 Armor, 16 STR, 19 WIL, bite (d8+d8)",""" • Charismatic, good-aligned dragons who hide their hoards in dunes of sand.""",""" • Highly value conversations, frequently shapechanges into humanoids to interact with adventurers.""",""" • Breathes gas in a cone, targets affected fall asleep or flee in fear.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Bronze","13 HP, 2 Armor, 16 STR, 14 DEX, 14 WIL, bite (d8+d8)",""" • Coastal dwelling, good dragons who eat mostly fish and aquatic plants.""",""" • Shapechange into small beasts to watch nearby wildlife and passing ships.""",""" • Breathes lightning on a line for d10 damage or repulsion gas in a cone, pushing victims away.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Copper","12 HP, 2 Armor, 16 STR, 14 DEX, 18 WIL, bite (d8+d8)",""" • Good aligned dragons that dwell in dry, rocky regions.""",""" • Appreciate jokes and riddles, frequently prank passing travelers.""",""" • Breathes acid in a cone for d10 damage or slowing gas, halving the movement of all affected.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Gold","15 HP, 3 Armor, 18 STR, 13 DEX, 16 WIL, bite (d10+d10)",""" • Majestic, reserved dragons with dark golden scales. Can be found anywhere, but nest atop mountains, feeding of jewels and other minerals.""",""" • Master shapechangers, can take the form of any humanoid or animal.""",""" • Breath fire in a massive cone for d10 damage to all caught.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Green","12 HP, 2 Armor, 15 STR, 18 WIL, bite (d8+d8)",""" • Treacherous, scheming forest-dwelling amphibious dragons.""",""" • Highly cunning, value the victims they tricked and their power of influence more than any hoard of gold.""",""" • Breathes a thick cloud of poisonous gas for d10 damage to all caught.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Dragon. Red,"15 HP, 3 Armor, 18 STR, 12 DEX, 16 WIL, bite (d10+d10)",""" • Gargantuan, proud, greedy, and cruel. Guarding their massive hoards atop the highest mountains, these are the most dangerous dragons of existence.""",""" • Arrogant and tyrannical, act on impulse when angered, frequently wiping out civilizations as a show of power.""",""" • Breathes fire in a cone for d12 damage to all caught in the flames.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Silver","13 HP, 3 Armor, 16 STR, 14 WIL, bite (d8+d8)",""" • Noble and selfless dragons, with shining scales rescinding of a knight's armor. Dwell at the top of cold mountains.""",""" • Frequently deals with humans, going through great efforts to help those in need.""",""" • Breathe a line of cold dealing d10 damage and potentially paralyzing those caught.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, White","11 HP, 2 Armor, 16 STR, bite (d8+d8)",""" • Ferocious, primal dragons that dwell in cold regions. Hunt dangerous prey and keep their bodies as trophies.""",""" • Effortlessly crosses snow and ice.""",""" • Breathes freezing cold for d10 Damage to all in the blast, freezing any liquids and creating an icy surface.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Dragon Turtle,"30 HP, 3 Armor, 20 STR, 6 DEX, bite (d10+d10)",""" • Gargantuan sea monsters with the shell of a turtle and draconic features. Lurk in deep oceans and can be mistaken for a small island when on the surface.""",""" • Attack ships, sinking them to add any treasure to their massive underwater hoards.""",""" • Breathes large clouds of steam, clogging visions and damaging all inside for d8 damage.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Drider,"6 HP, 14 DEX, bite (d6)",""" • Hybrid monstrosities resulting from the transformation ritual of the servants of the drow spider deity. Have the 8 legs of a giant spider and the upper body and head of the drow.""",""" • Hunt on underworld caverns, eating the blood of paralyzed victims. Frequently accompanied by giant spiders.""",""" • Critical Damage: The poison paralyzes the victim’s body (d6 DEX damage).""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Diver Ant,"3 HP, 12 DEX, bite (d6)",""" • Giant, omnivorous black ants that build their colonies deep underground.""",""" • When hungry, they will consume anything in their path.""",""" • Once in melee combat, it will not stop attacking its victim until dead.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Drow,"4 HP, 8 STR, 14 DEX, 12 WIL, shortsword (d6), a Spellbook (choose one: Web, Spider Climb, or Night Sphere)",""" • Elvish humanoids of dark skin and hair of silver and white. Live deep in the underworld and feverishly worship strange deities.""",""" • Can see perfectly in the dark, but are blinded by bright light.""",""" • Wander in groups, frequently accompanied by giant spiders.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Dryad,"4 HP, 14 WIL, unarmed (d4)",""" • Shy, peaceful tree spirits whose manifest in a beautiful female form.""",""" • Spiritually bound with a tree, may disappear by joining with the tree again. Can’t go too far away from it and dies if the tree dies.""",""" • Charm strangers that come near. Charmed creatures mindlessly walk into the tree, disappearing forever if not rescued quickly.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Duergar,"4 HP, 1 Armor, 14 STR, 8 WIL, Warhammer (d10, bulky)",""" • Scrawny dwarven creatures with grey skin and ugly visages. Dwell in underworld strongholds and are known for their avarice.""",""" • Can see perfectly in the dark, but are blinded by bright light.""", • Surprise victims using their ability to turn invisible for a short time.,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Dwarf,"4 HP, 2 Armor, 14 STR, hammer (d8)",""" • Short and bulky, bearded humanoids who dwell in mountains and underground.""",""" • Can see perfectly in low-light and partially in darkness.""",""" • Highly resistant to poison and disease.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Efrreti,"10 HP, 15 STR, 14 WIL, flaming sword (d10, bulky)",""" • Highly intelligent beings from the elemental plane of fire. Manifest as huge men with terrifying faces and an aura of heat and smoke.""",""" • May transform into a pillar or wall of flames, burning everything it touches.""",""" • Might be summoned by powerful magic and ordered to complete tasks, but will subvert commands while following them to the letter.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Elemental, Air","16 HP, 11 STR, 15 DEX, 8 WIL, wind blow (d8)",""" • Huge, living vortexes of whirling air.""",""" • Sweep away lighter creatures with their strong winds.""",""" • Harm aerial creatures by disrupting their flight.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Elemental, Earth","12 HP, 3 Armor, 16 STR, 8 DEX, fist (d10)",""" • Huge humanoid beings made of earth and stone.""",""" • Create small earth tremors with their natural strength.""",""" • Can meld into the earth and move through it as if swimming.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Elemental, Fire","16 HP, 12 DEX, 14 WIL, blow (d8)",""" • Living columns of pure flame that burn everything in their path.""",""" • Highly vulnerable to being touched by water or rain.""",""" • Can scatter their flames, freely changing its form.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Elemental, Water","12 HP, 2 armor, 15 STR, blow (d8)",""" • Huge waves of flowing water.""",""" • Must stay near a body of water.""",""" • Envelop victims inside their forms to drown then.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Elephant,"9 HP, 16 STR, 6 DEX, tusks (d8)",""" • Large tusked animals that dwell near hot forests. Found both alone and in herds.""",""" • With enough open ground for a clear run, it will charge its victims, enhancing damage."""," • Its tusks can be sold for high amounts of gold if removed whole.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Elf,"4 HP, 1 Armor, 8 STR, 14 DEX, 14 WIL, shortswords (d6+d6) or longbow (d8), a Spellbook (choose one: Charm or Detect Magic)",""" • Slender, long-lived, fey humanoids with pointed ears. Live in harmony with nature, adapting to it instead of conquering.""",""" • Highly resistant to charming and mind-controlling effects.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Ettin,"10 HP, 16 STR, 6 WIL, club (d10)",""" • Two-headed giant kin of low intelligence and aggressive behavior. Lay underground and only act in darkness.""",""" • One head it’s always vigilant, preventing being surprised.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Eye of Terror,"12 HP, 12 STR, 8 DEX, 16 WIL, bite (d8+d8)",""" • Floating spheres with a large maw, one big central eye, and several small eyes on stalks scattered through the body. Scheming and greedy, lair deep underground.""",""" • Cancels any magic effect in a nearby range facing its central eye.""",""" • The eyestalks cast one of those spells each round randomly: (1-Charm, 2-Phobia, 3-Telekinesis, 4-Sleep, 5-Shuffle, 6-Vision)""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Catfish","8 HP, 14 STR, bite (d8+d8)",""" • Pale, 15’ long fish that lurk in the mud at the bottom of lakes and rivers.""",""" • Attack creatures that swim above their hiding spot.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Electric Eel","2 HP, 12 DEX, bite (d6)",""" • 9’ long eels that live in warm, clear water.""",""" • Able to emit an electric shock, damaging all in the nearby water for d10.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Pike","4 HP, 14 DEX, bite (d6+d6)",""" • 10’ long, aggressive hunting fish. Dwell in deep lakes.""",""" • Use their great speed to surprise victims.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Piranha","3 HP, 12 DEX, bite (d8)",""" • 5’ long piranhas with colorful scales. Live in rivers and attack anything in the water.""",""" • Dwell in large groups and overwhelm victims by swarming them."""," • Once it smells blood, it will not stop attacking.",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Rockfish","5 HP, 1 Armor, 12 STR, spine (d6)",""" • Spiny fish with rock-like scales. Live in saltwater. Normally passive, but attacks if disturbed.""",""" • Camouflages in rocks and coral formations.""",""" • Critical damage: The spines release a highly lethal poison (d4 extra STR damage).""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Sturgeon","10 HP, 2 Armor. 14 STR",""" • Huge, 30’ long, aggressive armored fish.""",""" • Swallow its victims whole if able.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Swordfish","3 HP, 12 DEX, sword (d8)",""" • Long saltwater fish with a bone sword on the snout. Mostly peaceful.""",""" • The bone sword might be used as a longsword(d8) if removed whole.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Flail Snail,"4 HP, 2 Armor, 14 STR, 6 DEX, tentacles (d8+d8)",""" • Giant snails with heavy, club-like tentacles and a colorful shell. Dwell underground.""",""" • Its colorful shell can deflect magic, possibly annulling it or reflecting it to its caster.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Gargoyle,"6 HP, 14 STR, 8 DEX, 12 WIL, claws (d6+d6)",""" • Magical creatures that look like monstrous, horned, winged statues.""",""" • Guard places by standing still to pass like inanimate statues and attacking anything that comes near.""",""" • Cannot be charmed and put to sleep.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Gelatinous Cube,"6 HP, 16 STR, 8 DEX, 4 WIL, touch (d8)",""" • Large cubes of transparent jelly, dwell in dungeons absorbing items and living creatures.""",""" • May go undetected due to being transparent.""",""" • Critical damage: Its touch paralyzes victims (d6 DEX damage).""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Ghast,"4 HP, 12 STR, WIL 6, claws (d6+d6)",""" • Grotesque, humanoid undead that craves eating flesh. Found in packs of Ghouls.""",""" • Exhale a strong stench, nauseating nearby living creatures.""",""" • Critical damage: Paralyzes victims (d6 DEX damage). After paralyzing a victim, it moves to another target.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Ghost,"10 HP, 3 Armor, 14 WIL, draining touch (d6)",""" • Incorporeal spirits of the restless dead.""",""" • Can possess victims that fail a WIL save, taking control of their bodies.""",""" • Critical damage: Drains the victim’s life force (d6 extra STR damage).""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Ghoul,"3 HP, 6 WIL, claws (d6)",""" • Grotesque, mindless, humanoid undead that craves the flesh of the living. Frequently found in large groups.""",""" • Critical damage: Paralyzes victims (d6 DEX damage). After paralyzing a victim, it moves to another target.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Giant, Cloud","12 HP, 1 Armor, 19 STR, 12 DEX, 18 WIL, morningstar(d8+d8)",""" • 20’ tall humanoids with hair and skin in tones of grey and white. House in castles built atop the highest mountains or floating in cloud banks.""",""" • Cannot be surprised due to its keen sight and smell senses.""",""" • Can envelop itself in a wind aura, impairing missile attacks.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Giant, Fire","11 HP, 3 Armor, 17 STR, 8 DEX, greatsword (d10+d10)",""" • 16’ tall humanoids with red hair and charcoal skin. Wear heavy armor made of brass, bronze or copper. Dwell in fortresses built near volcanoes.""",""" • Masters of craft and war, know how to forge the finest weaponry.""",""" • Immune to fire and heat.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Giant, Frost","10 HP, 2 Armor, 18 STR, 12 WIL, greataxe (d8+d8)",""" • 18’ tall humanoids with blue-ish skin and pale hair. Wear furs and iron armor.""",""" • Unharmed by cold and ice.""",""" • Excellent trackers, hunt accompanied by dire wolves.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Giant, Hill","8 HP, 15 STR, 6 WIL, great club (d8+d8)",""" • 12’ tall, hairy and brutish humanoids. Dwell in hills and plains.""",""" • Low intelligence, relies only on its ferocity.""",""" • Frequently attack settlements for food.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Giant, Stone","9 HP, 2 Armor, 16 STR, 14 DEX, stone club (d8+d8)",""" • 14’ tall slender humanoids with stone-like gray skin. Dwell in caverns or build primitive homes of stone in valleys.""",""" • Attack victims by throwing rocks at them from far away.""",""" • Can easily camouflage into stone.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Giant, Storm","15 HP, 2 Armor, 20 STR, 14 DEX, 18 WIL, greatsword (d10+d10)",""" • 22’ tall humanoids with bronze-hued skin and light-colored hair. Live in mountain peaks and deep waters.""",""" • Unharmed by lightning, can summon storms at their will.""",""" • Can summon lightning bolts to attack nearby enemies for d12 damage.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Gnoll,"4 HP, 1 Armor, 12 STR, 8 WIL, spear or short bow (d6)",""" • Monstrous humanoid hyenas of low intelligence. Legend says they were created in a wizard’s experiments.""",""" • Attack in large packs, intimidating its victims with numbers.""",""" • Critical damage: the gnoll enters in a rampage after tasting blood, making another attack immediately.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Gnome,"4 HP, 8 STR, 12 DEX, 14 WIL, crossbow (d8, bulky)",""" • Short humanoids with long noses and pointed ears. Live underground or deep in forests.""",""" • Highly intelligent tinkers. Can easily be convinced by the promise of something valuable or uncommon.""",""" • Can see well in the darkness or low light.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Goblin,"4 HP, 8 STR, 12 DEX, 8 WIL, dagger or short bow (d6)",""" • Small, grotesque humanoids with skin in earthly tones of green, brown, and grey.""",""" • Avoid combat, only attacking when in advantage, using hit-and-run tactics.""",""" • Sometimes are found using dire wolves as mounts.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Amber","10 HP, 3 Armor, 16 STR, 12 DEX, 14 WIL, claws (d8)",""" • Artificial constructs made in the shape of giant felines. Created by wizards in a slow and complex process.""",""" • Track without error, able to see invisible creatures nearby.""",""" • Immune to mundane attacks, gas, and mind-controlling effects.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Bone","8 HP, 2 Armor, 15 STR, 8 WIL, arms (d8, blast)",""" • 6’ tall humanoid constructs made of human bone. Have 4 arms spread around their torso.""",""" • Immune to mundane attacks, fire, cold, and electricity.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Bronze","20 HP, 3 Armor, 20 STR, 8 DEX, 11 WIL, fists (d10+d10)",""" • Towering constructs made of pure bronze. Reassemble fire giants, and emanate strong heat.""",""" • Immune to mundane attacks and fire.""",""" • When it suffers slashing or piercing damage to its STR, spurts a burning liquid, damaging the attacker for 2d6.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Clay","11 HP, 2 Armor, 15 STR, 7 DEX, 8 WIL, fists (d8)",""" • 8’ tall humanoid statues made of baked clay and animated by dark magics.""",""" • Immune to mundane attacks and fire. Resistant to weapon damage that is not bludgeoning.""",""" • Critical Damage: Inflicts a curse on the victim, STR cannot be healed until the curse is lifted.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Flesh","9 HP, 1 Armor, 15 STR, 8 DEX, 8 WIL, fists (d8)",""" • 7’ tall humanoid abominations made of flesh stitched together.""",""" • Immune to mundane attacks, fire, and cold.""",""" • Absorb electricity damage received, healing HP by the same amount instead.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Iron","18 HP, 3 Armor, 18 STR, 8 WIL, sword (d10+d10)",""" • 12’ humanoid statues forged with fire and magic. Wield massive swords of iron.""",""" • Immune to mundane attacks, electricity, and cold.""",""" • Absorb electricity damage received, healing HP by the same amount instead.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Stone","14 HP, 3 Armor, 17 STR, 8 DEX, fists (d10)",""" • 10’ tall animated statues carved from pure stone.""",""" • Immune to mundane attacks, fire, cold, and electricity.""",""" • Emits a magic aura that slows the movement of nearby creatures.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html",
+	"stats": "",
+	"subtext1": "",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "name,stats,subtext1,subtext2,subtext3,subtext4,author,inspiration,inspiration-source,source,source-url
+Acolyte,"4 HP, 1 Armor, 14 WIL, mace (d6), Holy Symbol (Ward once per day)",""" • Holy men in a quest for their deity.""",""" • Normally travel in groups of 4+.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+category: monsters
+Ankheg,"7 HP, 2 Armor, 16 STR, 8 WIL, bite (d8)",""" • Huge insectoids with multiple legs and shiny black eyes.""",""" • Stay burrowed just beneath the surfaces to ambush creatures walking above.""",""" • Squirts acid on distant enemies for d10 damage.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Ape, White","5 HP, 14 STR, claws (d6+d6)",""" • Albino gorillas with nocturnal habits.""",""" • Defend their territory with threats and then violence.""",""" • Throw rocks at enemies for d6 damage.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Bandit,"4 HP, 14 DEX, dagger(d6)",""" • Thieves who will value money over anything.""",""" • Use disguises, stealth, and trickery to surprise victims.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Banshee,"7 HP, 3 Armor, 6 STR, 12 DEX,  14 WIL, ghostly touch(d8)",""" • Incorporeal feminine spirits that lingered after death and haunt the living.""",""" • Unharmed by cold, heat, or the elements.""",""" • Critical damage: Their wailing freezes the victim’s soul (d8 WIL damage)""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Basilisk,"6 HP, 12 STR, 13 DEX, bite (d10)",""" • Long, magical, serpentine lizards that dwell in caverns.""",""" • Anyone who looks directly at them starts to get petrified.""",""" • Critical damage: the victim gets petrified (d8+d8 DEX damage).""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Bat, Vampire","3 HP,  8 STR, bite (d8)",""" • Big, flying mammals with nocturnal habits that nest in caves.""",""" • Unaffected by darkness or blinding effects, blinded by magical silence or constant loud noises.""",""" • Recover 1d4 HP after biting a victim that has blood.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Bear, Black","5 HP, 14 STR, claws (d6)",""" • 6’ tall bears who eat mostly berries and roots.""",""" • Only attack if cornered or to protect their young.""",""" • Sometimes raids camps for food.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Bear, Cave","8 HP, 17 STR, claws (d10)",""" • Ferocious 15’ tall carnivorous bears who live in caves.""",""" • Have poor eyesight, but track using smell. Follow tracks of blood.""",""" • Critical damage: Hug victims for d8 damage.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Bear, Grizzly","6 HP, 15 STR, claws (d8)",""" • Aggressive, 9’ tall reddish-brown furred bears who live in mountains. Prefer to eat meat.""",""" • Frequently are found sleeping.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Bear, Polar","7 HP, 16 STR, claws (d8)",""" • 11’ tall white-furred bears who live in cold regions, eat mostly fish.""",""" • Excellent at swimming.""",""" • Can move effortlessly through snow and ice.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Beetle, Fire","2 HP, 4 STR, 12 DEX, 6 WIL, bite(d4)",""" • 3’ long beetles commonly found underground.""",""" • Emits light through glands located in the abdomens and above the eyes,""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Beetle, Tiger","3 HP, 6 STR, 12 DEX, 6 WIL, bite (d6)",""" • 4’ long striped beetles with strong mandibles.""",""" • Eats other smaller creatures but sometimes hunts humans.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Berserker,"4 HP, 1 armor, 14 STR, battleaxe (d10, bulky)",""" • Tribal fighters who fight recklessly, never taking prisoners.""",""" • Can enter in battle rage, enhancing all damage dealt and received.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Black Pudding,"10 HP, 5 DEX, devouring touch (d8)",""" • Huge, brainless blobs of black jelly driven by unstoppable hunger.""",""" • Can only be harmed by flames.""",""" • Can move in walls and ceilings and squeeze through small holes.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Blink Dog,"3 HP, 14 DEX, bite (d6)",""" • Intelligent, fey-like dogs that live in packs.""",""" • Teleport away in a blink after attacking.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Boar,"3 HP, 12 STR, 6 WIL, tusks (d6)",""" • Omnivorous wild boars that dwell primarily in forests.""",""" • Not naturally aggressive, but can be dangerous if disturbed.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Brigand,"4 HP, 1 armor, shortsword (d6) or short bow (d6)",""" • Outlaws and mercenaries who raid settlements and ambush travelers.""",""" • Travel in large groups of at least one detachment.""",""" • For each detachment of regular brigands, there’s one leader who has chainmail (2 armor) and a longsword(d8).""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Buccaneer,"4 HP, 14 DEX, 12 WIL, scimitar (d6)",""" • Outlaw sailors who raid coastal settlements and board other ships.""",""" • Travel in large ship crews, only fighting in clear advantage, generally numerical.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Bugbear,"4 HP, 1 Armor, 14 DEX, club (d8, bulky)",""" • Large, hairy, goblinoid-like creatures.""",""" • Use stealth to surprise and attack their victims.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Camel,"3 HP, 15 STR, bite (d6)",""" • Beasts of burden native to drylands.""",""" • Might go weeks without water after being properly sated.""",""" • Moves through sand and broken ground without difficulty.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Cat, Lion","5 HP, 12 STR, 12 DEX, bite (d10)",""" • Hunts in groups called pride. Live in savannahs or other similar drylands.""",""" • Carnivorous. Prefer to eat bovines but might hunt even humans.""",""" • Always chase prey that flees.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Cat, Panther","4 HP, 14 DEX, bite (d8)",""" • Dark furred cats that live on forests and plains.""",""" • Hunts medium or small-sized animals, using their high speed in their favor.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Cat, Sabre-Toothed Tiger","8 HP, STR 15, bite (d10)",""" • Huge, aggressive cats with foot-long fangs.""",""" • Extremely rare, generally found in regions untouched by civilization.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Cat, Tiger","6 HP, 14 STR, 14 DEX, bite (d8)",""" • Large, with striped fur. Live in woodlands and colder regions.""",""" • Hunt alone, using their coloration to camouflage and surprise their victims.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Catoplebas,"7 HP, 13 STR, tail(d8)",""" • Monstrous creatures with a long, bony tail, a bloated body, short and stumpy legs, a long neck, and a boar-like head. Dwell in swamps.""",""" • Critical damage: the tail renders the victim stunned (d8 DEX damage).""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Cave Locust,"2 HP, 6 STR, 12 DEX, bite (d4)",""" • Giant, herbivorous crickets that dwell in caves. Easily blend into stone due to their natural coloration.""",""" • Emmit loud shrieks when threatened, possibly alerting other nearby creatures.""",""" • Immune to most types of poison.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Centaur,"4 HP, 1 Armor, 12 STR, 12 DEX, 13 WIL, spear or short bow (d6)",""" • Creatures with the lower body and legs of a horse and the upper body and head of a human.""",""" • Live in small tribes hidden amidst dense forests with labyrinthic paths.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Centipede, Giant","1 HP, 6 STR, 6 WIL, bite (d4)",""" • 1’ long centipedes that live in damp, underground places.""",""" • Critical damage: their deadly poison hinders the target incapacitated for up to 10 days (save STR once a day to recover).""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Chimera,"9 HP, 14 STR, bite (d6+d6+d6, blast)",""" • Three-headed flying monstrosities, hybrid of lion, goat, and dragon.""",""" • The draconic head breaths fire in a cone for d10 damage.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Cockatrice,"5 HP, 8 STR, 12 DEX, beak (d6)",""" • Small, hybrid creatures resembling chickens with reptilian features.""",""" • Critical damage: the victim gets petrified (d8+d8 DEX damage).""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Couatl,"9 HP, 15 WIL, bite (d6)",""" • Long, feathered serpents with colorful wings. Live in hot jungles and are considered divine by native people.""",""" • Highly intelligent and magical, are capable of speaking multiple languages.""",""" • Shapechanger: may take the form of beasts and humanoids.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Crab, Giant","3 HP, 3 Armor, 11 STR, 4 DEX, pincers (d8)",""" • Huge crustaceans that live in coastal areas and mindlessly attack anything that comes near.""",""" • Their heavy carapace makes them notably sturdy but slow and unable to swim.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Crocodile, Giant","15 HP, 1 Armor, 17 STR, 8 DEX, bite (d10+d10)",""" • 50’ long, extremely rare reptiles found on unexplored fluvial regions.""",""" • Attracted to the scent of blood or movement in the water.""",""" • Can easily destroy smaller ships with their crushing bite.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Crocodile, Large","6 HP, 1 Armor, 14 STR, 8 DEX, bite (d8)",""" • 20’ long, may attack small boats and canoes.""",""" • Attracted to the scent of blood or heavy movement in the water.""",""" • Swim silently just under the surface to ambush victims.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Cyclops,"13 HP, 18 STR, 8 DEX, 6 WIL, club (d10)",""" • Giant humanoids with a single large eye centered on the face. Dwell in caves and herd small animals.""",""" • Slow-witted, can easily be fooled by other intelligent beings.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Deep Ones,"4 HP, 11 STR, 8 DEX, 12 WIL, dagger (d6)",""" • Amphibious, fish-headed humanoids with webbed fingers. Live in deep seas and are able to see in the darkness.""",""" • Highly resistant to magical effects.""",""" • Occasionally surface to trade with coastal settlements, frequently requesting union between one of them and a human.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Demon Knight,"10 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, longsword (d8), Unholy Symbol (Hatred when bathed in blood)",""" • Once holy warriors who fell to the temptation of dark powers that they now serve in undeath. Rides nightmarish steeds into battle.""",""" • Lesser undead creatures mindlessly follow their command.""",""" • Their evil aura frightens anyone who comes into nearby range.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Djinn,"10 HP, 1 armor, 15 DEX, fists(d8)",""" • Tall, cloudy humanoids from the plane of air. Highly intelligent, use invisibility and illusions to trick other beings.""",""" • May transform into a whirlwind, sweeping everything on its path.""",""" • Capable of granting wishes, the result always is distorted based on the wording of the wish.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dog, Hunting","2 HP, 12 DEX, bite (d6)",""" • Bulky, domestic-only breeds with a ferocious nature.""",""" • Track by scent. Once started, very""",""" • Difficult to put off the trail.""",""" • Only attack at their owner’s command.""",xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dog, War","3 HP, 1 Armor, 12 STR, bite (d8)",""" • Large breeds selected by their bulk and strength.""",""" • Not scared by noise or battle.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dog, Wild","3 HP, 12 DEX, bite (d6)",""" • Wild dogs that roam in forests in large packs.""",""" • While in packs of at least 4 dogs, morale checks are made with advantage.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Black","11 HP, 2 Armor, 16 STR, 16 DEX, 14 WIL, bite (d10+d10)",""" • Cruel, amphibious dragons who dwell in swamps and marshes.""",""" • Attack by separating their victims and killing them one by one.""",""" • Breathes acid in a long line for d10 damage to all caught, corroding wood and cloth.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Blue","13 HP, 2 Armor, 16 STR, 17 WIL, bite (d10+d10)",""" • Proud dragons that dwell in deserts and other drylands.""",""" • Extremely vain, often take victims as slaves to adore them.""",""" • Breathes lightning in a long line for d10 damage to all caught.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Brass","11 HP, 2 Armor, 16 STR, 19 WIL, bite (d8+d8)",""" • Charismatic, good-aligned dragons who hide their hoards in dunes of sand.""",""" • Highly value conversations, frequently shapechanges into humanoids to interact with adventurers.""",""" • Breathes gas in a cone, targets affected fall asleep or flee in fear.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Bronze","13 HP, 2 Armor, 16 STR, 14 DEX, 14 WIL, bite (d8+d8)",""" • Coastal dwelling, good dragons who eat mostly fish and aquatic plants.""",""" • Shapechange into small beasts to watch nearby wildlife and passing ships.""",""" • Breathes lightning on a line for d10 damage or repulsion gas in a cone, pushing victims away.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Copper","12 HP, 2 Armor, 16 STR, 14 DEX, 18 WIL, bite (d8+d8)",""" • Good aligned dragons that dwell in dry, rocky regions.""",""" • Appreciate jokes and riddles, frequently prank passing travelers.""",""" • Breathes acid in a cone for d10 damage or slowing gas, halving the movement of all affected.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Gold","15 HP, 3 Armor, 18 STR, 13 DEX, 16 WIL, bite (d10+d10)",""" • Majestic, reserved dragons with dark golden scales. Can be found anywhere, but nest atop mountains, feeding of jewels and other minerals.""",""" • Master shapechangers, can take the form of any humanoid or animal.""",""" • Breath fire in a massive cone for d10 damage to all caught.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Green","12 HP, 2 Armor, 15 STR, 18 WIL, bite (d8+d8)",""" • Treacherous, scheming forest-dwelling amphibious dragons.""",""" • Highly cunning, value the victims they tricked and their power of influence more than any hoard of gold.""",""" • Breathes a thick cloud of poisonous gas for d10 damage to all caught.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Dragon. Red,"15 HP, 3 Armor, 18 STR, 12 DEX, 16 WIL, bite (d10+d10)",""" • Gargantuan, proud, greedy, and cruel. Guarding their massive hoards atop the highest mountains, these are the most dangerous dragons of existence.""",""" • Arrogant and tyrannical, act on impulse when angered, frequently wiping out civilizations as a show of power.""",""" • Breathes fire in a cone for d12 damage to all caught in the flames.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, Silver","13 HP, 3 Armor, 16 STR, 14 WIL, bite (d8+d8)",""" • Noble and selfless dragons, with shining scales rescinding of a knight's armor. Dwell at the top of cold mountains.""",""" • Frequently deals with humans, going through great efforts to help those in need.""",""" • Breathe a line of cold dealing d10 damage and potentially paralyzing those caught.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Dragon, White","11 HP, 2 Armor, 16 STR, bite (d8+d8)",""" • Ferocious, primal dragons that dwell in cold regions. Hunt dangerous prey and keep their bodies as trophies.""",""" • Effortlessly crosses snow and ice.""",""" • Breathes freezing cold for d10 Damage to all in the blast, freezing any liquids and creating an icy surface.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Dragon Turtle,"30 HP, 3 Armor, 20 STR, 6 DEX, bite (d10+d10)",""" • Gargantuan sea monsters with the shell of a turtle and draconic features. Lurk in deep oceans and can be mistaken for a small island when on the surface.""",""" • Attack ships, sinking them to add any treasure to their massive underwater hoards.""",""" • Breathes large clouds of steam, clogging visions and damaging all inside for d8 damage.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Drider,"6 HP, 14 DEX, bite (d6)",""" • Hybrid monstrosities resulting from the transformation ritual of the servants of the drow spider deity. Have the 8 legs of a giant spider and the upper body and head of the drow.""",""" • Hunt on underworld caverns, eating the blood of paralyzed victims. Frequently accompanied by giant spiders.""",""" • Critical Damage: The poison paralyzes the victim’s body (d6 DEX damage).""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Diver Ant,"3 HP, 12 DEX, bite (d6)",""" • Giant, omnivorous black ants that build their colonies deep underground.""",""" • When hungry, they will consume anything in their path.""",""" • Once in melee combat, it will not stop attacking its victim until dead.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Drow,"4 HP, 8 STR, 14 DEX, 12 WIL, shortsword (d6), a Spellbook (choose one: Web, Spider Climb, or Night Sphere)",""" • Elvish humanoids of dark skin and hair of silver and white. Live deep in the underworld and feverishly worship strange deities.""",""" • Can see perfectly in the dark, but are blinded by bright light.""",""" • Wander in groups, frequently accompanied by giant spiders.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Dryad,"4 HP, 14 WIL, unarmed (d4)",""" • Shy, peaceful tree spirits whose manifest in a beautiful female form.""",""" • Spiritually bound with a tree, may disappear by joining with the tree again. Can’t go too far away from it and dies if the tree dies.""",""" • Charm strangers that come near. Charmed creatures mindlessly walk into the tree, disappearing forever if not rescued quickly.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Duergar,"4 HP, 1 Armor, 14 STR, 8 WIL, Warhammer (d10, bulky)",""" • Scrawny dwarven creatures with grey skin and ugly visages. Dwell in underworld strongholds and are known for their avarice.""",""" • Can see perfectly in the dark, but are blinded by bright light.""", • Surprise victims using their ability to turn invisible for a short time.,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Dwarf,"4 HP, 2 Armor, 14 STR, hammer (d8)",""" • Short and bulky, bearded humanoids who dwell in mountains and underground.""",""" • Can see perfectly in low-light and partially in darkness.""",""" • Highly resistant to poison and disease.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Efrreti,"10 HP, 15 STR, 14 WIL, flaming sword (d10, bulky)",""" • Highly intelligent beings from the elemental plane of fire. Manifest as huge men with terrifying faces and an aura of heat and smoke.""",""" • May transform into a pillar or wall of flames, burning everything it touches.""",""" • Might be summoned by powerful magic and ordered to complete tasks, but will subvert commands while following them to the letter.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Elemental, Air","16 HP, 11 STR, 15 DEX, 8 WIL, wind blow (d8)",""" • Huge, living vortexes of whirling air.""",""" • Sweep away lighter creatures with their strong winds.""",""" • Harm aerial creatures by disrupting their flight.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Elemental, Earth","12 HP, 3 Armor, 16 STR, 8 DEX, fist (d10)",""" • Huge humanoid beings made of earth and stone.""",""" • Create small earth tremors with their natural strength.""",""" • Can meld into the earth and move through it as if swimming.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Elemental, Fire","16 HP, 12 DEX, 14 WIL, blow (d8)",""" • Living columns of pure flame that burn everything in their path.""",""" • Highly vulnerable to being touched by water or rain.""",""" • Can scatter their flames, freely changing its form.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Elemental, Water","12 HP, 2 armor, 15 STR, blow (d8)",""" • Huge waves of flowing water.""",""" • Must stay near a body of water.""",""" • Envelop victims inside their forms to drown then.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Elephant,"9 HP, 16 STR, 6 DEX, tusks (d8)",""" • Large tusked animals that dwell near hot forests. Found both alone and in herds.""",""" • With enough open ground for a clear run, it will charge its victims, enhancing damage."""," • Its tusks can be sold for high amounts of gold if removed whole.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Elf,"4 HP, 1 Armor, 8 STR, 14 DEX, 14 WIL, shortswords (d6+d6) or longbow (d8), a Spellbook (choose one: Charm or Detect Magic)",""" • Slender, long-lived, fey humanoids with pointed ears. Live in harmony with nature, adapting to it instead of conquering.""",""" • Highly resistant to charming and mind-controlling effects.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Ettin,"10 HP, 16 STR, 6 WIL, club (d10)",""" • Two-headed giant kin of low intelligence and aggressive behavior. Lay underground and only act in darkness.""",""" • One head it’s always vigilant, preventing being surprised.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Eye of Terror,"12 HP, 12 STR, 8 DEX, 16 WIL, bite (d8+d8)",""" • Floating spheres with a large maw, one big central eye, and several small eyes on stalks scattered through the body. Scheming and greedy, lair deep underground.""",""" • Cancels any magic effect in a nearby range facing its central eye.""",""" • The eyestalks cast one of those spells each round randomly: (1-Charm, 2-Phobia, 3-Telekinesis, 4-Sleep, 5-Shuffle, 6-Vision)""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Catfish","8 HP, 14 STR, bite (d8+d8)",""" • Pale, 15’ long fish that lurk in the mud at the bottom of lakes and rivers.""",""" • Attack creatures that swim above their hiding spot.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Electric Eel","2 HP, 12 DEX, bite (d6)",""" • 9’ long eels that live in warm, clear water.""",""" • Able to emit an electric shock, damaging all in the nearby water for d10.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Pike","4 HP, 14 DEX, bite (d6+d6)",""" • 10’ long, aggressive hunting fish. Dwell in deep lakes.""",""" • Use their great speed to surprise victims.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Piranha","3 HP, 12 DEX, bite (d8)",""" • 5’ long piranhas with colorful scales. Live in rivers and attack anything in the water.""",""" • Dwell in large groups and overwhelm victims by swarming them."""," • Once it smells blood, it will not stop attacking.",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Rockfish","5 HP, 1 Armor, 12 STR, spine (d6)",""" • Spiny fish with rock-like scales. Live in saltwater. Normally passive, but attacks if disturbed.""",""" • Camouflages in rocks and coral formations.""",""" • Critical damage: The spines release a highly lethal poison (d4 extra STR damage).""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Sturgeon","10 HP, 2 Armor. 14 STR",""" • Huge, 30’ long, aggressive armored fish.""",""" • Swallow its victims whole if able.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Fish, Giant Swordfish","3 HP, 12 DEX, sword (d8)",""" • Long saltwater fish with a bone sword on the snout. Mostly peaceful.""",""" • The bone sword might be used as a longsword(d8) if removed whole.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Flail Snail,"4 HP, 2 Armor, 14 STR, 6 DEX, tentacles (d8+d8)",""" • Giant snails with heavy, club-like tentacles and a colorful shell. Dwell underground.""",""" • Its colorful shell can deflect magic, possibly annulling it or reflecting it to its caster.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Gargoyle,"6 HP, 14 STR, 8 DEX, 12 WIL, claws (d6+d6)",""" • Magical creatures that look like monstrous, horned, winged statues.""",""" • Guard places by standing still to pass like inanimate statues and attacking anything that comes near.""",""" • Cannot be charmed and put to sleep.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Gelatinous Cube,"6 HP, 16 STR, 8 DEX, 4 WIL, touch (d8)",""" • Large cubes of transparent jelly, dwell in dungeons absorbing items and living creatures.""",""" • May go undetected due to being transparent.""",""" • Critical damage: Its touch paralyzes victims (d6 DEX damage).""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Ghast,"4 HP, 12 STR, WIL 6, claws (d6+d6)",""" • Grotesque, humanoid undead that craves eating flesh. Found in packs of Ghouls.""",""" • Exhale a strong stench, nauseating nearby living creatures.""",""" • Critical damage: Paralyzes victims (d6 DEX damage). After paralyzing a victim, it moves to another target.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Ghost,"10 HP, 3 Armor, 14 WIL, draining touch (d6)",""" • Incorporeal spirits of the restless dead.""",""" • Can possess victims that fail a WIL save, taking control of their bodies.""",""" • Critical damage: Drains the victim’s life force (d6 extra STR damage).""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Ghoul,"3 HP, 6 WIL, claws (d6)",""" • Grotesque, mindless, humanoid undead that craves the flesh of the living. Frequently found in large groups.""",""" • Critical damage: Paralyzes victims (d6 DEX damage). After paralyzing a victim, it moves to another target.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Giant, Cloud","12 HP, 1 Armor, 19 STR, 12 DEX, 18 WIL, morningstar(d8+d8)",""" • 20’ tall humanoids with hair and skin in tones of grey and white. House in castles built atop the highest mountains or floating in cloud banks.""",""" • Cannot be surprised due to its keen sight and smell senses.""",""" • Can envelop itself in a wind aura, impairing missile attacks.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Giant, Fire","11 HP, 3 Armor, 17 STR, 8 DEX, greatsword (d10+d10)",""" • 16’ tall humanoids with red hair and charcoal skin. Wear heavy armor made of brass, bronze or copper. Dwell in fortresses built near volcanoes.""",""" • Masters of craft and war, know how to forge the finest weaponry.""",""" • Immune to fire and heat.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Giant, Frost","10 HP, 2 Armor, 18 STR, 12 WIL, greataxe (d8+d8)",""" • 18’ tall humanoids with blue-ish skin and pale hair. Wear furs and iron armor.""",""" • Unharmed by cold and ice.""",""" • Excellent trackers, hunt accompanied by dire wolves.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Giant, Hill","8 HP, 15 STR, 6 WIL, great club (d8+d8)",""" • 12’ tall, hairy and brutish humanoids. Dwell in hills and plains.""",""" • Low intelligence, relies only on its ferocity.""",""" • Frequently attack settlements for food.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Giant, Stone","9 HP, 2 Armor, 16 STR, 14 DEX, stone club (d8+d8)",""" • 14’ tall slender humanoids with stone-like gray skin. Dwell in caverns or build primitive homes of stone in valleys.""",""" • Attack victims by throwing rocks at them from far away.""",""" • Can easily camouflage into stone.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Giant, Storm","15 HP, 2 Armor, 20 STR, 14 DEX, 18 WIL, greatsword (d10+d10)",""" • 22’ tall humanoids with bronze-hued skin and light-colored hair. Live in mountain peaks and deep waters.""",""" • Unharmed by lightning, can summon storms at their will.""",""" • Can summon lightning bolts to attack nearby enemies for d12 damage.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Gnoll,"4 HP, 1 Armor, 12 STR, 8 WIL, spear or short bow (d6)",""" • Monstrous humanoid hyenas of low intelligence. Legend says they were created in a wizard’s experiments.""",""" • Attack in large packs, intimidating its victims with numbers.""",""" • Critical damage: the gnoll enters in a rampage after tasting blood, making another attack immediately.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Gnome,"4 HP, 8 STR, 12 DEX, 14 WIL, crossbow (d8, bulky)",""" • Short humanoids with long noses and pointed ears. Live underground or deep in forests.""",""" • Highly intelligent tinkers. Can easily be convinced by the promise of something valuable or uncommon.""",""" • Can see well in the darkness or low light.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+Goblin,"4 HP, 8 STR, 12 DEX, 8 WIL, dagger or short bow (d6)",""" • Small, grotesque humanoids with skin in earthly tones of green, brown, and grey.""",""" • Avoid combat, only attacking when in advantage, using hit-and-run tactics.""",""" • Sometimes are found using dire wolves as mounts.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Amber","10 HP, 3 Armor, 16 STR, 12 DEX, 14 WIL, claws (d8)",""" • Artificial constructs made in the shape of giant felines. Created by wizards in a slow and complex process.""",""" • Track without error, able to see invisible creatures nearby.""",""" • Immune to mundane attacks, gas, and mind-controlling effects.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Bone","8 HP, 2 Armor, 15 STR, 8 WIL, arms (d8, blast)",""" • 6’ tall humanoid constructs made of human bone. Have 4 arms spread around their torso.""",""" • Immune to mundane attacks, fire, cold, and electricity.""",,,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Bronze","20 HP, 3 Armor, 20 STR, 8 DEX, 11 WIL, fists (d10+d10)",""" • Towering constructs made of pure bronze. Reassemble fire giants, and emanate strong heat.""",""" • Immune to mundane attacks and fire.""",""" • When it suffers slashing or piercing damage to its STR, spurts a burning liquid, damaging the attacker for 2d6.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Clay","11 HP, 2 Armor, 15 STR, 7 DEX, 8 WIL, fists (d8)",""" • 8’ tall humanoid statues made of baked clay and animated by dark magics.""",""" • Immune to mundane attacks and fire. Resistant to weapon damage that is not bludgeoning.""",""" • Critical Damage: Inflicts a curse on the victim, STR cannot be healed until the curse is lifted.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Flesh","9 HP, 1 Armor, 15 STR, 8 DEX, 8 WIL, fists (d8)",""" • 7’ tall humanoid abominations made of flesh stitched together.""",""" • Immune to mundane attacks, fire, and cold.""",""" • Absorb electricity damage received, healing HP by the same amount instead.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Iron","18 HP, 3 Armor, 18 STR, 8 WIL, sword (d10+d10)",""" • 12’ humanoid statues forged with fire and magic. Wield massive swords of iron.""",""" • Immune to mundane attacks, electricity, and cold.""",""" • Absorb electricity damage received, healing HP by the same amount instead.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html
+"Golem, Stone","14 HP, 3 Armor, 17 STR, 8 DEX, fists (d10)",""" • 10’ tall animated statues carved from pure stone.""",""" • Immune to mundane attacks, fire, cold, and electricity.""",""" • Emits a magic aura that slows the movement of nearby creatures.""",,xenio,TSR Monsters,https://oldschoolessentials.necroticgnome.com/srd/index.php/Monster_Descriptions,xenio in a bottle,https://xenioinabottle.blogspot.com/2021/02/classic-monsters-for-cairnito-part-1.html",
+	"link": "",
+	"tags": "",
+	"categories": "",
 	"genre": "",
 	"cost": ""
 },{
@@ -1413,7 +1630,7 @@
 	"stats": "13 HP, 18 STR, 8 DEX, 6 WIL, club (d10)",
 	"subtext1": " • Giant humanoids with a single large eye centered on the face. Dwell in caves and herd small animals.",
 	"subtext2": " • Slow-witted, can easily be fooled by other intelligent beings.",
-	"subtext3": " • Surprise victims using their ability to turn invisible for a short time.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1422,6 +1639,85 @@
 	"link": "",
 	"tags": "",
 	"categories": "monsters",
+	"genre": "",
+	"cost": ""
+},{
+	"name": "Csv To Jekyll ",
+	"source": "",
+	"source-url": "",
+	"license": "",
+	"cost": "",
+	"author": "",
+	"description": "# Takes a file CSV file called "data.csv" and outputs each row as a YAML file named after first column.
+# Data in the first row of the CSV is assumed to be the column heading.
+category: monsters
+# Original work borrowed from: https://github.com/hfionte/csv_to_yaml
+
+",
+	"stats": "",
+	"subtext1": "",
+	"subtext2": "",
+	"subtext3": "",
+	"subtext4": "",
+	"inspiration": "",
+	"inspiration-url": "",
+	"content": "# Takes a file CSV file called "data.csv" and outputs each row as a YAML file named after first column.
+# Data in the first row of the CSV is assumed to be the column heading.
+category: monsters
+# Original work borrowed from: https://github.com/hfionte/csv_to_yaml
+
+# Import the python library for parsing CSV files.
+import csv
+
+# Open our data file in read-mode.
+csvfile = open('data.csv', 'r')
+
+# Save a CSV Reader object.
+datareader = csv.reader(csvfile, delimiter=',', quotechar='"')
+
+# Empty array for data headings, which we will fill with the first row from our CSV.
+data_headings = []
+
+# Loop through each row...
+for row_index, row in enumerate(datareader):
+
+	# If this is the first row, populate our data_headings variable.
+	if row_index == 0:
+		data_headings = row
+
+	# Othrwise, create a YAML file from the data in this row...
+	else:
+		# Open a new file with filename based on the first column
+		filename = row[0].lower().replace(" county", "").replace(" ", "_") + '.md'
+		new_yaml = open(filename, 'w')
+
+		# Empty string that we will fill with YAML formatted text based on data extracted from our CSV.
+		yaml_text = ""
+		yaml_text += "---\n"
+		yaml_text += "layout: entry \n"
+
+		# Loop through each cell in this row...
+		for cell_index, cell in enumerate(row):
+
+			# Compile a line of YAML text from our headings list and the text of the current cell, followed by a linebreak.
+			# Heading text is converted to lowercase. Spaces are converted to underscores and hyphens are removed.
+			# In the cell text, line endings are replaced with commas.
+			cell_heading = data_headings[cell_index].lower().replace(" ", "_").replace("-", "_").replace("%", "percent").replace("$", "").replace(",", "")
+			cell_text = cell_heading + ": " + cell.replace("\n", ", ") + "\n"
+
+			# Add this line of text to the current YAML string.
+			yaml_text += cell_text
+
+		# Write our YAML string to the new text file and close it.
+		new_yaml.write(yaml_text + "---\n")
+		new_yaml.close()
+
+# We're done! Close the CSV file.
+csvfile.close()
+",
+	"link": "",
+	"tags": "",
+	"categories": "",
 	"genre": "",
 	"cost": ""
 },{
@@ -1436,7 +1732,7 @@
 	"stats": "6 HP, 1 Armor, 14 STR, 8 DEX, bite (d8)",
 	"subtext1": " • 20’ long, may attack small boats and canoes.",
 	"subtext2": " • Attracted to the scent of blood or heavy movement in the water.",
-	"subtext3": " • Charm strangers that come near. Charmed creatures mindlessly walk into the tree, disappearing forever if not rescued quickly.",
+	"subtext3": " • Swim silently just under the surface to ambush victims.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1459,7 +1755,7 @@
 	"stats": "15 HP, 1 Armor, 17 STR, 8 DEX, bite (d10+d10)",
 	"subtext1": " • 50’ long, extremely rare reptiles found on unexplored fluvial regions.",
 	"subtext2": " • Attracted to the scent of blood or movement in the water.",
-	"subtext3": " • Wander in groups, frequently accompanied by giant spiders.",
+	"subtext3": " • Can easily destroy smaller ships with their crushing bite.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1482,7 +1778,7 @@
 	"stats": "3 HP, 3 Armor, 11 STR, 4 DEX, pincers (d8)",
 	"subtext1": " • Huge crustaceans that live in coastal areas and mindlessly attack anything that comes near.",
 	"subtext2": " • Their heavy carapace makes them notably sturdy but slow and unable to swim.",
-	"subtext3": " • Once in melee combat, it will not stop attacking its victim until dead.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1505,7 +1801,7 @@
 	"stats": "9 HP, 15 WIL, bite (d6)",
 	"subtext1": " • Long, feathered serpents with colorful wings. Live in hot jungles and are considered divine by native people.",
 	"subtext2": " • Highly intelligent and magical, are capable of speaking multiple languages.",
-	"subtext3": " • Critical Damage: The poison paralyzes the victim’s body (d6 DEX damage).",
+	"subtext3": " • Shapechanger: may take the form of beasts and humanoids.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1528,7 +1824,7 @@
 	"stats": "5 HP, 8 STR, 12 DEX, beak (d6)",
 	"subtext1": " • Small, hybrid creatures resembling chickens with reptilian features.",
 	"subtext2": " • Critical damage: the victim gets petrified (d8+d8 DEX damage).",
-	"subtext3": " • Breathes large clouds of steam, clogging visions and damaging all inside for d8 damage.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1551,7 +1847,7 @@
 	"stats": "9 HP, 14 STR, bite (d6+d6+d6, blast)",
 	"subtext1": " • Three-headed flying monstrosities, hybrid of lion, goat, and dragon.",
 	"subtext2": " • The draconic head breaths fire in a cone for d10 damage.",
-	"subtext3": " • Breathes freezing cold for d10 Damage to all in the blast, freezing any liquids and creating an icy surface.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1574,7 +1870,7 @@
 	"stats": "1 HP, 6 STR, 6 WIL, bite (d4)",
 	"subtext1": " • 1’ long centipedes that live in damp, underground places.",
 	"subtext2": " • Critical damage: their deadly poison hinders the target incapacitated for up to 10 days (save STR once a day to recover).",
-	"subtext3": " • Breathe a line of cold dealing d10 damage and potentially paralyzing those caught.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1597,7 +1893,7 @@
 	"stats": "4 HP, 1 Armor, 12 STR, 12 DEX, 13 WIL, spear or short bow (d6)",
 	"subtext1": " • Creatures with the lower body and legs of a horse and the upper body and head of a human.",
 	"subtext2": " • Live in small tribes hidden amidst dense forests with labyrinthic paths.",
-	"subtext3": " • Breathes fire in a cone for d12 damage to all caught in the flames.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1620,7 +1916,7 @@
 	"stats": "2 HP, 6 STR, 12 DEX, bite (d4)",
 	"subtext1": " • Giant, herbivorous crickets that dwell in caves. Easily blend into stone due to their natural coloration.",
 	"subtext2": " • Emmit loud shrieks when threatened, possibly alerting other nearby creatures.",
-	"subtext3": " • Breathes a thick cloud of poisonous gas for d10 damage to all caught.",
+	"subtext3": " • Immune to most types of poison.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1643,7 +1939,7 @@
 	"stats": "7 HP, 13 STR, tail(d8)",
 	"subtext1": " • Monstrous creatures with a long, bony tail, a bloated body, short and stumpy legs, a long neck, and a boar-like head. Dwell in swamps.",
 	"subtext2": " • Critical damage: the tail renders the victim stunned (d8 DEX damage).",
-	"subtext3": " • Breath fire in a massive cone for d10 damage to all caught.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1666,7 +1962,7 @@
 	"stats": "6 HP, 14 STR, 14 DEX, bite (d8)",
 	"subtext1": " • Large, with striped fur. Live in woodlands and colder regions.",
 	"subtext2": " • Hunt alone, using their coloration to camouflage and surprise their victims.",
-	"subtext3": " • Breathes acid in a cone for d10 damage or slowing gas, halving the movement of all affected.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1689,7 +1985,7 @@
 	"stats": "8 HP, STR 15, bite (d10)",
 	"subtext1": " • Huge, aggressive cats with foot-long fangs.",
 	"subtext2": " • Extremely rare, generally found in regions untouched by civilization.",
-	"subtext3": " • Breathes lightning on a line for d10 damage or repulsion gas in a cone, pushing victims away.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1712,7 +2008,7 @@
 	"stats": "4 HP, 14 DEX, bite (d8)",
 	"subtext1": " • Dark furred cats that live on forests and plains.",
 	"subtext2": " • Hunts medium or small-sized animals, using their high speed in their favor.",
-	"subtext3": " • Breathes gas in a cone, targets affected fall asleep or flee in fear.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1735,7 +2031,7 @@
 	"stats": "5 HP, 12 STR, 12 DEX, bite (d10)",
 	"subtext1": " • Hunts in groups called pride. Live in savannahs or other similar drylands.",
 	"subtext2": " • Carnivorous. Prefer to eat bovines but might hunt even humans.",
-	"subtext3": " • Breathes lightning in a long line for d10 damage to all caught.",
+	"subtext3": " • Always chase prey that flees.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1758,7 +2054,7 @@
 	"stats": "3 HP, 15 STR, bite (d6)",
 	"subtext1": " • Beasts of burden native to drylands.",
 	"subtext2": " • Might go weeks without water after being properly sated.",
-	"subtext3": " • Breathes acid in a long line for d10 damage to all caught, corroding wood and cloth.",
+	"subtext3": " • Moves through sand and broken ground without difficulty.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1781,7 +2077,7 @@
 	"stats": "4 HP, 1 Armor, 14 DEX, club (d8, bulky)",
 	"subtext1": " • Large, hairy, goblinoid-like creatures.",
 	"subtext2": " • Use stealth to surprise and attack their victims.",
-	"subtext3": " • difficult to put off the trail.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1804,7 +2100,7 @@
 	"stats": "4 HP, 14 DEX, 12 WIL, scimitar (d6)",
 	"subtext1": " • Outlaw sailors who raid coastal settlements and board other ships.",
 	"subtext2": " • Travel in large ship crews, only fighting in clear advantage, generally numerical.",
-	"subtext3": " • Capable of granting wishes, the result always is distorted based on the wording of the wish.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1827,7 +2123,7 @@
 	"stats": "4 HP, 1 armor, shortsword (d6) or short bow (d6)",
 	"subtext1": " • Outlaws and mercenaries who raid settlements and ambush travelers.",
 	"subtext2": " • Travel in large groups of at least one detachment.",
-	"subtext3": " • Their evil aura frightens anyone who comes into nearby range.",
+	"subtext3": " • For each detachment of regular brigands, there’s one leader who has chainmail (2 armor) and a longsword(d8).",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1850,7 +2146,7 @@
 	"stats": "3 HP, 12 STR, 6 WIL, tusks (d6)",
 	"subtext1": " • Omnivorous wild boars that dwell primarily in forests.",
 	"subtext2": " • Not naturally aggressive, but can be dangerous if disturbed.",
-	"subtext3": " • Occasionally surface to trade with coastal settlements, frequently requesting union between one of them and a human.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1873,7 +2169,7 @@
 	"stats": "3 HP, 14 DEX, bite (d6)",
 	"subtext1": " • Intelligent, fey-like dogs that live in packs.",
 	"subtext2": " • Teleport away in a blink after attacking.",
-	"subtext3": " • Swim silently just under the surface to ambush victims.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1896,7 +2192,7 @@
 	"stats": "10 HP, 5 DEX, devouring touch (d8)",
 	"subtext1": " • Huge, brainless blobs of black jelly driven by unstoppable hunger.",
 	"subtext2": " • Can only be harmed by flames.",
-	"subtext3": " • Can easily destroy smaller ships with their crushing bite.",
+	"subtext3": " • Can move in walls and ceilings and squeeze through small holes.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1919,7 +2215,7 @@
 	"stats": "4 HP, 1 armor, 14 STR, battleaxe (d10, bulky)",
 	"subtext1": " • Tribal fighters who fight recklessly, never taking prisoners.",
 	"subtext2": " • Can enter in battle rage, enhancing all damage dealt and received.",
-	"subtext3": " • Shapechanger: may take the form of beasts and humanoids.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1942,7 +2238,7 @@
 	"stats": "3 HP, 6 STR, 12 DEX, 6 WIL, bite (d6)",
 	"subtext1": " • 4’ long striped beetles with strong mandibles.",
 	"subtext2": " • Eats other smaller creatures but sometimes hunts humans.",
-	"subtext3": " • Immune to most types of poison.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1965,7 +2261,7 @@
 	"stats": "2 HP, 4 STR, 12 DEX, 6 WIL, bite(d4)",
 	"subtext1": " • 3’ long beetles commonly found underground.",
 	"subtext2": " • Emits light through glands located in the abdomens and above the eyes,",
-	"subtext3": " • Always chase prey that flees.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -1988,7 +2284,7 @@
 	"stats": "7 HP, 16 STR, claws (d8)",
 	"subtext1": " • 11’ tall white-furred bears who live in cold regions, eat mostly fish.",
 	"subtext2": " • Excellent at swimming.",
-	"subtext3": " • Moves through sand and broken ground without difficulty.",
+	"subtext3": " • Can move effortlessly through snow and ice.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -2011,7 +2307,7 @@
 	"stats": "6 HP, 15 STR, claws (d8)",
 	"subtext1": " • Aggressive, 9’ tall reddish-brown furred bears who live in mountains. Prefer to eat meat.",
 	"subtext2": " • Frequently are found sleeping.",
-	"subtext3": " • For each detachment of regular brigands, there’s one leader who has chainmail (2 armor) and a longsword(d8).",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -2034,7 +2330,7 @@
 	"stats": "8 HP, 17 STR, claws (d10)",
 	"subtext1": " • Ferocious 15’ tall carnivorous bears who live in caves.",
 	"subtext2": " • Have poor eyesight, but track using smell. Follow tracks of blood.",
-	"subtext3": " • Can move in walls and ceilings and squeeze through small holes.",
+	"subtext3": " • Critical damage: Hug victims for d8 damage.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -2057,7 +2353,7 @@
 	"stats": "5 HP, 14 STR, claws (d6)",
 	"subtext1": " • 6’ tall bears who eat mostly berries and roots.",
 	"subtext2": " • Only attack if cornered or to protect their young.",
-	"subtext3": " • Can move effortlessly through snow and ice.",
+	"subtext3": " • Sometimes raids camps for food.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -2080,7 +2376,7 @@
 	"stats": "3 HP,  8 STR, bite (d8)",
 	"subtext1": " • Big, flying mammals with nocturnal habits that nest in caves.",
 	"subtext2": " • Unaffected by darkness or blinding effects, blinded by magical silence or constant loud noises.",
-	"subtext3": " • Critical damage: Hug victims for d8 damage.",
+	"subtext3": " • Recover 1d4 HP after biting a victim that has blood.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -2103,7 +2399,7 @@
 	"stats": "6 HP, 12 STR, 13 DEX, bite (d10)",
 	"subtext1": " • Long, magical, serpentine lizards that dwell in caverns.",
 	"subtext2": " • Anyone who looks directly at them starts to get petrified.",
-	"subtext3": " • Sometimes raids camps for food.",
+	"subtext3": " • Critical damage: the victim gets petrified (d8+d8 DEX damage).",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -2126,7 +2422,7 @@
 	"stats": "7 HP, 3 Armor, 6 STR, 12 DEX,  14 WIL, ghostly touch(d8)",
 	"subtext1": " • Incorporeal feminine spirits that lingered after death and haunt the living.",
 	"subtext2": " • Unharmed by cold, heat, or the elements.",
-	"subtext3": " • Recover 1d4 HP after biting a victim that has blood.",
+	"subtext3": " • Critical damage: Their wailing freezes the victim’s soul (d8 WIL damage)",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -2149,7 +2445,7 @@
 	"stats": "4 HP, 14 DEX, dagger(d6)",
 	"subtext1": " • Thieves who will value money over anything.",
 	"subtext2": " • Use disguises, stealth, and trickery to surprise victims.",
-	"subtext3": " • Critical damage: the victim gets petrified (d8+d8 DEX damage).",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -2172,7 +2468,7 @@
 	"stats": "5 HP, 14 STR, claws (d6+d6)",
 	"subtext1": " • Albino gorillas with nocturnal habits.",
 	"subtext2": " • Defend their territory with threats and then violence.",
-	"subtext3": " • Critical damage: Their wailing freezes the victim’s soul (d8 WIL damage)",
+	"subtext3": " • Throw rocks at enemies for d6 damage.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -2195,7 +2491,7 @@
 	"stats": "7 HP, 2 Armor, 16 STR, 8 WIL, bite (d8)",
 	"subtext1": " • Huge insectoids with multiple legs and shiny black eyes.",
 	"subtext2": " • Stay burrowed just beneath the surfaces to ambush creatures walking above.",
-	"subtext3": " • Throw rocks at enemies for d6 damage.",
+	"subtext3": " • Squirts acid on distant enemies for d10 damage.",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -2218,7 +2514,7 @@
 	"stats": "4 HP, 1 Armor, 14 WIL, mace (d6), Holy Symbol (Ward once per day)",
 	"subtext1": " • Holy men in a quest for their deity.",
 	"subtext2": " • Normally travel in groups of 4+.",
-	"subtext3": " • Squirts acid on distant enemies for d10 damage.",
+	"subtext3": "",
 	"subtext4": "",
 	"inspiration": "TSR Monsters",
 	"inspiration-url": "",
@@ -3753,7 +4049,7 @@
 	"source-url": "https://vladar4.github.io/itdr/",
 	"license": "",
 	"cost": "$0.00",
-	"author": "vladar4",
+	"author": "vladar",
 	"description": "
 ",
 	"stats": "",
